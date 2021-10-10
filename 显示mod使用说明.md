@@ -43,9 +43,9 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 
 ## 显示效果
 
-![image-20211010022101036](.\显示mod使用说明.assets\image-20211010022101036.png)
+<img src=".\显示mod使用说明.assets\image-20211010022101036.png" alt="image-20211010022101036" style="zoom:150%;" />
 
-![image-20211010023007005](.\显示mod使用说明.assets\image-20211010023007005.png)
+<img src=".\显示mod使用说明.assets\image-20211010023007005.png" alt="image-20211010023007005" style="zoom:150%;" />
 
 
 
@@ -74,11 +74,11 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 
 mod解压到暗黑2重置的目录中
 
-![image-20211003180519869](.\显示mod使用说明.assets\image-20211003180519869.png)
+<img src=".\显示mod使用说明.assets\image-20211003180519869.png" alt="image-20211003180519869" style="zoom:150%;" />
 
 游戏设置中选择额外命令行，加载mod
 
-![image-20211008221018776](.\显示mod使用说明.assets\image-20211008221018776.png)
+<img src=".\显示mod使用说明.assets\image-20211008221018776.png" alt="image-20211008221018776" style="zoom:150%;" />
 
 
 
@@ -122,7 +122,7 @@ mod解压到暗黑2重置的目录中
 
 然后打开任何一个要修改mpq，然后就能看到对应的文件了
 
-![image-20211010211708522](显示mod使用说明.assets/image-20211010211708522.png)
+<img src="显示mod使用说明.assets/image-20211010211708522.png" alt="image-20211010211708522" style="zoom:150%;" />
 
 里面的json使用任何一种编辑器进行编辑即可，但是这里要注意一下，mpq本身编辑以后，是在本地编辑的，不是里面的打包文件被修改了。
 
