@@ -183,3 +183,13 @@ mod解压到暗黑2重置的目录中
 ```
 Data\hd\ui\fonts\
 ```
+
+
+
+## Ref
+
+我的blog文章 
+
+> http://elmagnifico.tech/2021/10/10/diablo2-resurrected-filter/
+>
+> https://d2mods.info/forum/viewtopic.php?t=57429
