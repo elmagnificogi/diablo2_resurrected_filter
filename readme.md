@@ -1,3 +1,17 @@
+# Only For Chinese and Traditional Chinese
+
+The filter only for Chinese and Traditional Chinese, i didn't change it for other language.Maybe you could modify it for you own.
+
+
+
+I know someone write one for English, maybe you could try it.
+
+> https://github.com/AlexisEvo/d2r-loot-filter
+
+More questions just Issue or mail me.
+
+
+
 # 显示mod使用说明
 
 **如果你要用显示比较大的，请用群里的test，那个版本物品都比较大**
