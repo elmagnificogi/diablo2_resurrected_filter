@@ -1278,7 +1278,7 @@
     "id": 1997,
     "Key": "fla",
     "enUS": "Flail",
-    "zhTW": "連枷",
+    "zhTW": "*連枷",
     "deDE": "[ms]Flegel",
     "esES": "[ms]Mangual",
     "frFR": "[ms]Fléau",
@@ -1289,7 +1289,7 @@
     "jaJP": "フレイル",
     "ptBR": "[ms]Mangual",
     "ruRU": "[ms]кистень",
-    "zhCN": "连枷"
+    "zhCN": "*连枷"
   },
   {
     "id": 1998,
@@ -12260,7 +12260,7 @@
     "id": 11010,
     "Key": "7wa",
     "enUS": "Berserker Axe",
-    "zhTW": "狂戰士斧",
+    "zhTW": "*狂戰士斧",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
     "frFR": "[fs]Hache de beserker",
@@ -12271,7 +12271,7 @@
     "jaJP": "バーサーカー・アックス",
     "ptBR": "[ms]Machado do Berserker",
     "ruRU": "Секира берсерка",
-    "zhCN": "狂战士斧"
+    "zhCN": "*狂战士斧"
   },
   {
     "id": 11012,
