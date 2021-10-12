@@ -3471,7 +3471,7 @@
     "id": 2248,
     "Key": "gsb",
     "enUS": "Sapphire",
-    "zhTW": "ÿc8藍寶石",
+    "zhTW": "ÿc1藍寶石",
     "deDE": "Saphir",
     "esES": "Zafiro",
     "frFR": "Saphir",
@@ -3482,13 +3482,13 @@
     "jaJP": "サファイア",
     "ptBR": "Safira",
     "ruRU": "[ms]Сапфир",
-    "zhCN": "ÿc8蓝宝石"
+    "zhCN": "ÿc1蓝宝石"
   },
   {
     "id": 2254,
     "Key": "gsg",
     "enUS": "Emerald",
-    "zhTW": "ÿc8綠寶石",
+    "zhTW": "ÿc1綠寶石",
     "deDE": "Smaragd",
     "esES": "Esmeralda",
     "frFR": "Émeraude",
@@ -3499,13 +3499,13 @@
     "jaJP": "エメラルド",
     "ptBR": "Esmeralda",
     "ruRU": "[ms]Изумруд",
-    "zhCN": "ÿc8绿宝石"
+    "zhCN": "ÿc1绿宝石"
   },
   {
     "id": 2258,
     "Key": "gsr",
     "enUS": "Ruby",
-    "zhTW": "ÿc8紅寶石",
+    "zhTW": "ÿc1紅寶石",
     "deDE": "Rubin",
     "esES": "Rubí",
     "frFR": "Rubis",
@@ -3516,13 +3516,13 @@
     "jaJP": "ルビー",
     "ptBR": "Rubi",
     "ruRU": "[ms]Рубин",
-    "zhCN": "ÿc8红宝石"
+    "zhCN": "ÿc1红宝石"
   },
   {
     "id": 2263,
     "Key": "gsw",
     "enUS": "Diamond",
-    "zhTW": "ÿc8鑽石",
+    "zhTW": "ÿc1鑽石",
     "deDE": "Diamant",
     "esES": "Diamante",
     "frFR": "Diamant",
@@ -3533,7 +3533,7 @@
     "jaJP": "ダイアモンド",
     "ptBR": "Diamante",
     "ruRU": "[ms]Алмаз",
-    "zhCN": "ÿc8钻石"
+    "zhCN": "ÿc1钻石"
   },
   {
     "id": 2282,

@@ -105,7 +105,7 @@
         "id": 10910,
         "Key": "Runeword22",
         "enUS": "Delirium",
-        "zhTW": "ÿc2俗稱娃娃頭，常用於標馬刷牛，戰網肉bo也能用\nÿc4迪勒瑞姆 ÿc5Deliriumÿc8",
+        "zhTW": "ÿc2俗稱娃娃頭，常用於標馬刷牛，戰網肉bo也能用\nÿc4迪勒瑞姆",
         "deDE": "Delirium",
         "esES": "Delirio",
         "frFR": "Délire",
@@ -116,7 +116,7 @@
         "jaJP": "デリリアム",
         "ptBR": "Delírios",
         "ruRU": "Бред",
-        "zhCN": "ÿc2俗称娃娃头，常用于标马刷牛，战网肉bo也能用\nÿc4迪勒瑞姆 ÿc5Deliriumÿc8"
+        "zhCN": "ÿc2俗称娃娃头，常用于标马刷牛，战网肉bo也能用\nÿc4迪勒瑞姆"
     },
     {
         "id": 20440,
@@ -1159,7 +1159,7 @@
         "id": 20507,
         "Key": "Runeword1",
         "enUS": "Ancients' Pledge",
-        "zhTW": "ÿc2開荒常用，A5任務能給一套符文\nÿc4古代人的契約 ÿc5Ancients' Pledgeÿc8",
+        "zhTW": "ÿc2開荒常用，A5任務能給一套符文\nÿc4古代人的契約",
         "deDE": "Schwur der Urahnen",
         "esES": "Promesa de los Antiguos",
         "frFR": "Anathème des Anciens",
@@ -1170,13 +1170,13 @@
         "jaJP": "古の民の誓約",
         "ptBR": "Promessa dos Ancestrais",
         "ruRU": "Клятва Древних",
-        "zhCN": "ÿc2开荒常用，A5任务能给一套符文\nÿc4古代人的契约 ÿc5Ancients' Pledgeÿc8"
+        "zhCN": "ÿc2开荒常用，A5任务能给一套符文\nÿc4古代人的契约"
     },
     {
         "id": 20508,
         "Key": "Runeword2",
         "enUS": "Armageddon",
-        "zhTW": "ÿc4毀天滅地 ÿc5Armageddonÿc8",
+        "zhTW": "ÿc4毀天滅地",
         "deDE": "Armageddon",
         "esES": "Armagedón",
         "frFR": "Armageddon",
@@ -1187,13 +1187,13 @@
         "jaJP": "天変地異",
         "ptBR": "Armagedom",
         "ruRU": "Армагеддон",
-        "zhCN": "ÿc4毁天灭地 ÿc5Armageddonÿc8"
+        "zhCN": "ÿc4毁天灭地"
     },
     {
         "id": 20509,
         "Key": "Runeword3",
         "enUS": "Authority",
-        "zhTW": "ÿc4權威 ÿc5Authorityÿc8",
+        "zhTW": "ÿc4權威",
         "deDE": "Macht",
         "esES": "Autoridad",
         "frFR": "Autorité",
@@ -1204,13 +1204,13 @@
         "jaJP": "権威",
         "ptBR": "Autoridade",
         "ruRU": "Власть",
-        "zhCN": "ÿc4权威 ÿc5Authorityÿc8"
+        "zhCN": "ÿc4权威"
     },
     {
         "id": 20510,
         "Key": "Runeword4",
         "enUS": "Beast",
-        "zhTW": "ÿc1[MAX:270ED/40STR]\nÿc2狂熱光環，純招及武學刺常用\nÿc4野獸 ÿc5Beastÿc8",
+        "zhTW": "ÿc1[MAX:270ED/40STR]\nÿc2狂熱光環，純招及武學刺常用\nÿc4野獸",
         "deDE": "Bestie",
         "esES": "Bestia",
         "frFR": "Bête",
@@ -1221,13 +1221,13 @@
         "jaJP": "獣",
         "ptBR": "Fera",
         "ruRU": "Зверь",
-        "zhCN": "ÿc1[MAX:270ED/40STR]\nÿc2狂热光环，纯招及武学刺常用\nÿc4野兽 ÿc5Beastÿc8"
+        "zhCN": "ÿc1[MAX:270ED/40STR]\nÿc2狂热光环，纯招及武学刺常用\nÿc4野兽"
     },
     {
         "id": 20511,
         "Key": "Runeword5",
         "enUS": "Beauty",
-        "zhTW": "ÿc4美貌 ÿc5Beautyÿc8",
+        "zhTW": "ÿc4美貌",
         "deDE": "Schönheit",
         "esES": "Belleza",
         "frFR": "Beauté",
@@ -1238,13 +1238,13 @@
         "jaJP": "美",
         "ptBR": "Beleza",
         "ruRU": "Красота",
-        "zhCN": "ÿc4美貌 ÿc5Beautyÿc8"
+        "zhCN": "ÿc4美貌"
     },
     {
         "id": 20512,
         "Key": "Runeword6",
         "enUS": "Black",
-        "zhTW": "ÿc2Kboss物美價廉\nÿc4黑色 ÿc5Blackÿc8",
+        "zhTW": "ÿc2Kboss物美價廉\nÿc4黑色",
         "deDE": "Schwärze",
         "esES": "Negrura",
         "frFR": "Noir",
@@ -1255,13 +1255,13 @@
         "jaJP": "黒",
         "ptBR": "Ébano",
         "ruRU": "Мрак",
-        "zhCN": "ÿc2Kboss物美价廉\nÿc4黑色 ÿc5Blackÿc8"
+        "zhCN": "ÿc2Kboss物美价廉\nÿc4黑色"
     },
     {
         "id": 20513,
         "Key": "Runeword7",
         "enUS": "Blood",
-        "zhTW": "ÿc4血腥 ÿc5Bloodÿc8",
+        "zhTW": "ÿc4血腥",
         "deDE": "Blut",
         "esES": "Sangre",
         "frFR": "Sang",
@@ -1272,13 +1272,13 @@
         "jaJP": "血",
         "ptBR": "Sangue",
         "ruRU": "Кровь",
-        "zhCN": "ÿc4血腥 ÿc5Bloodÿc8"
+        "zhCN": "ÿc4血腥"
     },
     {
         "id": 20514,
         "Key": "Runeword8",
         "enUS": "Bone",
-        "zhTW": "ÿc1[MAX:150法力]\nÿc4白骨 ÿc5Boneÿc8",
+        "zhTW": "ÿc1[MAX:150法力]\nÿc4白骨",
         "deDE": "Knochen",
         "esES": "Hueso",
         "frFR": "Os",
@@ -1289,13 +1289,13 @@
         "jaJP": "骨",
         "ptBR": "Osso",
         "ruRU": "Кость",
-        "zhCN": "ÿc1[MAX:150法力]\nÿc4白骨 ÿc5Boneÿc8"
+        "zhCN": "ÿc1[MAX:150法力]\nÿc4白骨"
     },
     {
         "id": 20515,
         "Key": "Runeword9",
         "enUS": "Bramble",
-        "zhTW": "ÿc1[MAX:21荊棘/50PD]\nÿc2不如tp甲有用，土豪玩物\nÿc4野薔薇 ÿc5Brambleÿc8",
+        "zhTW": "ÿc1[MAX:21荊棘/50PD]\nÿc2不如tp甲有用，土豪玩物\nÿc4野薔薇",
         "deDE": "Dornen",
         "esES": "Zarza",
         "frFR": "Barbelé",
@@ -1306,13 +1306,13 @@
         "jaJP": "茨",
         "ptBR": "Espinho",
         "ruRU": "Терновник",
-        "zhCN": "ÿc1[MAX:21荊棘/50PD]\nÿc2不如tp甲有用，土豪玩物\nÿc4野蔷薇 ÿc5Brambleÿc8"
+        "zhCN": "ÿc1[MAX:21荊棘/50PD]\nÿc2不如tp甲有用，土豪玩物\nÿc4野蔷薇"
     },
     {
         "id": 20516,
         "Key": "Runeword10",
         "enUS": "Brand",
-        "zhTW": "ÿc1[MAX:340ED/330惡魔傷害]\nÿc4烙印 ÿc5Brandÿc8",
+        "zhTW": "ÿc1[MAX:340ED/330惡魔傷害]\nÿc4烙印",
         "deDE": "Brand",
         "esES": "Tizón",
         "frFR": "Balafre",
@@ -1323,13 +1323,13 @@
         "jaJP": "烙印",
         "ptBR": "Marca",
         "ruRU": "Тавро",
-        "zhCN": "ÿc1[MAX:340ED/330恶魔伤害]\nÿc4烙印 ÿc5Brandÿc8"
+        "zhCN": "ÿc1[MAX:340ED/330恶魔伤害]\nÿc4烙印"
     },
     {
         "id": 20517,
         "Key": "Runeword11",
         "enUS": "Breath of the Dying",
-        "zhTW": "ÿc1[MAX:400ED/15LL]\nÿc2冷兵器之王，打錢蠻子米山用\nÿc4死亡呼吸 ÿc5Breath of the Dyingÿc8",
+        "zhTW": "ÿc1[MAX:400ED/15LL]\nÿc2冷兵器之王，打錢蠻子米山用\nÿc4死亡呼吸",
         "deDE": "Odem der Sterbenden",
         "esES": "Aliento de los muertos",
         "frFR": "Souffle des mourants",
@@ -1340,13 +1340,13 @@
         "jaJP": "死の吐息",
         "ptBR": "Sopro da Morbidez",
         "ruRU": "Вздох умирающего",
-        "zhCN": "ÿc1[MAX:400ED/15LL]\nÿc2冷兵器之王，打钱蛮子米山用\nÿc4死亡呼吸 ÿc5Breath of the Dyingÿc8"
+        "zhCN": "ÿc1[MAX:400ED/15LL]\nÿc2冷兵器之王，打钱蛮子米山用\nÿc4死亡呼吸"
     },
     {
         "id": 20518,
         "Key": "Runeword12",
         "enUS": "Broken Promise",
-        "zhTW": "ÿc4破碎的誓言 ÿc5Broken Promiseÿc8",
+        "zhTW": "ÿc4破碎的誓言",
         "deDE": "Gebrochenes Versprechen",
         "esES": "Promesa rota",
         "frFR": "Promesse rompue",
@@ -1357,13 +1357,13 @@
         "jaJP": "背約",
         "ptBR": "Promessa Quebrada",
         "ruRU": "Нарушенный обет",
-        "zhCN": "ÿc4破碎的誓言 ÿc5Broken Promiseÿc8"
+        "zhCN": "ÿc4破碎的誓言"
     },
     {
         "id": 20519,
         "Key": "Runeword13",
         "enUS": "Call to Arms",
-        "zhTW": "ÿc1[MAX:290ED/6/6/4]\nÿc4戰爭召喚 ÿc5Call to Armsÿc8",
+        "zhTW": "ÿc1[MAX:290ED/6/6/4]\nÿc4戰爭召喚",
         "deDE": "Ruf zu den Waffen",
         "esES": "Llamada a las armas",
         "frFR": "Cri de ralliement",
@@ -1374,13 +1374,13 @@
         "jaJP": "召集",
         "ptBR": "Chamado às Armas",
         "ruRU": "Призыв к оружию",
-        "zhCN": "ÿc1[MAX:290ED/6/6/4]\nÿc4战争召唤 ÿc5Call to Armsÿc8"
+        "zhCN": "ÿc1[MAX:290ED/6/6/4]\nÿc4战争召唤"
     },
     {
         "id": 20520,
         "Key": "Runeword14",
         "enUS": "Chains of Honor",
-        "zhTW": "ÿc2土豪玩物，實際用途不大了，元素弓用用？\nÿc4榮耀之鏈 ÿc5Chains of Honorÿc8",
+        "zhTW": "ÿc2土豪玩物，實際用途不大了，元素弓用用？\nÿc4榮耀之鏈",
         "deDE": "Ketten der Ehre",
         "esES": "Cadenas de honor",
         "frFR": "Chaînes de l’honneur",
@@ -1391,13 +1391,13 @@
         "jaJP": "名誉の連鎖",
         "ptBR": "Correntes da Honra",
         "ruRU": "Цепи чести",
-        "zhCN": "ÿc2土豪玩物，实际用途不大了，元素弓用用？\nÿc4荣耀之链 ÿc5Chains of Honorÿc8"
+        "zhCN": "ÿc2土豪玩物，实际用途不大了，元素弓用用？\nÿc4荣耀之链"
     },
     {
         "id": 20521,
         "Key": "Runeword15",
         "enUS": "Chance",
-        "zhTW": "ÿc4機會 ÿc5Chanceÿc8",
+        "zhTW": "ÿc4機會",
         "deDE": "Zufall",
         "esES": "Casualidad",
         "frFR": "Chance",
@@ -1408,13 +1408,13 @@
         "jaJP": "好機",
         "ptBR": "Chance",
         "ruRU": "Шанс",
-        "zhCN": "ÿc4机会 ÿc5Chanceÿc8"
+        "zhCN": "ÿc4机会"
     },
     {
         "id": 20522,
         "Key": "Runeword16",
         "enUS": "Chaos",
-        "zhTW": "ÿc1[MAX:340ED]\nÿc2武藝超羣\nÿc4混沌 ÿc5Chaosÿc8",
+        "zhTW": "ÿc1[MAX:340ED]\nÿc2武藝超羣\nÿc4混沌",
         "deDE": "Chaos",
         "esES": "Caos",
         "frFR": "Chaos",
@@ -1425,13 +1425,13 @@
         "jaJP": "混沌",
         "ptBR": "Caos",
         "ruRU": "Хаос",
-        "zhCN": "ÿc1[MAX:340ED]\nÿc2武艺超群\nÿc4混沌 ÿc5Chaosÿc8"
+        "zhCN": "ÿc1[MAX:340ED]\nÿc2武艺超群\nÿc4混沌"
     },
     {
         "id": 20523,
         "Key": "Runeword17",
         "enUS": "Crescent Moon",
-        "zhTW": "ÿc1[MAX:220ED/11魔法吸收]\nÿc2電法常用，對高電抗怪物效果明顯\nÿc4新月 ÿc5Crescent Moonÿc8",
+        "zhTW": "ÿc1[MAX:220ED/11魔法吸收]\nÿc2電法常用，對高電抗怪物效果明顯\nÿc4新月",
         "deDE": "Mondsichel",
         "esES": "Luna creciente",
         "frFR": "Croissant de lune",
@@ -1442,13 +1442,13 @@
         "jaJP": "三日月",
         "ptBR": "Lua Crescente",
         "ruRU": "Полумесяц",
-        "zhCN": "ÿc1[MAX:220ED/11魔法吸收]\nÿc2电法常用，对高电抗怪物效果明显\nÿc4新月 ÿc5Crescent Moonÿc8"
+        "zhCN": "ÿc1[MAX:220ED/11魔法吸收]\nÿc2电法常用，对高电抗怪物效果明显\nÿc4新月"
     },
     {
         "id": 20524,
         "Key": "Runeword18",
         "enUS": "Darkness",
-        "zhTW": "ÿc4黑暗 ÿc5Darknessÿc8",
+        "zhTW": "ÿc4黑暗",
         "deDE": "Dunkelheit",
         "esES": "Oscuridad",
         "frFR": "Ténèbres",
@@ -1459,13 +1459,13 @@
         "jaJP": "暗闇",
         "ptBR": "Escuridão",
         "ruRU": "Тьма",
-        "zhCN": "ÿc4黑暗 ÿc5Darknessÿc8"
+        "zhCN": "ÿc4黑暗"
     },
     {
         "id": 20525,
         "Key": "Runeword19",
         "enUS": "Daylight",
-        "zhTW": "ÿc4白晝 ÿc5Daylightÿc8",
+        "zhTW": "ÿc4白晝",
         "deDE": "Tageslicht",
         "esES": "Luz",
         "frFR": "Divine lumière",
@@ -1476,13 +1476,13 @@
         "jaJP": "夜明け",
         "ptBR": "Luz do Dia",
         "ruRU": "Ясный день",
-        "zhCN": "ÿc4白昼 ÿc5Daylightÿc8"
+        "zhCN": "ÿc4白昼"
     },
     {
         "id": 20526,
         "Key": "Runeword20",
         "enUS": "Death",
-        "zhTW": "ÿc1[MAX:385ED]\nÿc2與年紀哥倆好\nÿc4死神 ÿc5Deathÿc8",
+        "zhTW": "ÿc1[MAX:385ED]\nÿc2與年紀哥倆好\nÿc4死神",
         "deDE": "Tod",
         "esES": "Muerte",
         "frFR": "Décès",
@@ -1493,13 +1493,13 @@
         "jaJP": "死",
         "ptBR": "Morte",
         "ruRU": "Смерть",
-        "zhCN": "ÿc1[MAX:385ED]\nÿc2与年纪哥俩好\nÿc4死神 ÿc5Deathÿc8"
+        "zhCN": "ÿc1[MAX:385ED]\nÿc2与年纪哥俩好\nÿc4死神"
     },
     {
         "id": 20527,
         "Key": "Runeword21",
         "enUS": "Deception",
-        "zhTW": "ÿc4欺瞞 ÿc5Deceptionÿc8",
+        "zhTW": "ÿc4欺瞞",
         "deDE": "Täuschung",
         "esES": "Engaño",
         "frFR": "Duperie",
@@ -1510,13 +1510,13 @@
         "jaJP": "欺瞞",
         "ptBR": "Engano",
         "ruRU": "Обман",
-        "zhCN": "ÿc4欺瞒 ÿc5Deceptionÿc8"
+        "zhCN": "ÿc4欺瞒"
     },
     {
         "id": 20529,
         "Key": "Runeword23",
         "enUS": "Desire",
-        "zhTW": "ÿc4渴望 ÿc5Desireÿc8",
+        "zhTW": "ÿc4渴望",
         "deDE": "Begierde",
         "esES": "Deseo",
         "frFR": "Désir",
@@ -1527,13 +1527,13 @@
         "jaJP": "欲望",
         "ptBR": "Desejo",
         "ruRU": "Желание",
-        "zhCN": "ÿc4渴望 ÿc5Desireÿc8"
+        "zhCN": "ÿc4渴望"
     },
     {
         "id": 20530,
         "Key": "Runeword24",
         "enUS": "Despair",
-        "zhTW": "ÿc4失望 ÿc5Despairÿc8",
+        "zhTW": "ÿc4失望",
         "deDE": "Verzweiflung",
         "esES": "Desesperación",
         "frFR": "Désespoir",
@@ -1544,13 +1544,13 @@
         "jaJP": "絶望",
         "ptBR": "Desespero",
         "ruRU": "Отчаяние",
-        "zhCN": "ÿc4失望 ÿc5Despairÿc8"
+        "zhCN": "ÿc4失望"
     },
     {
         "id": 20531,
         "Key": "Runeword25",
         "enUS": "Destruction",
-        "zhTW": "ÿc4毀滅 ÿc5Destructionÿc8",
+        "zhTW": "ÿc4毀滅",
         "deDE": "Zerstörung",
         "esES": "Destrucción",
         "frFR": "Destruction",
@@ -1561,13 +1561,13 @@
         "jaJP": "破壊",
         "ptBR": "Destruição",
         "ruRU": "Разрушение",
-        "zhCN": "ÿc4毁灭 ÿc5Destructionÿc8"
+        "zhCN": "ÿc4毁灭"
     },
     {
         "id": 20532,
         "Key": "Runeword26",
         "enUS": "Doom",
-        "zhTW": "ÿc1[MAX:370ED/-60CR]\nÿc2風德常用\nÿc4末日 ÿc5Doomÿc8",
+        "zhTW": "ÿc1[MAX:370ED/-60CR]\nÿc2風德常用\nÿc4末日",
         "deDE": "Verdammnis",
         "esES": "Fatalidad",
         "frFR": "Dévastation",
@@ -1578,13 +1578,13 @@
         "jaJP": "破滅",
         "ptBR": "Perdição",
         "ruRU": "Гибель",
-        "zhCN": "ÿc1[MAX:370ED/-60CR]\nÿc2风德常用\nÿc4末日 ÿc5Doomÿc8"
+        "zhCN": "ÿc1[MAX:370ED/-60CR]\nÿc2风德常用\nÿc4末日"
     },
     {
         "id": 20533,
         "Key": "Runeword27",
         "enUS": "Dragon",
-        "zhTW": "ÿc1[MAX:5屬性]\nÿc4飛龍 ÿc5Dragonÿc8",
+        "zhTW": "ÿc1[MAX:5屬性]\nÿc4飛龍",
         "deDE": "Drachen",
         "esES": "Dragón",
         "frFR": "Dragon",
@@ -1595,13 +1595,13 @@
         "jaJP": "ドラゴン",
         "ptBR": "Dragão",
         "ruRU": "Дракон",
-        "zhCN": "ÿc1[MAX:5属性]\nÿc4飞龙 ÿc5Dragonÿc8"
+        "zhCN": "ÿc1[MAX:5属性]\nÿc4飞龙"
     },
     {
         "id": 20534,
         "Key": "Runeword28",
         "enUS": "Dread",
-        "zhTW": "ÿc4恐懼 ÿc5Dreadÿc8",
+        "zhTW": "ÿc4恐懼",
         "deDE": "Schrecken",
         "esES": "Pavor",
         "frFR": "Défiance",
@@ -1612,13 +1612,13 @@
         "jaJP": "戦慄",
         "ptBR": "Pavor",
         "ruRU": "Ужас",
-        "zhCN": "ÿc4恐惧 ÿc5Dreadÿc8"
+        "zhCN": "ÿc4恐惧"
     },
     {
         "id": 20535,
         "Key": "Runeword29",
         "enUS": "Dream",
-        "zhTW": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc2雙夢法師和聖騎必備，目前bug已取消\nÿc4夢境 ÿc5Dreamÿc8",
+        "zhTW": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc2雙夢法師和聖騎必備，目前bug已取消\nÿc4夢境",
         "deDE": "Traum",
         "esES": "Sueño",
         "frFR": "Rêve",
@@ -1629,13 +1629,13 @@
         "jaJP": "夢",
         "ptBR": "Sonho",
         "ruRU": "Видение",
-        "zhCN": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc2双梦法师和圣骑必备，目前bug已取消\nÿc4梦境 ÿc5Dreamÿc8"
+        "zhCN": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc2双梦法师和圣骑必备，目前bug已取消\nÿc4梦境"
     },
     {
         "id": 20536,
         "Key": "Runeword30",
         "enUS": "Duress",
-        "zhTW": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc2Kboss常用，窮人米山可穿它\nÿc4強制 ÿc5Duressÿc8",
+        "zhTW": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc2Kboss常用，窮人米山可穿它\nÿc4強制",
         "deDE": "Nötigung",
         "esES": "Coacción",
         "frFR": "Domination",
@@ -1646,13 +1646,13 @@
         "jaJP": "威圧",
         "ptBR": "Coerção",
         "ruRU": "Принуждение",
-        "zhCN": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc2Kboss常用，穷人米山可穿它\nÿc4强制 ÿc5Duressÿc8"
+        "zhCN": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc2Kboss常用，穷人米山可穿它\nÿc4强制"
     },
     {
         "id": 20537,
         "Key": "Runeword31",
         "enUS": "Edge",
-        "zhTW": "ÿc1[MAX:380惡魔傷害/10屬性]\nÿc2俗稱賭博弓，賭博常用\nÿc4邊緣 ÿc5Edgeÿc8",
+        "zhTW": "ÿc1[MAX:380惡魔傷害/10屬性]\nÿc2俗稱賭博弓，賭博常用\nÿc4邊緣",
         "deDE": "Schneide",
         "esES": "Filo",
         "frFR": "Arête",
@@ -1663,13 +1663,13 @@
         "jaJP": "刃",
         "ptBR": "Gume",
         "ruRU": "Острие",
-        "zhCN": "ÿc1[MAX:380恶魔伤害/10属性]\nÿc2俗称赌博弓，赌博常用\nÿc4边缘 ÿc5Edgeÿc8"
+        "zhCN": "ÿc1[MAX:380恶魔伤害/10属性]\nÿc2俗称赌博弓，赌博常用\nÿc4边缘"
     },
     {
         "id": 20538,
         "Key": "Runeword32",
         "enUS": "Elation",
-        "zhTW": "ÿc4興高彩烈 ÿc5Elationÿc8",
+        "zhTW": "ÿc4興高彩烈",
         "deDE": "Erregung",
         "esES": "Júbilo",
         "frFR": "Effusion",
@@ -1680,13 +1680,13 @@
         "jaJP": "高揚",
         "ptBR": "Euforia",
         "ruRU": "Воодушевление",
-        "zhCN": "ÿc4兴高彩烈 ÿc5Elationÿc8"
+        "zhCN": "ÿc4兴高彩烈"
     },
     {
         "id": 20539,
         "Key": "Runeword33",
         "enUS": "Enigma",
-        "zhTW": "ÿc1[MAX:775DEF]\nÿc2脫貧甲，與無限一起成爲土豪標誌（新人版）\nÿc4謎團 ÿc5Enigmaÿc8",
+        "zhTW": "ÿc1[MAX:775DEF]\nÿc2脫貧甲，與無限一起成爲土豪標誌（新人版）\nÿc4謎團",
         "deDE": "Rätsel",
         "esES": "Enigma",
         "frFR": "Énigme",
@@ -1697,13 +1697,13 @@
         "jaJP": "不知",
         "ptBR": "Enigma",
         "ruRU": "Тайна",
-        "zhCN": "ÿc1[MAX:775DEF]\nÿc2脱贫甲，与无限一起成为土豪标志（新人版）\nÿc4谜团 ÿc5Enigmaÿc8"
+        "zhCN": "ÿc1[MAX:775DEF]\nÿc2脱贫甲，与无限一起成为土豪标志（新人版）\nÿc4谜团"
     },
     {
         "id": 20540,
         "Key": "Runeword34",
         "enUS": "Enlightenment",
-        "zhTW": "ÿc4教化 ÿc5Enlightenmentÿc8",
+        "zhTW": "ÿc4教化",
         "deDE": "Erleuchtung",
         "esES": "Ilustración",
         "frFR": "Éclaircissement",
@@ -1714,13 +1714,13 @@
         "jaJP": "悟り",
         "ptBR": "Iluminação",
         "ruRU": "Просветление",
-        "zhCN": "ÿc4教化 ÿc5Enlightenmentÿc8"
+        "zhCN": "ÿc4教化"
     },
     {
         "id": 20541,
         "Key": "Runeword35",
         "enUS": "Envy",
-        "zhTW": "ÿc4羨慕 ÿc5Envyÿc8",
+        "zhTW": "ÿc4羨慕",
         "deDE": "Neid",
         "esES": "Envidia",
         "frFR": "Envie",
@@ -1731,13 +1731,13 @@
         "jaJP": "羨望",
         "ptBR": "Inveja",
         "ruRU": "Зависть",
-        "zhCN": "ÿc4羡慕 ÿc5Envyÿc8"
+        "zhCN": "ÿc4羡慕"
     },
     {
         "id": 20542,
         "Key": "Runeword36",
         "enUS": "Eternity",
-        "zhTW": "ÿc1[MAX:310ED]\nÿc4永恆 ÿc5Eternityÿc8",
+        "zhTW": "ÿc1[MAX:310ED]\nÿc4永恆",
         "deDE": "Ewigkeit",
         "esES": "Eternidad",
         "frFR": "Éternité",
@@ -1748,13 +1748,13 @@
         "jaJP": "永遠",
         "ptBR": "Eternidade",
         "ruRU": "Вечность",
-        "zhCN": "ÿc1[MAX:310ED]\nÿc4永恒 ÿc5Eternityÿc8"
+        "zhCN": "ÿc1[MAX:310ED]\nÿc4永恒"
     },
     {
         "id": 20543,
         "Key": "Runeword37",
         "enUS": "Exile",
-        "zhTW": "ÿc1[MAX:16反抗/260ED]\nÿc2PK或者K6盾擊最常用，PVC不如飾金盾\nÿc4流亡 ÿc5Exileÿc8",
+        "zhTW": "ÿc1[MAX:16反抗/260ED]\nÿc2PK或者K6盾擊最常用，PVC不如飾金盾\nÿc4流亡",
         "deDE": "Exil",
         "esES": "Exilio",
         "frFR": "Exil",
@@ -1765,13 +1765,13 @@
         "jaJP": "追放",
         "ptBR": "Exílio",
         "ruRU": "Изгнание",
-        "zhCN": "ÿc1[MAX:16反抗/260ED]\nÿc2PK或者K6盾击最常用，PVC不如饰金盾\nÿc4流亡 ÿc5Exileÿc8"
+        "zhCN": "ÿc1[MAX:16反抗/260ED]\nÿc2PK或者K6盾击最常用，PVC不如饰金盾\nÿc4流亡"
     },
     {
         "id": 20544,
         "Key": "Runeword38",
         "enUS": "Faith",
-        "zhTW": "ÿc1[MAX:15狂熱/2Skill]\nÿc2弓馬進階必備，可手抓也可給京子\nÿc4信心 ÿc5Faithÿc8",
+        "zhTW": "ÿc1[MAX:15狂熱/2Skill]\nÿc2弓馬進階必備，可手抓也可給京子\nÿc4信心",
         "deDE": "Glaube",
         "esES": "Fe",
         "frFR": "Foi",
@@ -1782,13 +1782,13 @@
         "jaJP": "信念",
         "ptBR": "Fé",
         "ruRU": "Вера",
-        "zhCN": "ÿc1[MAX:15狂热/2Skill]\nÿc2弓马进阶必备，可手抓也可给京子\nÿc4信心 ÿc5Faithÿc8"
+        "zhCN": "ÿc1[MAX:15狂热/2Skill]\nÿc2弓马进阶必备，可手抓也可给京子\nÿc4信心"
     },
     {
         "id": 20545,
         "Key": "Runeword39",
         "enUS": "Famine",
-        "zhTW": "ÿc1[MAX:370ED]\nÿc4饑荒 ÿc5Famineÿc8",
+        "zhTW": "ÿc1[MAX:370ED]\nÿc4饑荒",
         "deDE": "Hungersnot",
         "esES": "Hambruna",
         "frFR": "Famine",
@@ -1799,13 +1799,13 @@
         "jaJP": "飢饉",
         "ptBR": "Penúria",
         "ruRU": "Голод",
-        "zhCN": "ÿc1[MAX:370ED]\nÿc4饥荒 ÿc5Famineÿc8"
+        "zhCN": "ÿc1[MAX:370ED]\nÿc4饥荒"
     },
     {
         "id": 20546,
         "Key": "Runeword40",
         "enUS": "Flickering Flame",
-        "zhTW": "ÿc4火焰Flame ÿc5Flickering Flameÿc8",
+        "zhTW": "ÿc4火焰Flame",
         "deDE": "Flamme",
         "esES": "Llama trémula",
         "frFR": "Flamme vacillante",
@@ -1816,13 +1816,13 @@
         "jaJP": "揺らめく炎",
         "ptBR": "Chama Tremeluzente",
         "ruRU": "Мерцающее пламя",
-        "zhCN": "ÿc4火焰Flame ÿc5Flickering Flameÿc8"
+        "zhCN": "ÿc4火焰Flame"
     },
     {
         "id": 20547,
         "Key": "Runeword41",
         "enUS": "Fortitude",
-        "zhTW": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc2物理系第一甲，別忘了它還混武器界\nÿc4剛毅 ÿc5Fortitudeÿc8",
+        "zhTW": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc2物理系第一甲，別忘了它還混武器界\nÿc4剛毅",
         "deDE": "Stärke",
         "esES": "Fortaleza",
         "frFR": "Fortitude",
@@ -1833,13 +1833,13 @@
         "jaJP": "不屈",
         "ptBR": "Fortitude",
         "ruRU": "Сила духа",
-        "zhCN": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc2物理系第一甲，别忘了它还混武器界\nÿc4刚毅 ÿc5Fortitudeÿc8"
+        "zhCN": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc2物理系第一甲，别忘了它还混武器界\nÿc4刚毅"
     },
     {
         "id": 20548,
         "Key": "Runeword42",
         "enUS": "Fortune",
-        "zhTW": "ÿc4幸運 ÿc5Fortuneÿc8",
+        "zhTW": "ÿc4幸運",
         "deDE": "Glück",
         "esES": "Fortuna",
         "frFR": "Fortune",
@@ -1850,13 +1850,13 @@
         "jaJP": "幸運",
         "ptBR": "Fortuna",
         "ruRU": "Удача",
-        "zhCN": "ÿc4幸运 ÿc5Fortuneÿc8"
+        "zhCN": "ÿc4幸运"
     },
     {
         "id": 20549,
         "Key": "Runeword43",
         "enUS": "Friendship",
-        "zhTW": "ÿc4友情 ÿc5Friendshipÿc8",
+        "zhTW": "ÿc4友情",
         "deDE": "Freundschaft",
         "esES": "Amistad",
         "frFR": "Fraternité",
@@ -1867,13 +1867,13 @@
         "jaJP": "友情",
         "ptBR": "Amizade",
         "ruRU": "Дружба",
-        "zhCN": "ÿc4友情 ÿc5Friendshipÿc8"
+        "zhCN": "ÿc4友情"
     },
     {
         "id": 20550,
         "Key": "Runeword44",
         "enUS": "Fury",
-        "zhTW": "ÿc4狂怒 ÿc5Furyÿc8",
+        "zhTW": "ÿc4狂怒",
         "deDE": "Wut",
         "esES": "Furia",
         "frFR": "Fureur",
@@ -1884,13 +1884,13 @@
         "jaJP": "激情",
         "ptBR": "Fúria",
         "ruRU": "Ярость",
-        "zhCN": "ÿc4狂怒 ÿc5Furyÿc8"
+        "zhCN": "ÿc4狂怒"
     },
     {
         "id": 20551,
         "Key": "Runeword45",
         "enUS": "Gloom",
-        "zhTW": "ÿc1[MAX:260ED]\nÿc4幽暗 ÿc5Gloomÿc8",
+        "zhTW": "ÿc1[MAX:260ED]\nÿc4幽暗",
         "deDE": "Düsternis",
         "esES": "Melancolía",
         "frFR": "Funérailles",
@@ -1901,13 +1901,13 @@
         "jaJP": "陰鬱",
         "ptBR": "Melancolia",
         "ruRU": "Сумрак",
-        "zhCN": "ÿc1[MAX:260ED]\nÿc4幽暗 ÿc5Gloomÿc8"
+        "zhCN": "ÿc1[MAX:260ED]\nÿc4幽暗"
     },
     {
         "id": 20552,
         "Key": "Runeword46",
         "enUS": "Glory",
-        "zhTW": "ÿc4榮譽 ÿc5Gloryÿc8",
+        "zhTW": "ÿc4榮譽",
         "deDE": "Ruhm",
         "esES": "Gloria",
         "frFR": "Gloire",
@@ -1918,13 +1918,13 @@
         "jaJP": "栄光",
         "ptBR": "Glória",
         "ruRU": "Слава",
-        "zhCN": "ÿc4荣誉 ÿc5Gloryÿc8"
+        "zhCN": "ÿc4荣誉"
     },
     {
         "id": 20553,
         "Key": "Runeword47",
         "enUS": "Grief",
-        "zhTW": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc2單手武器之王，別以爲它的ias不重要，中衰老試試？\nÿc4悔恨 ÿc5Griefÿc8",
+        "zhTW": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc2單手武器之王，別以爲它的ias不重要，中衰老試試？\nÿc4悔恨",
         "deDE": "Trauer",
         "esES": "Dolor",
         "frFR": "Grand chagrin",
@@ -1935,13 +1935,13 @@
         "jaJP": "嘆き",
         "ptBR": "Luto",
         "ruRU": "Печаль",
-        "zhCN": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc2单手武器之王，别以为它的ias不重要，中衰老试试？\nÿc4悔恨 ÿc5Griefÿc8"
+        "zhCN": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc2单手武器之王，别以为它的ias不重要，中衰老试试？\nÿc4悔恨"
     },
     {
         "id": 20554,
         "Key": "Runeword48",
         "enUS": "Hand of Justice",
-        "zhTW": "ÿc1[MAX:330ED]\nÿc4正義之手 ÿc5Hand of Justiceÿc8",
+        "zhTW": "ÿc1[MAX:330ED]\nÿc4正義之手",
         "deDE": "Hand der Gerechtigkeit",
         "esES": "Mano justiciera",
         "frFR": "Glaive de la justice",
@@ -1952,13 +1952,13 @@
         "jaJP": "正義の手",
         "ptBR": "Mão da Justiça",
         "ruRU": "Длань правосудия",
-        "zhCN": "ÿc1[MAX:330ED]\nÿc4正义之手 ÿc5Hand of Justiceÿc8"
+        "zhCN": "ÿc1[MAX:330ED]\nÿc4正义之手"
     },
     {
         "id": 20555,
         "Key": "Runeword49",
         "enUS": "Harmony",
-        "zhTW": "ÿc1[MAX:275ED/6女武神]\nÿc2跑步弓，多用於副手\nÿc4和諧 ÿc5Harmonyÿc8",
+        "zhTW": "ÿc1[MAX:275ED/6女武神]\nÿc2跑步弓，多用於副手\nÿc4和諧",
         "deDE": "Harmonie",
         "esES": "Armonía",
         "frFR": "Harmonie",
@@ -1969,13 +1969,13 @@
         "jaJP": "調和",
         "ptBR": "Harmonia",
         "ruRU": "Гармония",
-        "zhCN": "ÿc1[MAX:275ED/6女武神]\nÿc2跑步弓，多用于副手\nÿc4和谐 ÿc5Harmonyÿc8"
+        "zhCN": "ÿc1[MAX:275ED/6女武神]\nÿc2跑步弓，多用于副手\nÿc4和谐"
     },
     {
         "id": 20556,
         "Key": "Runeword50",
         "enUS": "Hatred",
-        "zhTW": "ÿc4憎恨 ÿc5Hatredÿc8",
+        "zhTW": "ÿc4憎恨",
         "deDE": "Hass",
         "esES": "Odio",
         "frFR": "Haine",
@@ -1986,13 +1986,13 @@
         "jaJP": "憎悪",
         "ptBR": "Ódio",
         "ruRU": "Ненависть",
-        "zhCN": "ÿc4憎恨 ÿc5Hatredÿc8"
+        "zhCN": "ÿc4憎恨"
     },
     {
         "id": 20557,
         "Key": "Runeword51",
         "enUS": "Heart of the Oak",
-        "zhTW": "ÿc1[MAX:40RES]\nÿc2教主神器，法系萬金油\nÿc4橡樹之心 ÿc5Heart of the Oakÿc8",
+        "zhTW": "ÿc1[MAX:40RES]\nÿc2教主神器，法系萬金油\nÿc4橡樹之心",
         "deDE": "Herz der Eiche",
         "esES": "Corazón de roble",
         "frFR": "Haut chêne",
@@ -2003,13 +2003,13 @@
         "jaJP": "神木の心",
         "ptBR": "Coração do Carvalho",
         "ruRU": "Сердце дуба",
-        "zhCN": "ÿc1[MAX:40RES]\nÿc2教主神器，法系万金油\nÿc4橡树之心 ÿc5Heart of the Oakÿc8"
+        "zhCN": "ÿc1[MAX:40RES]\nÿc2教主神器，法系万金油\nÿc4橡树之心"
     },
     {
         "id": 20558,
         "Key": "Runeword52",
         "enUS": "Heaven's Will",
-        "zhTW": "ÿc4天堂的意識 ÿc5Heaven's Willÿc8",
+        "zhTW": "ÿc4天堂的意識",
         "deDE": "Himmlischer Wille",
         "esES": "Voluntad del cielo",
         "frFR": "Volonté des Cieux",
@@ -2020,13 +2020,13 @@
         "jaJP": "天命",
         "ptBR": "Vontade do Paraíso",
         "ruRU": "Воля небес",
-        "zhCN": "ÿc4天堂的意识 ÿc5Heaven's Willÿc8"
+        "zhCN": "ÿc4天堂的意识"
     },
     {
         "id": 20559,
         "Key": "Runeword53",
         "enUS": "Holy Tears",
-        "zhTW": "ÿc4神聖之淚 ÿc5Holy Tearsÿc8",
+        "zhTW": "ÿc4神聖之淚",
         "deDE": "Heilige Tränen",
         "esES": "Lágrimas sagradas",
         "frFR": "Larmes sacrées",
@@ -2037,13 +2037,13 @@
         "jaJP": "聖なる涙",
         "ptBR": "Lágrimas Sagradas",
         "ruRU": "Слезы святого",
-        "zhCN": "ÿc4神圣之泪 ÿc5Holy Tearsÿc8"
+        "zhCN": "ÿc4神圣之泪"
     },
     {
         "id": 20560,
         "Key": "Runeword54",
         "enUS": "Holy Thunder",
-        "zhTW": "ÿc4神聖雷擊 ÿc5Holy Thunderÿc8",
+        "zhTW": "ÿc4神聖雷擊",
         "deDE": "Heiliger Donner",
         "esES": "Trueno sagrado",
         "frFR": "Tonnerre sacré",
@@ -2054,13 +2054,13 @@
         "jaJP": "神の雷",
         "ptBR": "Trovão Sagrado",
         "ruRU": "Божественный гром",
-        "zhCN": "ÿc4神圣雷击 ÿc5Holy Thunderÿc8"
+        "zhCN": "ÿc4神圣雷击"
     },
     {
         "id": 20561,
         "Key": "Runeword55",
         "enUS": "Honor",
-        "zhTW": "ÿc4榮耀 ÿc5Honorÿc8",
+        "zhTW": "ÿc4榮耀",
         "deDE": "Ehre",
         "esES": "Honor",
         "frFR": "Honneur",
@@ -2071,13 +2071,13 @@
         "jaJP": "名誉",
         "ptBR": "Honra",
         "ruRU": "Честь",
-        "zhCN": "ÿc4荣耀 ÿc5Honorÿc8"
+        "zhCN": "ÿc4荣耀"
     },
     {
         "id": 20562,
         "Key": "Runeword56",
         "enUS": "Revenge",
-        "zhTW": "ÿc4報復 ÿc5Revengeÿc8",
+        "zhTW": "ÿc4報復",
         "deDE": "Rache",
         "esES": "Revancha",
         "frFR": "Revanche",
@@ -2088,13 +2088,13 @@
         "jaJP": "復讐",
         "ptBR": "Revanche",
         "ruRU": "Возмездие",
-        "zhCN": "ÿc4报复 ÿc5Revengeÿc8"
+        "zhCN": "ÿc4报复"
     },
     {
         "id": 20563,
         "Key": "Runeword57",
         "enUS": "Humility",
-        "zhTW": "ÿc4謙恭 ÿc5Humilityÿc8",
+        "zhTW": "ÿc4謙恭",
         "deDE": "Demut",
         "esES": "Humildad",
         "frFR": "Humilité",
@@ -2105,13 +2105,13 @@
         "jaJP": "謙虚",
         "ptBR": "Humildade",
         "ruRU": "Смирение",
-        "zhCN": "ÿc4谦恭 ÿc5Humilityÿc8"
+        "zhCN": "ÿc4谦恭"
     },
     {
         "id": 20564,
         "Key": "Runeword58",
         "enUS": "Hunger",
-        "zhTW": "ÿc4飢餓 ÿc5Hungerÿc8",
+        "zhTW": "ÿc4飢餓",
         "deDE": "Hunger",
         "esES": "Hambre",
         "frFR": "Faim",
@@ -2122,13 +2122,13 @@
         "jaJP": "飢え",
         "ptBR": "Fome",
         "ruRU": "Голод",
-        "zhCN": "ÿc4饥饿 ÿc5Hungerÿc8"
+        "zhCN": "ÿc4饥饿"
     },
     {
         "id": 20565,
         "Key": "Runeword59",
         "enUS": "Ice",
-        "zhTW": "ÿc1[MAX:210ED/30CD]\nÿc2元素弓土豪玩物\nÿc4冰凍 ÿc5Iceÿc8",
+        "zhTW": "ÿc1[MAX:210ED/30CD]\nÿc2元素弓土豪玩物\nÿc4冰凍",
         "deDE": "Eis",
         "esES": "Hielo",
         "frFR": "Glace",
@@ -2139,13 +2139,13 @@
         "jaJP": "氷",
         "ptBR": "Gelo",
         "ruRU": "Лед",
-        "zhCN": "ÿc1[MAX:210ED/30CD]\nÿc2元素弓土豪玩物\nÿc4冰冻 ÿc5Iceÿc8"
+        "zhCN": "ÿc1[MAX:210ED/30CD]\nÿc2元素弓土豪玩物\nÿc4冰冻"
     },
     {
         "id": 20566,
         "Key": "Runeword60",
         "enUS": "Infinity",
-        "zhTW": "ÿc1[MAX:325ED/-55LR]\nÿc2其實我一直很想教超級勞模做魔（娛樂版）\nÿc4無限 ÿc5Infinityÿc8",
+        "zhTW": "ÿc1[MAX:325ED/-55LR]\nÿc2其實我一直很想教超級勞模做魔（娛樂版）\nÿc4無限",
         "deDE": "Unendlichkeit",
         "esES": "Infinito",
         "frFR": "Infinité",
@@ -2156,13 +2156,13 @@
         "jaJP": "無限",
         "ptBR": "Infinito",
         "ruRU": "Бесконечность",
-        "zhCN": "ÿc1[MAX:325ED/-55LR]\nÿc2其实我一直很想教超级劳模做魔（娱乐版）\nÿc4无限 ÿc5Infinityÿc8"
+        "zhCN": "ÿc1[MAX:325ED/-55LR]\nÿc2其实我一直很想教超级劳模做魔（娱乐版）\nÿc4无限"
     },
     {
         "id": 20567,
         "Key": "Runeword61",
         "enUS": "Innocence",
-        "zhTW": "ÿc4純潔 ÿc5Innocenceÿc8",
+        "zhTW": "ÿc4純潔",
         "deDE": "Unschuld",
         "esES": "Inocencia",
         "frFR": "Innocence",
@@ -2173,13 +2173,13 @@
         "jaJP": "無垢",
         "ptBR": "Inocência",
         "ruRU": "Невинность",
-        "zhCN": "ÿc4纯洁 ÿc5Innocenceÿc8"
+        "zhCN": "ÿc4纯洁"
     },
     {
         "id": 20568,
         "Key": "Runeword62",
         "enUS": "Insight",
-        "zhTW": "ÿc1[MAX:17冥思/260ED/250AR/6CS]\nÿc2性價比最高的RW之二，續航神器，6cs輸出也是槓槓的\nÿc4眼光 ÿc5Insightÿc8",
+        "zhTW": "ÿc1[MAX:17冥思/260ED/250AR/6CS]\nÿc2性價比最高的RW之二，續航神器，6cs輸出也是槓槓的\nÿc4眼光",
         "deDE": "Einsicht",
         "esES": "Perspicacia",
         "frFR": "Spiritualité",
@@ -2190,13 +2190,13 @@
         "jaJP": "洞察",
         "ptBR": "Intuição",
         "ruRU": "Прозрение",
-        "zhCN": "ÿc1[MAX:17冥思/260ED/250AR/6CS]\nÿc2性价比最高的RW之二，续航神器，6cs输出也是杠杠的\nÿc4眼光 ÿc5Insightÿc8"
+        "zhCN": "ÿc1[MAX:17冥思/260ED/250AR/6CS]\nÿc2性价比最高的RW之二，续航神器，6cs输出也是杠杠的\nÿc4眼光"
     },
     {
         "id": 20569,
         "Key": "Runeword63",
         "enUS": "Jealousy",
-        "zhTW": "ÿc4嫉妒 ÿc5Jealousyÿc8",
+        "zhTW": "ÿc4嫉妒",
         "deDE": "Eifersucht",
         "esES": "Celos",
         "frFR": "Jalousie",
@@ -2207,13 +2207,13 @@
         "jaJP": "嫉妬",
         "ptBR": "Ciúme",
         "ruRU": "Ревность",
-        "zhCN": "ÿc4嫉妒 ÿc5Jealousyÿc8"
+        "zhCN": "ÿc4嫉妒"
     },
     {
         "id": 20570,
         "Key": "Runeword64",
         "enUS": "Judgement",
-        "zhTW": "ÿc4審判 ÿc5Judgementÿc8",
+        "zhTW": "ÿc4審判",
         "deDE": "Urteil",
         "esES": "Sentencia",
         "frFR": "Jugement",
@@ -2224,13 +2224,13 @@
         "jaJP": "審判",
         "ptBR": "Julgamento",
         "ruRU": "Правосудие",
-        "zhCN": "ÿc4审判 ÿc5Judgementÿc8"
+        "zhCN": "ÿc4审判"
     },
     {
         "id": 20571,
         "Key": "Runeword65",
         "enUS": "King's Grace",
-        "zhTW": "ÿc4國王的恩典 ÿc5King's Graceÿc8",
+        "zhTW": "ÿc4國王的恩典",
         "deDE": "Königliche Gnade",
         "esES": "Gracia del rey",
         "frFR": "Grâce du roi",
@@ -2241,13 +2241,13 @@
         "jaJP": "王の赦し",
         "ptBR": "Graça Régia",
         "ruRU": "Милость короля",
-        "zhCN": "ÿc4国王的恩典 ÿc5King's Graceÿc8"
+        "zhCN": "ÿc4国王的恩典"
     },
     {
         "id": 20572,
         "Key": "Runeword66",
         "enUS": "Kingslayer",
-        "zhTW": "ÿc1[MAX:270ED]\nÿc2不知道黑毛看了它怕不怕\nÿc4弒君者 ÿc5Kingslayerÿc8",
+        "zhTW": "ÿc1[MAX:270ED]\nÿc2不知道黑毛看了它怕不怕\nÿc4弒君者",
         "deDE": "Königsmord",
         "esES": "Regicida",
         "frFR": "Régicide",
@@ -2258,13 +2258,13 @@
         "jaJP": "王殺し",
         "ptBR": "Regicida",
         "ruRU": "Цареубийца",
-        "zhCN": "ÿc1[MAX:270ED]\nÿc2不知道黑毛看了它怕不怕\nÿc4弑君者 ÿc5Kingslayerÿc8"
+        "zhCN": "ÿc1[MAX:270ED]\nÿc2不知道黑毛看了它怕不怕\nÿc4弑君者"
     },
     {
         "id": 20573,
         "Key": "Runeword67",
         "enUS": "Knight's Vigil",
-        "zhTW": "ÿc4騎士的警戒 ÿc5Knight's Vigilÿc8",
+        "zhTW": "ÿc4騎士的警戒",
         "deDE": "Ritters Wacht",
         "esES": "Vela del caballero",
         "frFR": "Veille du chevalier",
@@ -2275,13 +2275,13 @@
         "jaJP": "騎士の見張り",
         "ptBR": "Vigília do Cavaleiro",
         "ruRU": "Бдение рыцаря",
-        "zhCN": "ÿc4骑士的警戒 ÿc5Knight's Vigilÿc8"
+        "zhCN": "ÿc4骑士的警戒"
     },
     {
         "id": 20574,
         "Key": "Runeword68",
         "enUS": "Knowledge",
-        "zhTW": "ÿc4知識 ÿc5Knowledgeÿc8",
+        "zhTW": "ÿc4知識",
         "deDE": "Wissen",
         "esES": "Saber",
         "frFR": "Connaissance",
@@ -2292,13 +2292,13 @@
         "jaJP": "知識",
         "ptBR": "Conhecimento",
         "ruRU": "Знание",
-        "zhCN": "ÿc4知识 ÿc5Knowledgeÿc8"
+        "zhCN": "ÿc4知识"
     },
     {
         "id": 20575,
         "Key": "Runeword69",
         "enUS": "Last Wish",
-        "zhTW": "ÿc1[MAX:375ED/70CB]\nÿc2有錢就是任性\nÿc4最後希望 ÿc5Last Wishÿc8",
+        "zhTW": "ÿc1[MAX:375ED/70CB]\nÿc2有錢就是任性\nÿc4最後希望",
         "deDE": "Letzter Wunsch",
         "esES": "Último deseo",
         "frFR": "Dernière volonté",
@@ -2309,13 +2309,13 @@
         "jaJP": "最後の願い",
         "ptBR": "Último Desejo",
         "ruRU": "Последняя воля",
-        "zhCN": "ÿc1[MAX:375ED/70CB]\nÿc2有钱就是任性\nÿc4最后希望 ÿc5Last Wishÿc8"
+        "zhCN": "ÿc1[MAX:375ED/70CB]\nÿc2有钱就是任性\nÿc4最后希望"
     },
     {
         "id": 20576,
         "Key": "Runeword70",
         "enUS": "Law",
-        "zhTW": "ÿc4法律 ÿc5Lawÿc8",
+        "zhTW": "ÿc4法律",
         "deDE": "Gesetz",
         "esES": "Ley",
         "frFR": "Loi",
@@ -2326,13 +2326,13 @@
         "jaJP": "法",
         "ptBR": "Lei",
         "ruRU": "Закон",
-        "zhCN": "ÿc4法律 ÿc5Lawÿc8"
+        "zhCN": "ÿc4法律"
     },
     {
         "id": 20577,
         "Key": "Runeword71",
         "enUS": "Lawbringer",
-        "zhTW": "ÿc1[MAX:18庇護所/250遠程防禦]\nÿc2城管劍，通常開荒放副手\nÿc4執法者 ÿc5Lawbringerÿc8",
+        "zhTW": "ÿc1[MAX:18庇護所/250遠程防禦]\nÿc2城管劍，通常開荒放副手\nÿc4執法者",
         "deDE": "Gesetzesbringer",
         "esES": "Jurista",
         "frFR": "Législateur",
@@ -2343,13 +2343,13 @@
         "jaJP": "法の番人",
         "ptBR": "Justiceiro",
         "ruRU": "Судия",
-        "zhCN": "ÿc1[MAX:18庇护所/250远程防御]\nÿc2城管剑，通常开荒放副手\nÿc4执法者 ÿc5Lawbringerÿc8"
+        "zhCN": "ÿc1[MAX:18庇护所/250远程防御]\nÿc2城管剑，通常开荒放副手\nÿc4执法者"
     },
     {
         "id": 20578,
         "Key": "Runeword72",
         "enUS": "Leaf",
-        "zhTW": "ÿc2法師開荒神器\nÿc4葉子 ÿc5Leafÿc8",
+        "zhTW": "ÿc2法師開荒神器\nÿc4葉子",
         "deDE": "Blatt",
         "esES": "Hoja",
         "frFR": "Feuille",
@@ -2360,13 +2360,13 @@
         "jaJP": "葉",
         "ptBR": "Folha",
         "ruRU": "Лист",
-        "zhCN": "ÿc2法师开荒神器\nÿc4叶子 ÿc5Leafÿc8"
+        "zhCN": "ÿc2法师开荒神器\nÿc4叶子"
     },
     {
         "id": 20579,
         "Key": "Runeword73",
         "enUS": "Lightning",
-        "zhTW": "ÿc4閃電 ÿc5Lightningÿc8",
+        "zhTW": "ÿc4閃電",
         "deDE": "Blitzschlag",
         "esES": "Rayo",
         "frFR": "Foudre",
@@ -2377,13 +2377,13 @@
         "jaJP": "稲妻",
         "ptBR": "Eletricidade",
         "ruRU": "Молния",
-        "zhCN": "ÿc4闪电 ÿc5Lightningÿc8"
+        "zhCN": "ÿc4闪电"
     },
     {
         "id": 20580,
         "Key": "Runeword74",
         "enUS": "Lionheart",
-        "zhTW": "ÿc2開荒弓馬常用\nÿc4獅子心 ÿc5Lionheartÿc8",
+        "zhTW": "ÿc2開荒弓馬常用\nÿc4獅子心",
         "deDE": "Löwenherz",
         "esES": "Corazón de león",
         "frFR": "Cœur-de-lion",
@@ -2394,13 +2394,13 @@
         "jaJP": "勇猛",
         "ptBR": "Coração de Leão",
         "ruRU": "Львиное сердце",
-        "zhCN": "ÿc2开荒弓马常用\nÿc4狮子心 ÿc5Lionheartÿc8"
+        "zhCN": "ÿc2开荒弓马常用\nÿc4狮子心"
     },
     {
         "id": 20581,
         "Key": "Runeword75",
         "enUS": "Lore",
-        "zhTW": "ÿc2開荒法系都要做\nÿc4知識 ÿc5Loreÿc8",
+        "zhTW": "ÿc2開荒法系都要做\nÿc4知識",
         "deDE": "Überlieferung",
         "esES": "Acervo",
         "frFR": "Savoir",
@@ -2411,13 +2411,13 @@
         "jaJP": "伝承",
         "ptBR": "Legado",
         "ruRU": "История",
-        "zhCN": "ÿc2开荒法系都要做\nÿc4知识 ÿc5Loreÿc8"
+        "zhCN": "ÿc2开荒法系都要做\nÿc4知识"
     },
     {
         "id": 20582,
         "Key": "Runeword76",
         "enUS": "Love",
-        "zhTW": "ÿc4愛情 ÿc5Loveÿc8",
+        "zhTW": "ÿc4愛情",
         "deDE": "Liebe",
         "esES": "Amor",
         "frFR": "Lien amoureux",
@@ -2428,13 +2428,13 @@
         "jaJP": "愛",
         "ptBR": "Amor",
         "ruRU": "Любовь",
-        "zhCN": "ÿc4爱情 ÿc5Loveÿc8"
+        "zhCN": "ÿc4爱情"
     },
     {
         "id": 20583,
         "Key": "Runeword77",
         "enUS": "Loyalty",
-        "zhTW": "ÿc4忠誠 ÿc5Loyaltyÿc8",
+        "zhTW": "ÿc4忠誠",
         "deDE": "Treue",
         "esES": "Lealtad",
         "frFR": "Loyauté",
@@ -2445,13 +2445,13 @@
         "jaJP": "忠義",
         "ptBR": "Lealdade",
         "ruRU": "Преданность",
-        "zhCN": "ÿc4忠诚 ÿc5Loyaltyÿc8"
+        "zhCN": "ÿc4忠诚"
     },
     {
         "id": 20584,
         "Key": "Runeword78",
         "enUS": "Lust",
-        "zhTW": "ÿc4欲望 ÿc5Lustÿc8",
+        "zhTW": "ÿc4欲望",
         "deDE": "Lust",
         "esES": "Lujuria",
         "frFR": "Luxure",
@@ -2462,13 +2462,13 @@
         "jaJP": "熱望",
         "ptBR": "Luxúria",
         "ruRU": "Похоть",
-        "zhCN": "ÿc4欲望 ÿc5Lustÿc8"
+        "zhCN": "ÿc4欲望"
     },
     {
         "id": 20585,
         "Key": "Runeword79",
         "enUS": "Madness",
-        "zhTW": "ÿc4瘋狂 ÿc5Madnessÿc8",
+        "zhTW": "ÿc4瘋狂",
         "deDE": "Wahnsinn",
         "esES": "Locura",
         "frFR": "Aliénation",
@@ -2479,13 +2479,13 @@
         "jaJP": "狂気",
         "ptBR": "Loucura",
         "ruRU": "Безумие",
-        "zhCN": "ÿc4疯狂 ÿc5Madnessÿc8"
+        "zhCN": "ÿc4疯狂"
     },
     {
         "id": 20586,
         "Key": "Runeword81",
         "enUS": "Malice",
-        "zhTW": "ÿc2俗稱615，開荒米山常用武器\nÿc4怨恨 ÿc5Maliceÿc8",
+        "zhTW": "ÿc2俗稱615，開荒米山常用武器\nÿc4怨恨",
         "deDE": "Boshaftigkeit",
         "esES": "Maldad",
         "frFR": "Méchanceté",
@@ -2496,13 +2496,13 @@
         "jaJP": "恨み",
         "ptBR": "Malícia",
         "ruRU": "Злоба",
-        "zhCN": "ÿc2俗称615，开荒米山常用武器\nÿc4怨恨 ÿc5Maliceÿc8"
+        "zhCN": "ÿc2俗称615，开荒米山常用武器\nÿc4怨恨"
     },
     {
         "id": 20587,
         "Key": "Runeword82",
         "enUS": "Melody",
-        "zhTW": "ÿc4旋律 ÿc5Melodyÿc8",
+        "zhTW": "ÿc4旋律",
         "deDE": "Melodie",
         "esES": "Melodía",
         "frFR": "Mélodie",
@@ -2513,13 +2513,13 @@
         "jaJP": "旋律",
         "ptBR": "Melodia",
         "ruRU": "Мелодия",
-        "zhCN": "ÿc4旋律 ÿc5Melodyÿc8"
+        "zhCN": "ÿc4旋律"
     },
     {
         "id": 20588,
         "Key": "Runeword83",
         "enUS": "Memory",
-        "zhTW": "ÿc2純冰開荒副手頂球，效果不錯\nÿc4記憶 ÿc5Memoryÿc8",
+        "zhTW": "ÿc2純冰開荒副手頂球，效果不錯\nÿc4記憶",
         "deDE": "Erinnerung",
         "esES": "Memoria",
         "frFR": "Mémoire",
@@ -2530,13 +2530,13 @@
         "jaJP": "記憶",
         "ptBR": "Memória",
         "ruRU": "Память",
-        "zhCN": "ÿc2纯冰开荒副手顶球，效果不错\nÿc4记忆 ÿc5Memoryÿc8"
+        "zhCN": "ÿc2纯冰开荒副手顶球，效果不错\nÿc4记忆"
     },
     {
         "id": 20589,
         "Key": "Runeword84",
         "enUS": "Mist",
-        "zhTW": "ÿc4迷霧 ÿc5Mistÿc8",
+        "zhTW": "ÿc4迷霧",
         "deDE": "Nebel",
         "esES": "Bruma",
         "frFR": "Brume",
@@ -2547,13 +2547,13 @@
         "jaJP": "霧",
         "ptBR": "Névoa",
         "ruRU": "Туман",
-        "zhCN": "ÿc4迷雾 ÿc5Mistÿc8"
+        "zhCN": "ÿc4迷雾"
     },
     {
         "id": 20590,
         "Key": "Runeword85",
         "enUS": "Morning",
-        "zhTW": "ÿc4早晨 ÿc5Morningÿc8",
+        "zhTW": "ÿc4早晨",
         "deDE": "Morgen",
         "esES": "Mañana",
         "frFR": "Matin",
@@ -2564,13 +2564,13 @@
         "jaJP": "朝",
         "ptBR": "Manhã",
         "ruRU": "Утро",
-        "zhCN": "ÿc4早晨 ÿc5Morningÿc8"
+        "zhCN": "ÿc4早晨"
     },
     {
         "id": 20591,
         "Key": "Runeword86",
         "enUS": "Mystery",
-        "zhTW": "ÿc4神祕 ÿc5Mysteryÿc8",
+        "zhTW": "ÿc4神祕",
         "deDE": "Geheimnis",
         "esES": "Misterio",
         "frFR": "Mystère",
@@ -2581,13 +2581,13 @@
         "jaJP": "神秘",
         "ptBR": "Mistério",
         "ruRU": "Загадка",
-        "zhCN": "ÿc4神秘 ÿc5Mysteryÿc8"
+        "zhCN": "ÿc4神秘"
     },
     {
         "id": 20592,
         "Key": "Runeword87",
         "enUS": "Myth",
-        "zhTW": "ÿc2戰網肉BO常用甲\nÿc4神話 ÿc5Mythÿc8",
+        "zhTW": "ÿc2戰網肉BO常用甲\nÿc4神話",
         "deDE": "Mythos",
         "esES": "Mito",
         "frFR": "Mythe",
@@ -2598,13 +2598,13 @@
         "jaJP": "神話",
         "ptBR": "Mito",
         "ruRU": "Миф",
-        "zhCN": "ÿc2战网肉BO常用甲\nÿc4神话 ÿc5Mythÿc8"
+        "zhCN": "ÿc2战网肉BO常用甲\nÿc4神话"
     },
     {
         "id": 20593,
         "Key": "Runeword88",
         "enUS": "Nadir",
-        "zhTW": "ÿc2開荒必做頭\nÿc4天底 ÿc5Nadirÿc8",
+        "zhTW": "ÿc2開荒必做頭\nÿc4天底",
         "deDE": "Nadir",
         "esES": "Nadir",
         "frFR": "Nadir",
@@ -2615,13 +2615,13 @@
         "jaJP": "奈落",
         "ptBR": "Nadir",
         "ruRU": "Упадок",
-        "zhCN": "ÿc2开荒必做头\nÿc4天底 ÿc5Nadirÿc8"
+        "zhCN": "ÿc2开荒必做头\nÿc4天底"
     },
     {
         "id": 20594,
         "Key": "Runeword89",
         "enUS": "Nature's Kingdom",
-        "zhTW": "ÿc4天然的王國 ÿc5Nature's Kingdomÿc8",
+        "zhTW": "ÿc4天然的王國",
         "deDE": "Königreich der Natur",
         "esES": "Reino de la naturaleza",
         "frFR": "Nature",
@@ -2632,13 +2632,13 @@
         "jaJP": "自然の王国",
         "ptBR": "Reino da Natureza",
         "ruRU": "Царство природы",
-        "zhCN": "ÿc4天然的王国 ÿc5Nature's Kingdomÿc8"
+        "zhCN": "ÿc4天然的王国"
     },
     {
         "id": 20595,
         "Key": "Runeword90",
         "enUS": "Night",
-        "zhTW": "ÿc4夜晚 ÿc5Nightÿc8",
+        "zhTW": "ÿc4夜晚",
         "deDE": "Nacht",
         "esES": "Noche",
         "frFR": "Nuit",
@@ -2649,13 +2649,13 @@
         "jaJP": "夜",
         "ptBR": "Noite",
         "ruRU": "Ночь",
-        "zhCN": "ÿc4夜晚 ÿc5Nightÿc8"
+        "zhCN": "ÿc4夜晚"
     },
     {
         "id": 20596,
         "Key": "Runeword91",
         "enUS": "Oath",
-        "zhTW": "ÿc1[MAX:340ED/15魔法吸收]\nÿc2平民武器之王\nÿc4誓約 ÿc5Oathÿc8",
+        "zhTW": "ÿc1[MAX:340ED/15魔法吸收]\nÿc2平民武器之王\nÿc4誓約",
         "deDE": "Eid",
         "esES": "Juramento",
         "frFR": "Serment",
@@ -2666,13 +2666,13 @@
         "jaJP": "誓い",
         "ptBR": "Juramento",
         "ruRU": "Клятва",
-        "zhCN": "ÿc1[MAX:340ED/15魔法吸收]\nÿc2平民武器之王\nÿc4誓约 ÿc5Oathÿc8"
+        "zhCN": "ÿc1[MAX:340ED/15魔法吸收]\nÿc2平民武器之王\nÿc4誓约"
     },
     {
         "id": 20597,
         "Key": "Runeword92",
         "enUS": "Obedience",
-        "zhTW": "ÿc1[MAX:300DEF/30RES]\nÿc2綜合性不錯的武器，純招米山或狼德可過渡\nÿc4遵從 ÿc5Obedienceÿc8",
+        "zhTW": "ÿc1[MAX:300DEF/30RES]\nÿc2綜合性不錯的武器，純招米山或狼德可過渡\nÿc4遵從",
         "deDE": "Gehorsam",
         "esES": "Obediencia",
         "frFR": "Obéissance ",
@@ -2683,13 +2683,13 @@
         "jaJP": "服従",
         "ptBR": "Obediência",
         "ruRU": "Послушание",
-        "zhCN": "ÿc1[MAX:300DEF/30RES]\nÿc2综合性不错的武器，纯招米山或狼德可过渡\nÿc4遵从 ÿc5Obedienceÿc8"
+        "zhCN": "ÿc1[MAX:300DEF/30RES]\nÿc2综合性不错的武器，纯招米山或狼德可过渡\nÿc4遵从"
     },
     {
         "id": 20598,
         "Key": "Runeword93",
         "enUS": "Oblivion",
-        "zhTW": "ÿc4湮沒 ÿc5Oblivionÿc8",
+        "zhTW": "ÿc4湮沒",
         "deDE": "Nichts",
         "esES": "Olvido",
         "frFR": "Oubli",
@@ -2700,13 +2700,13 @@
         "jaJP": "忘却",
         "ptBR": "Esquecimento",
         "ruRU": "Забвение",
-        "zhCN": "ÿc4湮没 ÿc5Oblivionÿc8"
+        "zhCN": "ÿc4湮没"
     },
     {
         "id": 20599,
         "Key": "Runeword94",
         "enUS": "Obsession",
-        "zhTW": "ÿc4着魔 ÿc5Obsessionÿc8",
+        "zhTW": "ÿc4着魔",
         "deDE": "Besessenheit",
         "esES": "Obsesión",
         "frFR": "Obsession",
@@ -2717,13 +2717,13 @@
         "jaJP": "執着",
         "ptBR": "Obsessão",
         "ruRU": "Помешательство",
-        "zhCN": "ÿc4着魔 ÿc5Obsessionÿc8"
+        "zhCN": "ÿc4着魔"
     },
     {
         "id": 20600,
         "Key": "Runeword95",
         "enUS": "Passion",
-        "zhTW": "ÿc1[MAX:210ED/80AR]\nÿc2狂戰士能拿來破物免\nÿc4熱情 ÿc5Passionÿc8",
+        "zhTW": "ÿc1[MAX:210ED/80AR]\nÿc2狂戰士能拿來破物免\nÿc4熱情",
         "deDE": "Leidenschaft",
         "esES": "Pasión",
         "frFR": "Passion",
@@ -2734,13 +2734,13 @@
         "jaJP": "情熱",
         "ptBR": "Paixão",
         "ruRU": "Страсть",
-        "zhCN": "ÿc1[MAX:210ED/80AR]\nÿc2狂战士能拿来破物免\nÿc4热情 ÿc5Passionÿc8"
+        "zhCN": "ÿc1[MAX:210ED/80AR]\nÿc2狂战士能拿来破物免\nÿc4热情"
     },
     {
         "id": 20601,
         "Key": "Runeword96",
         "enUS": "Patience",
-        "zhTW": "ÿc4忍耐 ÿc5Patienceÿc8",
+        "zhTW": "ÿc4忍耐",
         "deDE": "Geduld",
         "esES": "Paciencia",
         "frFR": "Patience",
@@ -2751,13 +2751,13 @@
         "jaJP": "忍耐",
         "ptBR": "Paciência",
         "ruRU": "Терпение",
-        "zhCN": "ÿc4忍耐 ÿc5Patienceÿc8"
+        "zhCN": "ÿc4忍耐"
     },
     {
         "id": 20602,
         "Key": "Runeword97",
         "enUS": "Pattern",
-        "zhTW": "ÿc4啪噠 ÿc5Patternÿc8",
+        "zhTW": "ÿc4啪噠",
         "deDE": "Prasseln",
         "esES": "Patrón",
         "frFR": "Patron",
@@ -2768,13 +2768,13 @@
         "jaJP": "模範",
         "ptBR": "Padrão",
         "ruRU": "Узор",
-        "zhCN": "ÿc4啪哒 ÿc5Patternÿc8"
+        "zhCN": "ÿc4啪哒"
     },
     {
         "id": 20603,
         "Key": "Runeword98",
         "enUS": "Peace",
-        "zhTW": "ÿc2初期常被忽視的甲，米山常用\nÿc4和平 ÿc5Peaceÿc8",
+        "zhTW": "ÿc2初期常被忽視的甲，米山常用\nÿc4和平",
         "deDE": "Frieden",
         "esES": "Paz",
         "frFR": "Paix",
@@ -2785,13 +2785,13 @@
         "jaJP": "平和",
         "ptBR": "Paz",
         "ruRU": "Мир",
-        "zhCN": "ÿc2初期常被忽视的甲，米山常用\nÿc4和平 ÿc5Peaceÿc8"
+        "zhCN": "ÿc2初期常被忽视的甲，米山常用\nÿc4和平"
     },
     {
         "id": 20604,
         "Key": "Runeword99",
         "enUS": "Voice of Reason",
-        "zhTW": "ÿc1[MAX:350惡魔/375亡靈傷害]\nÿc4思考之聲 ÿc5Voice of Reasonÿc8",
+        "zhTW": "ÿc1[MAX:350惡魔/375亡靈傷害]\nÿc4思考之聲",
         "deDE": "Stimme der Vernunft",
         "esES": "Voz de la razón",
         "frFR": "Voix de la raison",
@@ -2802,13 +2802,13 @@
         "jaJP": "理知の声",
         "ptBR": "Voz da Razão",
         "ruRU": "Голос разума",
-        "zhCN": "ÿc1[MAX:350恶魔/375亡灵伤害]\nÿc4思考之声 ÿc5Voice of Reasonÿc8"
+        "zhCN": "ÿc1[MAX:350恶魔/375亡灵伤害]\nÿc4思考之声"
     },
     {
         "id": 20605,
         "Key": "Runeword100",
         "enUS": "Penitence",
-        "zhTW": "ÿc4懺悔 ÿc5Penitenceÿc8",
+        "zhTW": "ÿc4懺悔",
         "deDE": "Reue",
         "esES": "Penitencia",
         "frFR": "Pénitence",
@@ -2819,13 +2819,13 @@
         "jaJP": "懺悔",
         "ptBR": "Penitência",
         "ruRU": "Покаяние",
-        "zhCN": "ÿc4忏悔 ÿc5Penitenceÿc8"
+        "zhCN": "ÿc4忏悔"
     },
     {
         "id": 20606,
         "Key": "Runeword101",
         "enUS": "Peril",
-        "zhTW": "ÿc4危害 ÿc5Perilÿc8",
+        "zhTW": "ÿc4危害",
         "deDE": "Gefahr",
         "esES": "Peligro",
         "frFR": "Péril",
@@ -2836,13 +2836,13 @@
         "jaJP": "危機",
         "ptBR": "Perigo",
         "ruRU": "Опасность",
-        "zhCN": "ÿc4危害 ÿc5Perilÿc8"
+        "zhCN": "ÿc4危害"
     },
     {
         "id": 20607,
         "Key": "Runeword102",
         "enUS": "Pestilence",
-        "zhTW": "ÿc4疫病 ÿc5Pestilenceÿc8",
+        "zhTW": "ÿc4疫病",
         "deDE": "Pestilenz",
         "esES": "Pestilencia",
         "frFR": "Pestilence",
@@ -2853,13 +2853,13 @@
         "jaJP": "悪疫",
         "ptBR": "Pestilência",
         "ruRU": "Мор",
-        "zhCN": "ÿc4疫病 ÿc5Pestilenceÿc8"
+        "zhCN": "ÿc4疫病"
     },
     {
         "id": 20608,
         "Key": "Runeword103",
         "enUS": "Phoenix",
-        "zhTW": "ÿc1[MAX:15救贖/400ED/400遠程防禦/21火焰吸收]\nÿc2續航神器，火法或者武學刺要帶它\nÿc4鳳凰 ÿc5Phoenixÿc8",
+        "zhTW": "ÿc1[MAX:15救贖/400ED/400遠程防禦/21火焰吸收]\nÿc2續航神器，火法或者武學刺要帶它\nÿc4鳳凰",
         "deDE": "Phönix",
         "esES": "Fénix",
         "frFR": "Phénix",
@@ -2870,13 +2870,13 @@
         "jaJP": "不死鳥",
         "ptBR": "Fênix",
         "ruRU": "Феникс",
-        "zhCN": "ÿc1[MAX:15救赎/400ED/400远程防御/21火焰吸收]\nÿc2续航神器，火法或者武学刺要带它\nÿc4凤凰 ÿc5Phoenixÿc8"
+        "zhCN": "ÿc1[MAX:15救赎/400ED/400远程防御/21火焰吸收]\nÿc2续航神器，火法或者武学刺要带它\nÿc4凤凰"
     },
     {
         "id": 20609,
         "Key": "Runeword104",
         "enUS": "Piety",
-        "zhTW": "ÿc4虔誠 ÿc5Pietyÿc8",
+        "zhTW": "ÿc4虔誠",
         "deDE": "Frömmigkeit",
         "esES": "Piedad",
         "frFR": "Piété",
@@ -2887,13 +2887,13 @@
         "jaJP": "敬神",
         "ptBR": "Piedade",
         "ruRU": "Благочестие",
-        "zhCN": "ÿc4虔诚 ÿc5Pietyÿc8"
+        "zhCN": "ÿc4虔诚"
     },
     {
         "id": 20610,
         "Key": "Runeword105",
         "enUS": "Pillar of Faith",
-        "zhTW": "ÿc4信念之柱 ÿc5Pillar of Faithÿc8",
+        "zhTW": "ÿc4信念之柱",
         "deDE": "Säule des Glaubens",
         "esES": "Pilar de fe",
         "frFR": "Pilier de la foi",
@@ -2904,13 +2904,13 @@
         "jaJP": "信仰の柱",
         "ptBR": "Pilar da Fé",
         "ruRU": "Столп веры",
-        "zhCN": "ÿc4信念之柱 ÿc5Pillar of Faithÿc8"
+        "zhCN": "ÿc4信念之柱"
     },
     {
         "id": 20611,
         "Key": "Runeword106",
         "enUS": "Plague",
-        "zhTW": "ÿc4瘟疫 ÿc5Plagueÿc8",
+        "zhTW": "ÿc4瘟疫",
         "deDE": "Pest",
         "esES": "Peste",
         "frFR": "Peste",
@@ -2921,13 +2921,13 @@
         "jaJP": "災厄",
         "ptBR": "Peste",
         "ruRU": "Чума",
-        "zhCN": "ÿc4瘟疫 ÿc5Plagueÿc8"
+        "zhCN": "ÿc4瘟疫"
     },
     {
         "id": 20612,
         "Key": "Runeword107",
         "enUS": "Praise",
-        "zhTW": "ÿc4頌揚 ÿc5Praiseÿc8",
+        "zhTW": "ÿc4頌揚",
         "deDE": "Lobpreisung",
         "esES": "Alabanza",
         "frFR": "Louange",
@@ -2938,13 +2938,13 @@
         "jaJP": "賛美",
         "ptBR": "Louvor",
         "ruRU": "Похвала",
-        "zhCN": "ÿc4颂扬 ÿc5Praiseÿc8"
+        "zhCN": "ÿc4颂扬"
     },
     {
         "id": 20613,
         "Key": "Runeword108",
         "enUS": "Prayer",
-        "zhTW": "ÿc4祈禱 ÿc5Prayerÿc8",
+        "zhTW": "ÿc4祈禱",
         "deDE": "Gebet",
         "esES": "Oración",
         "frFR": "Prière",
@@ -2955,13 +2955,13 @@
         "jaJP": "祈願",
         "ptBR": "Prece",
         "ruRU": "Молитва",
-        "zhCN": "ÿc4祈祷 ÿc5Prayerÿc8"
+        "zhCN": "ÿc4祈祷"
     },
     {
         "id": 20614,
         "Key": "Runeword109",
         "enUS": "Pride",
-        "zhTW": "ÿc1[MAX:20專注/300AR]\nÿc2土豪弓馬米山拿，土豪純招做鐵魔\nÿc4驕傲 ÿc5Prideÿc8",
+        "zhTW": "ÿc1[MAX:20專注/300AR]\nÿc2土豪弓馬米山拿，土豪純招做鐵魔\nÿc4驕傲",
         "deDE": "Stolz",
         "esES": "Orgullo",
         "frFR": "Fierté",
@@ -2972,13 +2972,13 @@
         "jaJP": "誇り",
         "ptBR": "Orgulho",
         "ruRU": "Гордость",
-        "zhCN": "ÿc1[MAX:20专注/300AR]\nÿc2土豪弓马米山拿，土豪纯招做铁魔\nÿc4骄傲 ÿc5Prideÿc8"
+        "zhCN": "ÿc1[MAX:20专注/300AR]\nÿc2土豪弓马米山拿，土豪纯招做铁魔\nÿc4骄傲"
     },
     {
         "id": 20615,
         "Key": "Runeword110",
         "enUS": "Principle",
-        "zhTW": "ÿc4原理 ÿc5Principleÿc8",
+        "zhTW": "ÿc4原理",
         "deDE": "Prinzip",
         "esES": "Principio",
         "frFR": "Principe",
@@ -2989,13 +2989,13 @@
         "jaJP": "原理",
         "ptBR": "Princípio",
         "ruRU": "Убеждение",
-        "zhCN": "ÿc4原理 ÿc5Principleÿc8"
+        "zhCN": "ÿc4原理"
     },
     {
         "id": 20616,
         "Key": "Runeword111",
         "enUS": "Prowess in Battle",
-        "zhTW": "ÿc4戰鬥中的勇氣 ÿc5Prowess in Battleÿc8",
+        "zhTW": "ÿc4戰鬥中的勇氣",
         "deDE": "Tapferkeit im Kampf",
         "esES": "Habilidad en combate",
         "frFR": "Prouesse",
@@ -3006,13 +3006,13 @@
         "jaJP": "武勇",
         "ptBR": "Perícia em Batalha",
         "ruRU": "Доблесть",
-        "zhCN": "ÿc4战斗中的勇气 ÿc5Prowess in Battleÿc8"
+        "zhCN": "ÿc4战斗中的勇气"
     },
     {
         "id": 20617,
         "Key": "Runeword112",
         "enUS": "Prudence",
-        "zhTW": "ÿc1[MAX:170ED/35RES]\nÿc4謹重 ÿc5Prudenceÿc8",
+        "zhTW": "ÿc1[MAX:170ED/35RES]\nÿc4謹重",
         "deDE": "Besonnenheit",
         "esES": "Prudencia",
         "frFR": "Prudence",
@@ -3023,13 +3023,13 @@
         "jaJP": "分別",
         "ptBR": "Prudência",
         "ruRU": "Благоразумие",
-        "zhCN": "ÿc1[MAX:170ED/35RES]\nÿc4谨重 ÿc5Prudenceÿc8"
+        "zhCN": "ÿc1[MAX:170ED/35RES]\nÿc4谨重"
     },
     {
         "id": 20618,
         "Key": "Runeword113",
         "enUS": "Punishment",
-        "zhTW": "ÿc4懲罰 ÿc5Punishmentÿc8",
+        "zhTW": "ÿc4懲罰",
         "deDE": "Strafe",
         "esES": "Castigo",
         "frFR": "Punition",
@@ -3040,13 +3040,13 @@
         "jaJP": "罰",
         "ptBR": "Punição",
         "ruRU": "Наказание",
-        "zhCN": "ÿc4惩罚 ÿc5Punishmentÿc8"
+        "zhCN": "ÿc4惩罚"
     },
     {
         "id": 20619,
         "Key": "Runeword114",
         "enUS": "Purity",
-        "zhTW": "ÿc4純潔 ÿc5Purityÿc8",
+        "zhTW": "ÿc4純潔",
         "deDE": "Reinheit",
         "esES": "Pureza",
         "frFR": "Pureté",
@@ -3057,13 +3057,13 @@
         "jaJP": "純粋",
         "ptBR": "Pureza",
         "ruRU": "Чистота",
-        "zhCN": "ÿc4纯洁 ÿc5Purityÿc8"
+        "zhCN": "ÿc4纯洁"
     },
     {
         "id": 20620,
         "Key": "Runeword115",
         "enUS": "Question",
-        "zhTW": "ÿc4疑問 ÿc5Questionÿc8",
+        "zhTW": "ÿc4疑問",
         "deDE": "Frage",
         "esES": "Duda",
         "frFR": "Question",
@@ -3074,13 +3074,13 @@
         "jaJP": "疑問",
         "ptBR": "Questão",
         "ruRU": "Вопрос",
-        "zhCN": "ÿc4疑问 ÿc5Questionÿc8"
+        "zhCN": "ÿc4疑问"
     },
     {
         "id": 20621,
         "Key": "Runeword116",
         "enUS": "Radiance",
-        "zhTW": "ÿc4光輝 ÿc5Radianceÿc8",
+        "zhTW": "ÿc4光輝",
         "deDE": "Glanz",
         "esES": "Resplandor",
         "frFR": "Rayon",
@@ -3091,13 +3091,13 @@
         "jaJP": "輝き",
         "ptBR": "Luminosidade",
         "ruRU": "Сияние",
-        "zhCN": "ÿc4光辉 ÿc5Radianceÿc8"
+        "zhCN": "ÿc4光辉"
     },
     {
         "id": 20622,
         "Key": "Runeword117",
         "enUS": "Rain",
-        "zhTW": "ÿc1[MAX:150法力]\nÿc4降雨 ÿc5Rainÿc8",
+        "zhTW": "ÿc1[MAX:150法力]\nÿc4降雨",
         "deDE": "Regen",
         "esES": "Lluvia",
         "frFR": "Pluie",
@@ -3108,13 +3108,13 @@
         "jaJP": "雨",
         "ptBR": "Chuva",
         "ruRU": "Ливень",
-        "zhCN": "ÿc1[MAX:150法力]\nÿc4降雨 ÿc5Rainÿc8"
+        "zhCN": "ÿc1[MAX:150法力]\nÿc4降雨"
     },
     {
         "id": 20623,
         "Key": "Runeword118",
         "enUS": "Reason",
-        "zhTW": "ÿc4理由 ÿc5Reasonÿc8",
+        "zhTW": "ÿc4理由",
         "deDE": "Vernunft",
         "esES": "Razón",
         "frFR": "Raison",
@@ -3125,13 +3125,13 @@
         "jaJP": "理性",
         "ptBR": "Razão",
         "ruRU": "Разум",
-        "zhCN": "ÿc4理由 ÿc5Reasonÿc8"
+        "zhCN": "ÿc4理由"
     },
     {
         "id": 20624,
         "Key": "Runeword119",
         "enUS": "Red",
-        "zhTW": "ÿc4鮮紅 ÿc5Redÿc8",
+        "zhTW": "ÿc4鮮紅",
         "deDE": "Röte",
         "esES": "Rojez",
         "frFR": "Rouge",
@@ -3142,13 +3142,13 @@
         "jaJP": "赤",
         "ptBR": "Vermelho",
         "ruRU": "Багрянец",
-        "zhCN": "ÿc4鲜红 ÿc5Redÿc8"
+        "zhCN": "ÿc4鲜红"
     },
     {
         "id": 20625,
         "Key": "Runeword120",
         "enUS": "Rhyme",
-        "zhTW": "ÿc2開荒中又一個必做盾，無法冰凍和25res等\nÿc4押韻 ÿc5Rhymeÿc8",
+        "zhTW": "ÿc2開荒中又一個必做盾，無法冰凍和25res等\nÿc4押韻",
         "deDE": "Reim",
         "esES": "Rima",
         "frFR": "Rime",
@@ -3159,13 +3159,13 @@
         "jaJP": "韻",
         "ptBR": "Rima",
         "ruRU": "Рифма",
-        "zhCN": "ÿc2开荒中又一个必做盾，无法冰冻和25res等\nÿc4押韵 ÿc5Rhymeÿc8"
+        "zhCN": "ÿc2开荒中又一个必做盾，无法冰冻和25res等\nÿc4押韵"
     },
     {
         "id": 20626,
         "Key": "Runeword121",
         "enUS": "Rift",
-        "zhTW": "ÿc1[MAX:10屬性]\nÿc2煙花棒\nÿc4裂縫 ÿc5Riftÿc8",
+        "zhTW": "ÿc1[MAX:10屬性]\nÿc2煙花棒\nÿc4裂縫",
         "deDE": "Zerrissenheit",
         "esES": "Grieta",
         "frFR": "Rupture",
@@ -3176,13 +3176,13 @@
         "jaJP": "不和",
         "ptBR": "Fenda",
         "ruRU": "Разлом",
-        "zhCN": "ÿc1[MAX:10属性]\nÿc2烟花棒\nÿc4裂缝 ÿc5Riftÿc8"
+        "zhCN": "ÿc1[MAX:10属性]\nÿc2烟花棒\nÿc4裂缝"
     },
     {
         "id": 20627,
         "Key": "Runeword122",
         "enUS": "Sanctuary",
-        "zhTW": "ÿc1[MAX:160ED/70RES]\nÿc4聖堂 ÿc5Sanctuaryÿc8",
+        "zhTW": "ÿc1[MAX:160ED/70RES]\nÿc4聖堂",
         "deDE": "Zuflucht",
         "esES": "Santuario",
         "frFR": "Sanctuaire",
@@ -3193,13 +3193,13 @@
         "jaJP": "聖域",
         "ptBR": "Santuário",
         "ruRU": "Убежище",
-        "zhCN": "ÿc1[MAX:160ED/70RES]\nÿc4圣堂 ÿc5Sanctuaryÿc8"
+        "zhCN": "ÿc1[MAX:160ED/70RES]\nÿc4圣堂"
     },
     {
         "id": 20628,
         "Key": "Runeword123",
         "enUS": "Serendipity",
-        "zhTW": "ÿc4奇遇 ÿc5Serendipityÿc8",
+        "zhTW": "ÿc4奇遇",
         "deDE": "Glückseligkeit",
         "esES": "Serendipia",
         "frFR": "Veine",
@@ -3210,13 +3210,13 @@
         "jaJP": "僥倖",
         "ptBR": "Acaso",
         "ruRU": "Прозорливость",
-        "zhCN": "ÿc4奇遇 ÿc5Serendipityÿc8"
+        "zhCN": "ÿc4奇遇"
     },
     {
         "id": 20629,
         "Key": "Runeword124",
         "enUS": "Shadow",
-        "zhTW": "ÿc4影子 ÿc5Shadowÿc8",
+        "zhTW": "ÿc4影子",
         "deDE": "Schatten",
         "esES": "Sombra",
         "frFR": "Ombre",
@@ -3227,13 +3227,13 @@
         "jaJP": "闇",
         "ptBR": "Sombra",
         "ruRU": "Тень",
-        "zhCN": "ÿc4影子 ÿc5Shadowÿc8"
+        "zhCN": "ÿc4影子"
     },
     {
         "id": 20630,
         "Key": "Runeword125",
         "enUS": "Shadow of Doubt",
-        "zhTW": "ÿc4懷疑之影 ÿc5Shadow of Doubtÿc8",
+        "zhTW": "ÿc4懷疑之影",
         "deDE": "Schatten des Zweifels",
         "esES": "Sombra de duda",
         "frFR": "Ombre du doute",
@@ -3244,13 +3244,13 @@
         "jaJP": "疑惑の影",
         "ptBR": "Sombra da Dúvida",
         "ruRU": "Тень сомнения",
-        "zhCN": "ÿc4怀疑之影 ÿc5Shadow of Doubtÿc8"
+        "zhCN": "ÿc4怀疑之影"
     },
     {
         "id": 20631,
         "Key": "Runeword126",
         "enUS": "Silence",
-        "zhTW": "ÿc4寂靜 ÿc5Silenceÿc8",
+        "zhTW": "ÿc4寂靜",
         "deDE": "Stille",
         "esES": "Silencio",
         "frFR": "Silence",
@@ -3261,13 +3261,13 @@
         "jaJP": "静寂",
         "ptBR": "Silêncio",
         "ruRU": "Безмолвие",
-        "zhCN": "ÿc4寂静 ÿc5Silenceÿc8"
+        "zhCN": "ÿc4寂静"
     },
     {
         "id": 20632,
         "Key": "Runeword127",
         "enUS": "Siren's Song",
-        "zhTW": "ÿc4海妖之歌 ÿc5Siren's Songÿc8",
+        "zhTW": "ÿc4海妖之歌",
         "deDE": "Sirenengesang",
         "esES": "Canto de sirena",
         "frFR": "Sirène",
@@ -3278,13 +3278,13 @@
         "jaJP": "セイレーンの歌",
         "ptBR": "Canto da Sirena",
         "ruRU": "Песнь сирены",
-        "zhCN": "ÿc4海妖之歌 ÿc5Siren's Songÿc8"
+        "zhCN": "ÿc4海妖之歌"
     },
     {
         "id": 20633,
         "Key": "Runeword128",
         "enUS": "Smoke",
-        "zhTW": "ÿc4煙霧 ÿc5Smokeÿc8",
+        "zhTW": "ÿc4煙霧",
         "deDE": "Rauch",
         "esES": "Humo",
         "frFR": "Fumée",
@@ -3295,13 +3295,13 @@
         "jaJP": "煙",
         "ptBR": "Fumaça",
         "ruRU": "Дым",
-        "zhCN": "ÿc4烟雾 ÿc5Smokeÿc8"
+        "zhCN": "ÿc4烟雾"
     },
     {
         "id": 20634,
         "Key": "Runeword129",
         "enUS": "Sorrow",
-        "zhTW": "ÿc4哀傷 ÿc5Sorrowÿc8",
+        "zhTW": "ÿc4哀傷",
         "deDE": "Traurigkeit",
         "esES": "Tristeza",
         "frFR": "Tristesse",
@@ -3312,13 +3312,13 @@
         "jaJP": "悲哀",
         "ptBR": "Mágoa",
         "ruRU": "Скорбь",
-        "zhCN": "ÿc4哀伤 ÿc5Sorrowÿc8"
+        "zhCN": "ÿc4哀伤"
     },
     {
         "id": 20635,
         "Key": "Runeword130",
         "enUS": "Spirit",
-        "zhTW": "ÿc1[MAX:35FCR/112法力/8魔法吸收]\nÿc2性價比最高的RW之一，很多法系終配，35fcr最關鍵\nÿc4精神 ÿc5Spiritÿc8",
+        "zhTW": "ÿc1[MAX:35FCR/112法力/8魔法吸收]\nÿc2性價比最高的RW之一，很多法系終配，35fcr最關鍵\nÿc4精神",
         "deDE": "Geist",
         "esES": "Espíritu",
         "frFR": "Esprit",
@@ -3329,13 +3329,13 @@
         "jaJP": "精霊",
         "ptBR": "Espírito",
         "ruRU": "Дух",
-        "zhCN": "ÿc1[MAX:35FCR/112法力/8魔法吸收]\nÿc2性价比最高的RW之一，很多法系终配，35fcr最关键\nÿc4精神 ÿc5Spiritÿc8"
+        "zhCN": "ÿc1[MAX:35FCR/112法力/8魔法吸收]\nÿc2性价比最高的RW之一，很多法系终配，35fcr最关键\nÿc4精神"
     },
     {
         "id": 20636,
         "Key": "Runeword131",
         "enUS": "Splendor",
-        "zhTW": "ÿc1[MAX:100ED]\nÿc2初期MF很實用\nÿc4燦爛 ÿc5Splendorÿc8",
+        "zhTW": "ÿc1[MAX:100ED]\nÿc2初期MF很實用\nÿc4燦爛",
         "deDE": "Pracht",
         "esES": "Esplendor",
         "frFR": "Splendeur",
@@ -3346,13 +3346,13 @@
         "jaJP": "壮麗",
         "ptBR": "Esplendor",
         "ruRU": "Великолепие",
-        "zhCN": "ÿc1[MAX:100ED]\nÿc2初期MF很实用\nÿc4灿烂 ÿc5Splendorÿc8"
+        "zhCN": "ÿc1[MAX:100ED]\nÿc2初期MF很实用\nÿc4灿烂"
     },
     {
         "id": 20637,
         "Key": "Runeword132",
         "enUS": "Starlight",
-        "zhTW": "ÿc4星光 ÿc5Starlightÿc8",
+        "zhTW": "ÿc4星光",
         "deDE": "Sternenlicht",
         "esES": "Luz de las estrellas",
         "frFR": "Lumière stellaire",
@@ -3363,13 +3363,13 @@
         "jaJP": "星の光",
         "ptBR": "Luz Estelar",
         "ruRU": "Звездный свет",
-        "zhCN": "ÿc4星光 ÿc5Starlightÿc8"
+        "zhCN": "ÿc4星光"
     },
     {
         "id": 20638,
         "Key": "Runeword133",
         "enUS": "Stealth",
-        "zhTW": "ÿc2開荒初期必做，性價比極高的RW\nÿc4隱密 ÿc5Stealthÿc8",
+        "zhTW": "ÿc2開荒初期必做，性價比極高的RW\nÿc4隱密",
         "deDE": "Verstohlenheit",
         "esES": "Sigilo",
         "frFR": "Discrétion",
@@ -3380,13 +3380,13 @@
         "jaJP": "隠密",
         "ptBR": "Furtividade",
         "ruRU": "Незаметность",
-        "zhCN": "ÿc2开荒初期必做，性价比极高的RW\nÿc4隐密 ÿc5Stealthÿc8"
+        "zhCN": "ÿc2开荒初期必做，性价比极高的RW\nÿc4隐密"
     },
     {
         "id": 20639,
         "Key": "Runeword134",
         "enUS": "Steel",
-        "zhTW": "ÿc250ow和25ias，近戰開荒必做\nÿc4鋼鐵 ÿc5Steelÿc8",
+        "zhTW": "ÿc250ow和25ias，近戰開荒必做\nÿc4鋼鐵",
         "deDE": "Stahl",
         "esES": "Acero",
         "frFR": "Acier",
@@ -3397,13 +3397,13 @@
         "jaJP": "鋼",
         "ptBR": "Aço",
         "ruRU": "Сталь",
-        "zhCN": "ÿc250ow和25ias，近战开荒必做\nÿc4钢铁 ÿc5Steelÿc8"
+        "zhCN": "ÿc250ow和25ias，近战开荒必做\nÿc4钢铁"
     },
     {
         "id": 20640,
         "Key": "Runeword135",
         "enUS": "Still Water",
-        "zhTW": "ÿc4寂靜之水 ÿc5Still Waterÿc8",
+        "zhTW": "ÿc4寂靜之水",
         "deDE": "Stilles Wasser",
         "esES": "Aguas tranquilas",
         "frFR": "Eaux calmes",
@@ -3414,13 +3414,13 @@
         "jaJP": "淀み",
         "ptBR": "Água Parada",
         "ruRU": "Тихие воды",
-        "zhCN": "ÿc4寂静之水 ÿc5Still Waterÿc8"
+        "zhCN": "ÿc4寂静之水"
     },
     {
         "id": 20641,
         "Key": "Runeword136",
         "enUS": "Sting",
-        "zhTW": "ÿc4刺傷 ÿc5Stingÿc8",
+        "zhTW": "ÿc4刺傷",
         "deDE": "Stachel",
         "esES": "Aguijón",
         "frFR": "Piqûre",
@@ -3431,13 +3431,13 @@
         "jaJP": "痛烈",
         "ptBR": "Picada",
         "ruRU": "Жало",
-        "zhCN": "ÿc4刺伤 ÿc5Stingÿc8"
+        "zhCN": "ÿc4刺伤"
     },
     {
         "id": 20642,
         "Key": "Runeword137",
         "enUS": "Stone",
-        "zhTW": "ÿc1[MAX:290ED]\nÿc2尷尬的裝甲，有錢人可以做來玩玩，用途不大\nÿc4石塊 ÿc5Stoneÿc8",
+        "zhTW": "ÿc1[MAX:290ED]\nÿc2尷尬的裝甲，有錢人可以做來玩玩，用途不大\nÿc4石塊",
         "deDE": "Stein",
         "esES": "Roca",
         "frFR": "Pierre",
@@ -3448,13 +3448,13 @@
         "jaJP": "石",
         "ptBR": "Pedra",
         "ruRU": "Камень",
-        "zhCN": "ÿc1[MAX:290ED]\nÿc2尴尬的装甲，有钱人可以做来玩玩，用途不大\nÿc4石块 ÿc5Stoneÿc8"
+        "zhCN": "ÿc1[MAX:290ED]\nÿc2尴尬的装甲，有钱人可以做来玩玩，用途不大\nÿc4石块"
     },
     {
         "id": 20643,
         "Key": "Runeword138",
         "enUS": "Storm",
-        "zhTW": "ÿc4風暴 ÿc5Stormÿc8",
+        "zhTW": "ÿc4風暴",
         "deDE": "Sturm",
         "esES": "Tormenta",
         "frFR": "Orage",
@@ -3465,13 +3465,13 @@
         "jaJP": "嵐",
         "ptBR": "Tempestade",
         "ruRU": "Шторм",
-        "zhCN": "ÿc4风暴 ÿc5Stormÿc8"
+        "zhCN": "ÿc4风暴"
     },
     {
         "id": 20644,
         "Key": "Runeword139",
         "enUS": "Strength",
-        "zhTW": "ÿc4力量 ÿc5Strengthÿc8",
+        "zhTW": "ÿc4力量",
         "deDE": "Stärke",
         "esES": "Fuerza",
         "frFR": "Force",
@@ -3482,13 +3482,13 @@
         "jaJP": "力",
         "ptBR": "Força",
         "ruRU": "Сила",
-        "zhCN": "ÿc4力量 ÿc5Strengthÿc8"
+        "zhCN": "ÿc4力量"
     },
     {
         "id": 20645,
         "Key": "Runeword140",
         "enUS": "Tempest",
-        "zhTW": "ÿc4暴風雨 ÿc5Tempestÿc8",
+        "zhTW": "ÿc4暴風雨",
         "deDE": "Orkan",
         "esES": "Tempestad",
         "frFR": "Tempête",
@@ -3499,13 +3499,13 @@
         "jaJP": "波乱",
         "ptBR": "Tormenta",
         "ruRU": "Буря",
-        "zhCN": "ÿc4暴风雨 ÿc5Tempestÿc8"
+        "zhCN": "ÿc4暴风雨"
     },
     {
         "id": 20646,
         "Key": "Runeword141",
         "enUS": "Temptation",
-        "zhTW": "ÿc4誘惑 ÿc5Temptationÿc8",
+        "zhTW": "ÿc4誘惑",
         "deDE": "Versuchung",
         "esES": "Tentación",
         "frFR": "Tentation",
@@ -3516,13 +3516,13 @@
         "jaJP": "誘惑",
         "ptBR": "Tentação",
         "ruRU": "Искушение",
-        "zhCN": "ÿc4诱惑 ÿc5Temptationÿc8"
+        "zhCN": "ÿc4诱惑"
     },
     {
         "id": 20647,
         "Key": "Runeword142",
         "enUS": "Terror",
-        "zhTW": "ÿc4恐布 ÿc5Terrorÿc8",
+        "zhTW": "ÿc4恐布",
         "deDE": "Terror",
         "esES": "Terror",
         "frFR": "Terreur",
@@ -3533,13 +3533,13 @@
         "jaJP": "恐怖",
         "ptBR": "Terror",
         "ruRU": "Кошмар",
-        "zhCN": "ÿc4恐布 ÿc5Terrorÿc8"
+        "zhCN": "ÿc4恐布"
     },
     {
         "id": 20648,
         "Key": "Runeword143",
         "enUS": "Thirst",
-        "zhTW": "ÿc4飢餓 ÿc5Thirstÿc8",
+        "zhTW": "ÿc4飢餓",
         "deDE": "Durst",
         "esES": "Sed",
         "frFR": "Soif",
@@ -3550,13 +3550,13 @@
         "jaJP": "渇望",
         "ptBR": "Sede",
         "ruRU": "Жажда",
-        "zhCN": "ÿc4饥饿 ÿc5Thirstÿc8"
+        "zhCN": "ÿc4饥饿"
     },
     {
         "id": 20649,
         "Key": "Runeword144",
         "enUS": "Thought",
-        "zhTW": "ÿc4思維 ÿc5Thoughtÿc8",
+        "zhTW": "ÿc4思維",
         "deDE": "Gedanke",
         "esES": "Pensamiento",
         "frFR": "Stoïque",
@@ -3567,13 +3567,13 @@
         "jaJP": "思考",
         "ptBR": "Pensamento",
         "ruRU": "Мысль",
-        "zhCN": "ÿc4思维 ÿc5Thoughtÿc8"
+        "zhCN": "ÿc4思维"
     },
     {
         "id": 20650,
         "Key": "Runeword145",
         "enUS": "Thunder",
-        "zhTW": "ÿc4雷電 ÿc5Thunderÿc8",
+        "zhTW": "ÿc4雷電",
         "deDE": "Donner",
         "esES": "Trueno",
         "frFR": "Tonnerre",
@@ -3584,13 +3584,13 @@
         "jaJP": "稲妻",
         "ptBR": "Trovão",
         "ruRU": "Гром",
-        "zhCN": "ÿc4雷电 ÿc5Thunderÿc8"
+        "zhCN": "ÿc4雷电"
     },
     {
         "id": 20651,
         "Key": "Runeword146",
         "enUS": "Time",
-        "zhTW": "ÿc4時間 ÿc5Timeÿc8",
+        "zhTW": "ÿc4時間",
         "deDE": "Zeit",
         "esES": "Tiempo",
         "frFR": "Temps",
@@ -3601,13 +3601,13 @@
         "jaJP": "時間",
         "ptBR": "Tempo",
         "ruRU": "Время",
-        "zhCN": "ÿc4时间 ÿc5Timeÿc8"
+        "zhCN": "ÿc4时间"
     },
     {
         "id": 20652,
         "Key": "Runeword147",
         "enUS": "Tradition",
-        "zhTW": "ÿc4傳統 ÿc5Traditionÿc8",
+        "zhTW": "ÿc4傳統",
         "deDE": "Tradition",
         "esES": "Tradición",
         "frFR": "Tradition",
@@ -3618,13 +3618,13 @@
         "jaJP": "伝統",
         "ptBR": "Tradição",
         "ruRU": "Традиция",
-        "zhCN": "ÿc4传统 ÿc5Traditionÿc8"
+        "zhCN": "ÿc4传统"
     },
     {
         "id": 20653,
         "Key": "Runeword148",
         "enUS": "Treachery",
-        "zhTW": "ÿc2窮人米山第一甲，45ias和15級能量消解大爺表示很喜歡\nÿc4背信 ÿc5Treacheryÿc8",
+        "zhTW": "ÿc2窮人米山第一甲，45ias和15級能量消解大爺表示很喜歡\nÿc4背信",
         "deDE": "Verrat",
         "esES": "Traición",
         "frFR": "Traîtrise",
@@ -3635,13 +3635,13 @@
         "jaJP": "不信",
         "ptBR": "Deslealdade",
         "ruRU": "Вероломство",
-        "zhCN": "ÿc2穷人米山第一甲，45ias和15级能量消解大爷表示很喜欢\nÿc4背信 ÿc5Treacheryÿc8"
+        "zhCN": "ÿc2穷人米山第一甲，45ias和15级能量消解大爷表示很喜欢\nÿc4背信"
     },
     {
         "id": 20654,
         "Key": "Runeword149",
         "enUS": "Trust",
-        "zhTW": "ÿc4信任 ÿc5Trustÿc8",
+        "zhTW": "ÿc4信任",
         "deDE": "Vertrauen",
         "esES": "Confianza",
         "frFR": "Confiance",
@@ -3652,13 +3652,13 @@
         "jaJP": "信頼",
         "ptBR": "Confiança",
         "ruRU": "Доверие",
-        "zhCN": "ÿc4信任 ÿc5Trustÿc8"
+        "zhCN": "ÿc4信任"
     },
     {
         "id": 20655,
         "Key": "Runeword150",
         "enUS": "Truth",
-        "zhTW": "ÿc4真實 ÿc5Truthÿc8",
+        "zhTW": "ÿc4真實",
         "deDE": "Wahrheit",
         "esES": "Verdad",
         "frFR": "Vérité",
@@ -3669,13 +3669,13 @@
         "jaJP": "真実",
         "ptBR": "Verdade",
         "ruRU": "Правда",
-        "zhCN": "ÿc4真实 ÿc5Truthÿc8"
+        "zhCN": "ÿc4真实"
     },
     {
         "id": 20656,
         "Key": "Runeword151",
         "enUS": "Unbending Will",
-        "zhTW": "ÿc4堅定意志 ÿc5Unbending Willÿc8",
+        "zhTW": "ÿc4堅定意志",
         "deDE": "Unbeugsamer Wille",
         "esES": "Voluntad de hierro",
         "frFR": "Volonté inébranlable",
@@ -3686,13 +3686,13 @@
         "jaJP": "不屈の意志",
         "ptBR": "Determinação",
         "ruRU": "Непреклонность",
-        "zhCN": "ÿc4坚定意志 ÿc5Unbending Willÿc8"
+        "zhCN": "ÿc4坚定意志"
     },
     {
         "id": 20657,
         "Key": "Runeword152",
         "enUS": "Valor",
-        "zhTW": "ÿc4英勇 ÿc5Valorÿc8",
+        "zhTW": "ÿc4英勇",
         "deDE": "Heldenmut",
         "esES": "Valor",
         "frFR": "Valeur",
@@ -3703,13 +3703,13 @@
         "jaJP": "勇敢",
         "ptBR": "Bravura",
         "ruRU": "Отвага",
-        "zhCN": "ÿc4英勇 ÿc5Valorÿc8"
+        "zhCN": "ÿc4英勇"
     },
     {
         "id": 20658,
         "Key": "Runeword153",
         "enUS": "Vengeance",
-        "zhTW": "ÿc4復仇 ÿc5Vengeanceÿc8",
+        "zhTW": "ÿc4復仇",
         "deDE": "Rache",
         "esES": "Venganza",
         "frFR": "Vengeance",
@@ -3720,13 +3720,13 @@
         "jaJP": "報復",
         "ptBR": "Vingança",
         "ruRU": "Отмщение",
-        "zhCN": "ÿc4复仇 ÿc5Vengeanceÿc8"
+        "zhCN": "ÿc4复仇"
     },
     {
         "id": 20659,
         "Key": "Runeword154",
         "enUS": "Venom",
-        "zhTW": "ÿc4毒牙 ÿc5Venomÿc8",
+        "zhTW": "ÿc4毒牙",
         "deDE": "Geifer",
         "esES": "Ponzoña",
         "frFR": "Venin",
@@ -3737,13 +3737,13 @@
         "jaJP": "毒",
         "ptBR": "Veneno",
         "ruRU": "Яд",
-        "zhCN": "ÿc4毒牙 ÿc5Venomÿc8"
+        "zhCN": "ÿc4毒牙"
     },
     {
         "id": 20660,
         "Key": "Runeword155",
         "enUS": "Victory",
-        "zhTW": "ÿc4勝利 ÿc5Victoryÿc8",
+        "zhTW": "ÿc4勝利",
         "deDE": "Sieg",
         "esES": "Victoria",
         "frFR": "Victoire",
@@ -3754,13 +3754,13 @@
         "jaJP": "勝利",
         "ptBR": "Vitória",
         "ruRU": "Победа",
-        "zhCN": "ÿc4胜利 ÿc5Victoryÿc8"
+        "zhCN": "ÿc4胜利"
     },
     {
         "id": 20661,
         "Key": "Runeword156",
         "enUS": "Voice",
-        "zhTW": "ÿc4聲音 ÿc5Voiceÿc8",
+        "zhTW": "ÿc4聲音",
         "deDE": "Stimme",
         "esES": "Voz",
         "frFR": "Voix",
@@ -3771,13 +3771,13 @@
         "jaJP": "声",
         "ptBR": "Voz",
         "ruRU": "Голос",
-        "zhCN": "ÿc4声音 ÿc5Voiceÿc8"
+        "zhCN": "ÿc4声音"
     },
     {
         "id": 20662,
         "Key": "Runeword157",
         "enUS": "Void",
-        "zhTW": "ÿc4虛無 ÿc5Voidÿc8",
+        "zhTW": "ÿc4虛無",
         "deDE": "[ms]leerer[fs]leere[ns]leeres[pl]leere",
         "esES": "Vacío",
         "frFR": "Vide",
@@ -3788,13 +3788,13 @@
         "jaJP": "虚無",
         "ptBR": "Vazio",
         "ruRU": "Бездна",
-        "zhCN": "ÿc4虚无 ÿc5Voidÿc8"
+        "zhCN": "ÿc4虚无"
     },
     {
         "id": 20663,
         "Key": "Runeword158",
         "enUS": "War",
-        "zhTW": "ÿc4戰爭 ÿc5Warÿc8",
+        "zhTW": "ÿc4戰爭",
         "deDE": "Krieg",
         "esES": "Guerra",
         "frFR": "Guerre",
@@ -3805,13 +3805,13 @@
         "jaJP": "戦争",
         "ptBR": "Guerra",
         "ruRU": "Война",
-        "zhCN": "ÿc4战争 ÿc5Warÿc8"
+        "zhCN": "ÿc4战争"
     },
     {
         "id": 20664,
         "Key": "Runeword159",
         "enUS": "Water",
-        "zhTW": "ÿc4清水 ÿc5Waterÿc8",
+        "zhTW": "ÿc4清水",
         "deDE": "Wasser",
         "esES": "Agua",
         "frFR": "Eau",
@@ -3822,13 +3822,13 @@
         "jaJP": "水",
         "ptBR": "Água",
         "ruRU": "Вода",
-        "zhCN": "ÿc4清水 ÿc5Waterÿc8"
+        "zhCN": "ÿc4清水"
     },
     {
         "id": 20665,
         "Key": "Runeword160",
         "enUS": "Wealth",
-        "zhTW": "ÿc2腰纏萬貫\nÿc4財富 ÿc5Wealthÿc8",
+        "zhTW": "ÿc2腰纏萬貫\nÿc4財富",
         "deDE": "Wohlstand",
         "esES": "Riqueza",
         "frFR": "Richesse",
@@ -3839,13 +3839,13 @@
         "jaJP": "富",
         "ptBR": "Riqueza",
         "ruRU": "Изобилие",
-        "zhCN": "ÿc2腰缠万贯\nÿc4财富 ÿc5Wealthÿc8"
+        "zhCN": "ÿc2腰缠万贯\nÿc4财富"
     },
     {
         "id": 20666,
         "Key": "Runeword161",
         "enUS": "Whisper",
-        "zhTW": "ÿc4低語 ÿc5Whisperÿc8",
+        "zhTW": "ÿc4低語",
         "deDE": "Flüstern",
         "esES": "Susurro",
         "frFR": "Murmure",
@@ -3856,13 +3856,13 @@
         "jaJP": "囁き",
         "ptBR": "Sussurro",
         "ruRU": "Шепот",
-        "zhCN": "ÿc4低语 ÿc5Whisperÿc8"
+        "zhCN": "ÿc4低语"
     },
     {
         "id": 20667,
         "Key": "Runeword162",
         "enUS": "White",
-        "zhTW": "ÿc2PK用，毒招也可拿來過渡\nÿc4白色 ÿc5Whiteÿc8",
+        "zhTW": "ÿc2PK用，毒招也可拿來過渡\nÿc4白色",
         "deDE": "Weiß",
         "esES": "Blancura",
         "frFR": "Blancheur",
@@ -3873,13 +3873,13 @@
         "jaJP": "白",
         "ptBR": "Branco",
         "ruRU": "Белизна",
-        "zhCN": "ÿc2PK用，毒招也可拿来过渡\nÿc4白色 ÿc5Whiteÿc8"
+        "zhCN": "ÿc2PK用，毒招也可拿来过渡\nÿc4白色"
     },
     {
         "id": 20668,
         "Key": "Runeword163",
         "enUS": "Wind",
-        "zhTW": "ÿc1[MAX:160ED]\nÿc4輕風 ÿc5Windÿc8",
+        "zhTW": "ÿc1[MAX:160ED]\nÿc4輕風",
         "deDE": "Wind",
         "esES": "Viento",
         "frFR": "Vent",
@@ -3890,13 +3890,13 @@
         "jaJP": "風",
         "ptBR": "Vento",
         "ruRU": "Ветер",
-        "zhCN": "ÿc1[MAX:160ED]\nÿc4轻风 ÿc5Windÿc8"
+        "zhCN": "ÿc1[MAX:160ED]\nÿc4轻风"
     },
     {
         "id": 20669,
         "Key": "Runeword164",
         "enUS": "Wings of Hope",
-        "zhTW": "ÿc4希望之翼 ÿc5Wings of Hopeÿc8",
+        "zhTW": "ÿc4希望之翼",
         "deDE": "Schwingen der Hoffnung",
         "esES": "Alas de esperanza",
         "frFR": "Ailes de l’espoir",
@@ -3907,13 +3907,13 @@
         "jaJP": "希望の翼",
         "ptBR": "Asas da Esperança",
         "ruRU": "Крылья надежды",
-        "zhCN": "ÿc4希望之翼 ÿc5Wings of Hopeÿc8"
+        "zhCN": "ÿc4希望之翼"
     },
     {
         "id": 20670,
         "Key": "Runeword165",
         "enUS": "Wisdom",
-        "zhTW": "ÿc4智慧 ÿc5Wisdomÿc8",
+        "zhTW": "ÿc4智慧",
         "deDE": "Weisheit",
         "esES": "Sabiduría",
         "frFR": "Sagesse",
@@ -3924,13 +3924,13 @@
         "jaJP": "英知",
         "ptBR": "Sabedoria",
         "ruRU": "Мудрость",
-        "zhCN": "ÿc4智慧 ÿc5Wisdomÿc8"
+        "zhCN": "ÿc4智慧"
     },
     {
         "id": 20671,
         "Key": "Runeword166",
         "enUS": "Woe",
-        "zhTW": "ÿc4悲痛 ÿc5Woeÿc8",
+        "zhTW": "ÿc4悲痛",
         "deDE": "Unglück",
         "esES": "Aflicción",
         "frFR": "Malheur",
@@ -3941,13 +3941,13 @@
         "jaJP": "苦悩",
         "ptBR": "Angústia",
         "ruRU": "Горе",
-        "zhCN": "ÿc4悲痛 ÿc5Woeÿc8"
+        "zhCN": "ÿc4悲痛"
     },
     {
         "id": 20672,
         "Key": "Runeword167",
         "enUS": "Wonder",
-        "zhTW": "ÿc4驚奇 ÿc5Wonderÿc8",
+        "zhTW": "ÿc4驚奇",
         "deDE": "Wunder",
         "esES": "Asombro",
         "frFR": "Merveille",
@@ -3958,13 +3958,13 @@
         "jaJP": "驚異",
         "ptBR": "Fascínio",
         "ruRU": "Чудо",
-        "zhCN": "ÿc4惊奇 ÿc5Wonderÿc8"
+        "zhCN": "ÿc4惊奇"
     },
     {
         "id": 20673,
         "Key": "Runeword168",
         "enUS": "Wrath",
-        "zhTW": "ÿc1[MAX:300亡靈傷害]\nÿc4憤怒 ÿc5Wrathÿc8",
+        "zhTW": "ÿc1[MAX:300亡靈傷害]\nÿc4憤怒",
         "deDE": "Wut",
         "esES": "Ira",
         "frFR": "Courroux",
@@ -3975,13 +3975,13 @@
         "jaJP": "激怒",
         "ptBR": "Ira",
         "ruRU": "Гнев",
-        "zhCN": "ÿc1[MAX:300亡灵伤害]\nÿc4愤怒 ÿc5Wrathÿc8"
+        "zhCN": "ÿc1[MAX:300亡灵伤害]\nÿc4愤怒"
     },
     {
         "id": 20674,
         "Key": "Runeword169",
         "enUS": "Youth",
-        "zhTW": "ÿc4年輕 ÿc5Youthÿc8",
+        "zhTW": "ÿc4年輕",
         "deDE": "Jugend",
         "esES": "Juventud",
         "frFR": "Jeunesse",
@@ -3992,13 +3992,13 @@
         "jaJP": "若さ",
         "ptBR": "Juventude",
         "ruRU": "Юность",
-        "zhCN": "ÿc4年轻 ÿc5Youthÿc8"
+        "zhCN": "ÿc4年轻"
     },
     {
         "id": 20675,
         "Key": "Runeword170",
         "enUS": "Zephyr",
-        "zhTW": "ÿc4和風 ÿc5Zephyrÿc8",
+        "zhTW": "ÿc4和風",
         "deDE": "Zephyr",
         "esES": "Céfiro",
         "frFR": "Zéphyr",
@@ -4009,6 +4009,6 @@
         "jaJP": "軟風",
         "ptBR": "Zefir",
         "ruRU": "Бриз",
-        "zhCN": "ÿc4和风 ÿc5Zephyrÿc8"
+        "zhCN": "ÿc4和风"
     }
 ]

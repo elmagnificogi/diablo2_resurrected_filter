@@ -173,7 +173,7 @@ mod解压到暗黑2重置的目录中
 修改的json文件需要放在下面的目录中
 
 ```
-\Data\local\lng\strings\
+Data\local\lng\strings\
 ```
 
 
