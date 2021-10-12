@@ -184,6 +184,8 @@ Data\local\lng\strings\
 Data\hd\ui\fonts\
 ```
 
+- 由于大部分字体不支持繁体，所以可能你替换了字体也无效
+
 
 
 ## Ref
