@@ -4372,7 +4372,7 @@
     "id": 2182,
     "Key": "gpl",
     "enUS": "Strangling Gas Potion",
-    "zhTW": "勒頸瓦斯",
+    "zhTW": "瓦斯",
     "deDE": "Erstickungsgaselixier",
     "esES": "Poción de gas sofocante",
     "frFR": "[fs]Cartouche de gaz de strangulation",
@@ -4383,13 +4383,13 @@
     "jaJP": "有毒ガス・ポーション",
     "ptBR": "[fs]Poção de Gás Asfixiante",
     "ruRU": "Зелье удавления",
-    "zhCN": "勒颈瓦斯"
+    "zhCN": "瓦斯"
   },
   {
     "id": 2183,
     "Key": "opl",
     "enUS": "Fulminating Potion",
-    "zhTW": "猛烈爆炸",
+    "zhTW": "爆炸",
     "deDE": "Knallelixier",
     "esES": "Poción fulminante",
     "frFR": "[fs]Potion fulminante",
@@ -4400,7 +4400,7 @@
     "jaJP": "火炎ポーション",
     "ptBR": "[fs]Poção Fulminante",
     "ruRU": "Гремучее зелье",
-    "zhCN": "猛烈爆炸"
+    "zhCN": "爆炸"
   },
   {
     "id": 2184,
@@ -4440,7 +4440,7 @@
     "id": 2186,
     "Key": "gps",
     "enUS": "Rancid Gas Potion",
-    "zhTW": "惡臭瓦斯",
+    "zhTW": "惡臭",
     "deDE": "Stinkgaselixier",
     "esES": "Poción de gas rancio",
     "frFR": "[fs]Cartouche de gaz rance",
@@ -4451,7 +4451,7 @@
     "jaJP": "腐食ガス・ポーション",
     "ptBR": "[fs]Poção de Gás Rançoso",
     "ruRU": "Едкий газ",
-    "zhCN": "恶臭瓦斯"
+    "zhCN": "恶臭"
   },
   {
     "id": 2187,
@@ -4657,23 +4657,23 @@
     "ruRU": "Фолиант возвращения",
     "zhCN": "城镇传送之书"
   },
-  {
-    "id": 2200,
-    "Key": "tsc",
-    "enUS": "Scroll of Town Portal",
-    "zhTW": "傳送",
-    "deDE": "Schriftrolle des Stadtportals",
-    "esES": "Pergamino del portal de la ciudad",
-    "frFR": "Parchemin de portail de retour en ville",
-    "itIT": "Pergamena del Portale Cittadino",
-    "koKR": "마을 차원문의 두루마리",
-    "plPL": "Zwój miejskiego portalu",
-    "esMX": "Pergamino de portal al poblado",
-    "jaJP": "タウン・ポータルの巻物",
-    "ptBR": "[ms]Pergaminho do Portal da Cidade",
-    "ruRU": "Свиток возвращения",
-    "zhCN": "传送"
-  },
+    {
+      "id": 2200,
+      "Key": "tsc",
+      "enUS": "Scroll of Town Portal",
+      "zhTW": "回城",
+      "deDE": "Schriftrolle des Stadtportals",
+      "esES": "Pergamino del portal de la ciudad",
+      "frFR": "Parchemin de portail de retour en ville",
+      "itIT": "Pergamena del Portale Cittadino",
+      "koKR": "마을 차원문의 두루마리",
+      "plPL": "Zwój miejskiego portalu",
+      "esMX": "Pergamino de portal al poblado",
+      "jaJP": "タウン・ポータルの巻物",
+      "ptBR": "[ms]Pergaminho do Portal da Cidade",
+      "ruRU": "Свиток возвращения",
+      "zhCN": "回城"
+    },
   {
     "id": 2201,
     "Key": "ibk",
@@ -4691,23 +4691,23 @@
     "ruRU": "Фолиант распознания",
     "zhCN": "辨视之书"
   },
-  {
-    "id": 2202,
-    "Key": "isc",
-    "enUS": "Scroll of Identify",
-    "zhTW": "辨視",
-    "deDE": "Schriftrolle der Identifikation",
-    "esES": "Pergamino de identificación",
-    "frFR": "Parchemin d’identification",
-    "itIT": "Pergamena dell'Identificazione",
-    "koKR": "감별의 두루마리",
-    "plPL": "Zwój identyfikacji",
-    "esMX": "Pergamino de identificación",
-    "jaJP": "鑑定の巻物",
-    "ptBR": "[ms]Pergaminho de Identificação",
-    "ruRU": "Свиток распознания",
-    "zhCN": "辨视"
-  },
+    {
+      "id": 2202,
+      "Key": "isc",
+      "enUS": "Scroll of Identify",
+      "zhTW": "鉴定",
+      "deDE": "Schriftrolle der Identifikation",
+      "esES": "Pergamino de identificación",
+      "frFR": "Parchemin d’identification",
+      "itIT": "Pergamena dell'Identificazione",
+      "koKR": "감별의 두루마리",
+      "plPL": "Zwój identyfikacji",
+      "esMX": "Pergamino de identificación",
+      "jaJP": "鑑定の巻物",
+      "ptBR": "[ms]Pergaminho de Identificação",
+      "ruRU": "Свиток распознания",
+      "zhCN": "鉴定"
+    },
   {
     "id": 2207,
     "Key": "vps",
@@ -4746,7 +4746,7 @@
     "id": 2209,
     "Key": "rvs",
     "enUS": "Rejuvenation Potion",
-    "zhTW": "ÿc;小紫",
+    "zhTW": "小紫",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
     "frFR": "Potion de rajeunissement",
@@ -4757,7 +4757,7 @@
     "jaJP": "回復のポーション",
     "ptBR": "[fs]Poção de Rejuvenescimento",
     "ruRU": "Зелье восстановления",
-    "zhCN": "ÿc;小紫"
+    "zhCN": "小紫"
   },
   {
     "id": 2210,
@@ -5154,7 +5154,7 @@
     "id": 2238,
     "Key": "gsv",
     "enUS": "Amethyst",
-    "zhTW": "ÿc8紫寶石",
+    "zhTW": "ÿc1紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
     "frFR": "Améthyste",
@@ -5165,13 +5165,13 @@
     "jaJP": "アメジスト",
     "ptBR": "[fs]Ametista",
     "ruRU": "Аметист",
-    "zhCN": "ÿc8紫宝石"
+    "zhCN": "ÿc1紫宝石"
   },
   {
     "id": 2239,
     "Key": "gzv",
     "enUS": "Flawless Amethyst",
-    "zhTW": "ÿc8無瑕紫寶石",
+    "zhTW": "ÿc1無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
     "frFR": "Améthyste sans défaut",
@@ -5182,13 +5182,13 @@
     "jaJP": "上質なアメジスト",
     "ptBR": "[fs]Ametista Impecável",
     "ruRU": "Безупречный аметист",
-    "zhCN": "ÿc8无瑕紫宝石"
+    "zhCN": "ÿc1无瑕紫宝石"
   },
   {
     "id": 2240,
     "Key": "gpv",
     "enUS": "Perfect Amethyst",
-    "zhTW": "ÿc8完美紫寶石",
+    "zhTW": "ÿc1完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
     "frFR": "Améthyste parfaite",
@@ -5199,7 +5199,7 @@
     "jaJP": "完璧なアメジスト",
     "ptBR": "[fs]Ametista Perfeita",
     "ruRU": "Идеальный аметист",
-    "zhCN": "ÿc8完美紫宝石"
+    "zhCN": "ÿc1完美紫宝石"
   },
   {
     "id": 2241,
@@ -5239,7 +5239,7 @@
     "id": 2243,
     "Key": "gsy",
     "enUS": "Topaz",
-    "zhTW": "ÿc8黃寶石",
+    "zhTW": "ÿc1黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
     "frFR": "Topaze",
@@ -5250,13 +5250,13 @@
     "jaJP": "トパーズ",
     "ptBR": "[ms]Topázio",
     "ruRU": "Топаз",
-    "zhCN": "ÿc8黄宝石"
+    "zhCN": "ÿc1黄宝石"
   },
   {
     "id": 2244,
     "Key": "gly",
     "enUS": "Flawless Topaz",
-    "zhTW": "ÿc8無瑕黃寶石",
+    "zhTW": "ÿc1無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
     "frFR": "Topaze sans défaut",
@@ -5267,13 +5267,13 @@
     "jaJP": "上質なトパーズ",
     "ptBR": "[ms]Topázio Impecável",
     "ruRU": "Безупречный топаз",
-    "zhCN": "ÿc8无瑕黄宝石"
+    "zhCN": "ÿc1无瑕黄宝石"
   },
   {
     "id": 2245,
     "Key": "gpy",
     "enUS": "Perfect Topaz",
-    "zhTW": "ÿc8完美黃寶石",
+    "zhTW": "ÿc1完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
     "frFR": "Topaze parfaite",
@@ -5284,7 +5284,7 @@
     "jaJP": "完璧なトパーズ",
     "ptBR": "[ms]Topázio Perfeito",
     "ruRU": "Идеальный топаз",
-    "zhCN": "ÿc8完美黄宝石"
+    "zhCN": "ÿc1完美黄宝石"
   },
   {
     "id": 2246,
@@ -5324,7 +5324,7 @@
     "id": 2249,
     "Key": "glb",
     "enUS": "Flawless Sapphire",
-    "zhTW": "ÿc8無瑕藍寶石",
+    "zhTW": "ÿc1無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
     "frFR": "Saphir sans défaut",
@@ -5335,13 +5335,13 @@
     "jaJP": "上質なサファイア",
     "ptBR": "[fs]Safira Impecável",
     "ruRU": "Безупречный сапфир",
-    "zhCN": "ÿc8无瑕蓝宝石"
+    "zhCN": "ÿc1无瑕蓝宝石"
   },
   {
     "id": 2250,
     "Key": "gpb",
     "enUS": "Perfect Sapphire",
-    "zhTW": "ÿc8完美藍寶石",
+    "zhTW": "ÿc1完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
     "frFR": "Saphir parfait",
@@ -5352,7 +5352,7 @@
     "jaJP": "完璧なサファイア",
     "ptBR": "[fs]Safira Perfeita",
     "ruRU": "Идеальный сапфир",
-    "zhCN": "ÿc8完美蓝宝石"
+    "zhCN": "ÿc1完美蓝宝石"
   },
   {
     "id": 2251,
@@ -5392,7 +5392,7 @@
     "id": 2253,
     "Key": "glg",
     "enUS": "Flawless Emerald",
-    "zhTW": "ÿc8無瑕綠寶石",
+    "zhTW": "ÿc1無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
     "frFR": "Émeraude sans défaut",
@@ -5403,13 +5403,13 @@
     "jaJP": "上質なエメラルド",
     "ptBR": "[fs]Esmeralda Impecável",
     "ruRU": "Безупречный изумруд",
-    "zhCN": "ÿc8无瑕绿宝石"
+    "zhCN": "ÿc1无瑕绿宝石"
   },
   {
     "id": 2255,
     "Key": "gpg",
     "enUS": "Perfect Emerald",
-    "zhTW": "ÿc8完美綠寶石",
+    "zhTW": "ÿc1完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
     "frFR": "Émeraude parfaite",
@@ -5420,7 +5420,7 @@
     "jaJP": "完璧なエメラルド",
     "ptBR": "[fs]Esmeralda Perfeita",
     "ruRU": "Идеальный изумруд",
-    "zhCN": "ÿc8完美绿宝石"
+    "zhCN": "ÿc1完美绿宝石"
   },
   {
     "id": 2256,
@@ -5460,7 +5460,7 @@
     "id": 2259,
     "Key": "glr",
     "enUS": "Flawless Ruby",
-    "zhTW": "ÿc8無瑕紅寶石",
+    "zhTW": "ÿc1無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
     "frFR": "Rubis sans défaut",
@@ -5471,13 +5471,13 @@
     "jaJP": "上質なルビー",
     "ptBR": "[ms]Rubi Impecável",
     "ruRU": "Безупречный рубин",
-    "zhCN": "ÿc8无瑕红宝石"
+    "zhCN": "ÿc1无瑕红宝石"
   },
   {
     "id": 2260,
     "Key": "gpr",
     "enUS": "Perfect Ruby",
-    "zhTW": "ÿc8完美紅寶石",
+    "zhTW": "ÿc1完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
     "frFR": "Rubis parfait",
@@ -5488,7 +5488,7 @@
     "jaJP": "完璧なルビー",
     "ptBR": "[ms]Rubi Perfeito",
     "ruRU": "Идеальный рубин",
-    "zhCN": "ÿc8完美红宝石"
+    "zhCN": "ÿc1完美红宝石"
   },
   {
     "id": 2261,
