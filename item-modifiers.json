@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 3333,
     "Key": "priceless",
@@ -1176,7 +1176,7 @@
     "id": 3523,
     "Key": "ModStr2y",
     "enUS": "%d%% Mana stolen per hit",
-    "zhTW": "%d%% 法力于擊中時偷取(LM)",
+    "zhTW": "%d%% 法力於擊中時偷取(LM)",
     "deDE": "%d%% abgesaugtes Mana pro Treffer",
     "esES": "%d%% de maná robado por golpe",
     "frFR": "%d%% de mana volé à chaque coup",
@@ -1193,7 +1193,7 @@
     "id": 3524,
     "Key": "ModStr2z",
     "enUS": "%d%% Life stolen per hit",
-    "zhTW": "%d%% 生命于擊中時偷取(LL)",
+    "zhTW": "%d%% 生命於擊中時偷取(LL)",
     "deDE": "%d%% abgesaugtes Leben pro Treffer",
     "esES": "%d%% de vida robada por golpe",
     "frFR": "%d%% de vie volée à chaque coup",
@@ -4270,7 +4270,7 @@
     "id": 11034,
     "Key": "ModStr3u",
     "enUS": "Hit Causes Monster to Flee %d%%",
-    "zhTW": "%d%% 幾率擊中使怪物逃跑(Flee)",
+    "zhTW": "%d%% 機率擊中使怪物逃跑(Flee)",
     "deDE": "Treffer schlägt Monster in die Flucht %d%%",
     "esES": "%d%% de probabilidad de que los monstruos huyan al golpearlos",
     "frFR": "Le monstre touché s’enfuit pendant %d%%",
