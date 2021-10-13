@@ -14011,7 +14011,7 @@
     "id": 20270,
     "Key": "6hb",
     "enUS": "Blade Bow",
-    "zhTW": "刀鋒弓",
+    "zhTW": "刀鋒弓*",
     "deDE": "[ms]Klingenbogen",
     "esES": "[ms]Arco tajante",
     "frFR": "[ms]Arc lame",
@@ -14022,7 +14022,7 @@
     "jaJP": "ブレイド・ボウ",
     "ptBR": "[ms]Arco Afiado",
     "ruRU": "[ms]лопастной лук",
-    "zhCN": "刀锋弓"
+    "zhCN": "刀锋弓*"
   },
     {
       "id": 20271,
@@ -14096,7 +14096,7 @@
     "id": 20275,
     "Key": "6sw",
     "enUS": "Ward Bow",
-    "zhTW": "庇護之弓",
+    "zhTW": "庇護之弓*",
     "deDE": "[ms]Wächterbogen",
     "esES": "[ms]Arco de custodia",
     "frFR": "[ms]Arc de protection",
@@ -14107,7 +14107,7 @@
     "jaJP": "ウォード・ボウ",
     "ptBR": "[ms]Arco Guardião",
     "ruRU": "[ms]охранный лук",
-    "zhCN": "庇护之弓"
+    "zhCN": "庇护之弓*"
   },
   {
     "id": 20276,
@@ -14419,7 +14419,7 @@
       "id": 20294,
       "Key": "am3",
       "enUS": "Maiden Spear",
-      "zhTW": "女士之矛ÿc1*",
+      "zhTW": "女士之矛*",
       "deDE": "[ms]Jungfernspeer",
       "esES": "[fs]Lanza doncella",
       "frFR": "[fs]Lance de la vierge",
@@ -14430,13 +14430,13 @@
       "jaJP": "メイデン・スピア",
       "ptBR": "[fs]Lança da Dama",
       "ruRU": "[ns]девичье копье",
-      "zhCN": "女士之矛ÿc1*"
+      "zhCN": "女士之矛*"
     },
     {
       "id": 20295,
       "Key": "am4",
       "enUS": "Maiden Pike",
-      "zhTW": "女士長矛ÿc1*",
+      "zhTW": "女士長矛*",
       "deDE": "[fs]Jungfernpike",
       "esES": "[fs]Pica doncella",
       "frFR": "[fs]Pique de la vierge",
@@ -14447,7 +14447,7 @@
       "jaJP": "メイデン・パイク",
       "ptBR": "[ms]Pique da Dama",
       "ruRU": "[fs]девичья пика",
-      "zhCN": "女士长矛ÿc1*"
+      "zhCN": "女士长矛*"
     },
   {
     "id": 20296,
