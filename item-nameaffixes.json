@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1723,
     "Key": "Low Quality",
@@ -394,7 +394,7 @@
     "id": 1747,
     "Key": "Merciless",
     "enUS": "Merciless",
-    "zhTW": "無情",
+    "zhTW": "ÿc7無情",
     "deDE": "[fs]gnadenlose[ms]gnadenloser[ns]gnadenloses[pl]gnadenlose",
     "esES": "[fs]despiadada[ms]despiadado[fp]despiadadas[mp]despiadados",
     "frFR": "sans pitié",
@@ -405,7 +405,7 @@
     "jaJP": "冷酷なる",
     "ptBR": "[ms]Impiedoso[mp]Impiedosos[fs]Impiedosa[fp]Impiedosas",
     "ruRU": "[ms]беспощадный[fs]беспощадная[ns]беспощадное[pl]беспощадные",
-    "zhCN": "无情"
+    "zhCN": "ÿc7无情"
   },
   {
     "id": 1748,
@@ -1091,7 +1091,7 @@
     "id": 1789,
     "Key": "Prismatic",
     "enUS": "Prismatic",
-    "zhTW": "稜彩",
+    "zhTW": "棱彩",
     "deDE": "[fs]prismatische[ms]prismatischer[ns]prismatisches[pl]prismatische",
     "esES": "[fs]prismática[ms]prismático[fp]prismáticas[mp]prismáticos",
     "frFR": "[fs]prismatique[ms]prismatique[fp]prismatiques[mp]prismatiques",
@@ -2162,7 +2162,7 @@
     "id": 1854,
     "Key": "of Deflecting",
     "enUS": "of Deflecting",
-    "zhTW": "ÿc;偏斜之",
+    "zhTW": "偏斜之",
     "deDE": "der Abweisung",
     "esES": "de desvío",
     "frFR": "de déflexion",
@@ -2173,7 +2173,7 @@
     "jaJP": "反射の",
     "ptBR": "do Desvio",
     "ruRU": "уклонения",
-    "zhCN": "ÿc;偏斜之"
+    "zhCN": "偏斜之"
   },
   {
     "id": 1855,
@@ -2655,7 +2655,7 @@
     "id": 1883,
     "Key": "of Precision",
     "enUS": "of Precision",
-    "zhTW": "精準之",
+    "zhTW": "精准之",
     "deDE": "der Präzision",
     "esES": "de precisión",
     "frFR": "de précision",
@@ -3386,7 +3386,7 @@
     "id": 1926,
     "Key": "of the Titan",
     "enUS": "of the Titan",
-    "zhTW": "ÿc;泰坦之",
+    "zhTW": "泰坦之",
     "deDE": "des Titanen",
     "esES": "del titán",
     "frFR": "du Titan",
@@ -3397,7 +3397,7 @@
     "jaJP": "タイタンの",
     "ptBR": "do Titã",
     "ruRU": "титана",
-    "zhCN": "ÿc;泰坦之"
+    "zhCN": "泰坦之"
   },
   {
     "id": 1927,
@@ -3471,7 +3471,7 @@
     "id": 2248,
     "Key": "gsb",
     "enUS": "Sapphire",
-    "zhTW": "ÿc1藍寶石",
+    "zhTW": "ÿc8藍寶石",
     "deDE": "Saphir",
     "esES": "Zafiro",
     "frFR": "Saphir",
@@ -3482,13 +3482,13 @@
     "jaJP": "サファイア",
     "ptBR": "Safira",
     "ruRU": "[ms]Сапфир",
-    "zhCN": "ÿc1蓝宝石"
+    "zhCN": "ÿc8蓝宝石"
   },
   {
     "id": 2254,
     "Key": "gsg",
     "enUS": "Emerald",
-    "zhTW": "ÿc1綠寶石",
+    "zhTW": "ÿc8綠寶石",
     "deDE": "Smaragd",
     "esES": "Esmeralda",
     "frFR": "Émeraude",
@@ -3499,13 +3499,13 @@
     "jaJP": "エメラルド",
     "ptBR": "Esmeralda",
     "ruRU": "[ms]Изумруд",
-    "zhCN": "ÿc1绿宝石"
+    "zhCN": "ÿc8绿宝石"
   },
   {
     "id": 2258,
     "Key": "gsr",
     "enUS": "Ruby",
-    "zhTW": "ÿc1紅寶石",
+    "zhTW": "ÿc8紅寶石",
     "deDE": "Rubin",
     "esES": "Rubí",
     "frFR": "Rubis",
@@ -3516,13 +3516,13 @@
     "jaJP": "ルビー",
     "ptBR": "Rubi",
     "ruRU": "[ms]Рубин",
-    "zhCN": "ÿc1红宝石"
+    "zhCN": "ÿc8红宝石"
   },
   {
     "id": 2263,
     "Key": "gsw",
     "enUS": "Diamond",
-    "zhTW": "ÿc1鑽石",
+    "zhTW": "ÿc8鑽石",
     "deDE": "Diamant",
     "esES": "Diamante",
     "frFR": "Diamant",
@@ -3533,7 +3533,7 @@
     "jaJP": "ダイアモンド",
     "ptBR": "Diamante",
     "ruRU": "[ms]Алмаз",
-    "zhCN": "ÿc1钻石"
+    "zhCN": "ÿc8钻石"
   },
   {
     "id": 2282,
@@ -5426,7 +5426,7 @@
     "id": 2704,
     "Key": "DireUM",
     "enUS": "Dire",
-    "zhTW": "兇邪",
+    "zhTW": "凶邪",
     "deDE": "Entsetzens -",
     "esES": "de la desventura",
     "frFR": "[fs]terrible[ms]terrible[fp]terribles[mp]terribles",
@@ -5749,7 +5749,7 @@
     "id": 2723,
     "Key": "Rust",
     "enUS": "Rust",
-    "zhTW": "鏽蝕",
+    "zhTW": "銹蝕",
     "deDE": "Rost -",
     "esES": "de la herrumbre",
     "frFR": "[fs]rouillée[ms]rouillé[fp]rouillées[mp]rouillés",
@@ -6837,7 +6837,7 @@
     "id": 2787,
     "Key": "SnarlUM",
     "enUS": "Snarl",
-    "zhTW": "兇嘯",
+    "zhTW": "凶嘯",
     "deDE": "[ms]Faucher",
     "esES": "[ms]Refunfuño",
     "frFR": "[ms]Le Grognement",
@@ -7279,7 +7279,7 @@
     "id": 2813,
     "Key": "SlimeUM",
     "enUS": "Slime",
-    "zhTW": "黏液",
+    "zhTW": "粘液",
     "deDE": "[ms]Schleim",
     "esES": "[fs]Babosa",
     "frFR": "[fs]Gelée",
@@ -7449,7 +7449,7 @@
     "id": 2823,
     "Key": "thirstUM",
     "enUS": "Thirst",
-    "zhTW": "飢渴",
+    "zhTW": "饑渴",
     "deDE": "[ms]Durst",
     "esES": "[fs]Sed",
     "frFR": "[fs]Soif",
@@ -8367,7 +8367,7 @@
     "id": 20707,
     "Key": "Envenomed",
     "enUS": "Foul",
-    "zhTW": "汙毒",
+    "zhTW": "污毒",
     "deDE": "[ms]fauler[fs]faule[ns]faules[pl]faule",
     "esES": "[fs]nauseabunda[ms]nauseabundo[fp]nauseabundas[mp]nauseabundos",
     "frFR": "[ms]infect[mp]infects[fs]infecte[fp]infectes",
@@ -8588,7 +8588,7 @@
     "id": 20720,
     "Key": "Shivering",
     "enUS": "Shivering",
-    "zhTW": "寒慄",
+    "zhTW": "寒栗",
     "deDE": "[ms]zitternder[fs]zitternde[ns]zitterndes[pl]zitternde",
     "esES": "[fs]escalofriante[ms]escalofriante[fp]escalofriantes[mp]escalofriantes",
     "frFR": "[ms]vibrant[mp]vibrants[fs]vibrante[fp]vibrantes",
@@ -8775,7 +8775,7 @@
     "id": 20731,
     "Key": "Yelling",
     "enUS": "Yelling",
-    "zhTW": "吶喊",
+    "zhTW": "呐喊",
     "deDE": "[ms]schreiender[fs]schreiende[ns]schreiendes[pl]schreiende",
     "esES": "[fs]chilladora[ms]chillador[fp]chilladoras[mp]chilladores",
     "frFR": "[ms]tumultueux[mp]tumultueux[fs]tumultueuse[fp]tumultueuses",
@@ -10067,7 +10067,7 @@
     "id": 20807,
     "Key": "Jeweler's",
     "enUS": "Jeweler's",
-    "zhTW": "ÿc;珠寶匠的",
+    "zhTW": "珠寶匠的",
     "deDE": "[ms]prunkvoller[fs]prunkvolle[ns]prunkvolles[pl]prunkvolle",
     "esES": "[fs]de joyero[ms]de joyero[fp]de joyero[mp]de joyero",
     "frFR": "[ms]joaillier[mp]joailliers[fs]joaillière[fp]joaillières",
@@ -10078,7 +10078,7 @@
     "jaJP": "宝石職人が携えし",
     "ptBR": "[fs]Joalheira[ms]Joalheiro[fp]Joalheiras[mp]Joalheiros",
     "ruRU": "[ms]инкрустируемый[fs]инкрустируемая[ns]инкрустируемое[pl]инкрустируемые",
-    "zhCN": "ÿc;珠宝匠的"
+    "zhCN": "珠宝匠的"
   },
   {
     "id": 20808,
@@ -10594,7 +10594,7 @@
     "id": 20838,
     "Key": "Cinnabar",
     "enUS": "Cinnabar",
-    "zhTW": "硃砂",
+    "zhTW": "朱砂",
     "deDE": "[ms]zinnoberroter[fs]zinnoberrote[ns]zinnoberrotes[pl]zinnoberrote",
     "esES": "[fs]cinabrio[ms]cinabrio[fp]cinabrio[mp]cinabrio",
     "frFR": "[ms]rouge pâle[mp]rouge pâle[fs]rouge pâle[fp]rouge pâle",
@@ -11750,7 +11750,7 @@
     "id": 20906,
     "Key": "Wicked",
     "enUS": "Wicked",
-    "zhTW": "兇邪",
+    "zhTW": "凶邪",
     "deDE": "[ms]bösartiger[fs]bösartige[ns]bösartiges[pl]bösartige",
     "esES": "[fs]perversa[ms]perverso[fp]perversas[mp]perversos",
     "frFR": "[ms]maudit[mp]maudits[fs]maudite[fp]maudites",
@@ -11818,7 +11818,7 @@
     "id": 20910,
     "Key": "Crude",
     "enUS": "Crude",
-    "zhTW": "粗製",
+    "zhTW": "粗制",
     "deDE": "[ms]einfacher[fs]einfache[ns]einfaches[pl]einfache",
     "esES": "[fs]basta[ms]basto[fp]bastas[mp]bastos",
     "frFR": "[ms]primitif[mp]primitifs[fs]primitive[fp]primitives",
@@ -12209,7 +12209,7 @@
     "id": 20933,
     "Key": "of Chilling Armor",
     "enUS": "of Chilling Armor",
-    "zhTW": "冰稜甲之",
+    "zhTW": "冰棱甲之",
     "deDE": "der Frostrüstung",
     "esES": "de Armadura glacial",
     "frFR": "d’armure de gel",
@@ -13042,7 +13042,7 @@
     "id": 20982,
     "Key": "of the Whale",
     "enUS": "of the Whale",
-    "zhTW": "ÿc;巨鯨之",
+    "zhTW": "巨鯨之",
     "deDE": "des Wals",
     "esES": "de la ballena",
     "frFR": "de la baleine",
@@ -13053,7 +13053,7 @@
     "jaJP": "鯨の",
     "ptBR": "da Baleia",
     "ruRU": "со знаком кита",
-    "zhCN": "ÿc;巨鲸之"
+    "zhCN": "巨鲸之"
   },
   {
     "id": 20983,
@@ -13212,7 +13212,7 @@
     "id": 20992,
     "Key": "of Revivification",
     "enUS": "of Revivification",
-    "zhTW": "復甦之",
+    "zhTW": "復蘇之",
     "deDE": "der Wiederbelebung",
     "esES": "de revivificación",
     "frFR": "de résurrection",
@@ -17020,7 +17020,7 @@
     "id": 22473,
     "Key": "Fanatic",
     "enUS": "Fanatic",
-    "zhTW": "兇怒",
+    "zhTW": "凶怒",
     "deDE": "[ms]fanatischer[fs]fanatische[ns]fanatisches[pl]fanatische",
     "esES": "[fs]fanática[ms]fanático[fp]fanáticas[mp]fanáticos",
     "frFR": "[ms]fanatique[fs]fanatique[mp]fanatiques[fp]fanatiques",
