@@ -20,7 +20,7 @@
         "id": 10903,
         "Key": "r16L",
         "enUS": "Io",
-        "zhTW": "艾歐ÿc5Ioÿc2#16ÿc4ÿc8",
+        "zhTW": "艾歐ÿc2#16ÿc4ÿc8",
         "deDE": "Io",
         "esES": "Io",
         "frFR": "Io",
@@ -31,7 +31,7 @@
         "jaJP": "イオ",
         "ptBR": "Io",
         "ruRU": "Ио",
-        "zhCN": "艾欧ÿc5Ioÿc2#16ÿc4ÿc8"
+        "zhCN": "艾欧ÿc2#16ÿc4ÿc8"
     },
     {
         "id": 10904,
@@ -54,7 +54,7 @@
         "id": 10905,
         "Key": "r13L",
         "enUS": "Shael",
-        "zhTW": "夏ÿc5Shaelÿc2#13ÿc4ÿc8",
+        "zhTW": "夏ÿc2#13ÿc4ÿc8",
         "deDE": "Shael",
         "esES": "Shael",
         "frFR": "Shael",
@@ -65,7 +65,7 @@
         "jaJP": "シャエル",
         "ptBR": "Shael",
         "ruRU": "Шаэль",
-        "zhCN": "夏ÿc5Shaelÿc2#13ÿc4ÿc8"
+        "zhCN": "夏ÿc2#13ÿc4ÿc8"
     },
     {
         "id": 10906,
@@ -88,7 +88,7 @@
         "id": 10907,
         "Key": "r31L",
         "enUS": "Jah",
-        "zhTW": "喬ÿc5Jahÿc2#31ÿc4ÿc8",
+        "zhTW": "喬ÿc2#31ÿc4ÿc8",
         "deDE": "Jah",
         "esES": "Jah",
         "frFR": "Jah",
@@ -99,7 +99,7 @@
         "jaJP": "ジャー",
         "ptBR": "Jah",
         "ruRU": "Джа",
-        "zhCN": "乔ÿc5Jahÿc2#31ÿc4ÿc8"
+        "zhCN": "乔ÿc2#31ÿc4ÿc8"
     },
     {
         "id": 10910,
@@ -632,7 +632,7 @@
         "id": 20473,
         "Key": "r33L",
         "enUS": "Zod",
-        "zhTW": "薩德ÿc5Zodÿc2#33ÿc4ÿc8",
+        "zhTW": "薩德ÿc2#33ÿc4ÿc8",
         "deDE": "Zod",
         "esES": "Zod",
         "frFR": "Zod",
@@ -643,13 +643,13 @@
         "jaJP": "ゾッド",
         "ptBR": "Zod",
         "ruRU": "Зод",
-        "zhCN": "萨德ÿc5Zodÿc2#33ÿc4ÿc8"
+        "zhCN": "萨德ÿc2#33ÿc4ÿc8"
     },
     {
         "id": 20474,
         "Key": "r32L",
         "enUS": "Cham",
-        "zhTW": "查姆ÿc5Chamÿc2#32ÿc4ÿc8",
+        "zhTW": "查姆ÿc2#32ÿc4ÿc8",
         "deDE": "Cham",
         "esES": "Cham",
         "frFR": "Cham",
@@ -660,13 +660,13 @@
         "jaJP": "チャム",
         "ptBR": "Cham",
         "ruRU": "Чам",
-        "zhCN": "查姆ÿc5Chamÿc2#32ÿc4ÿc8"
+        "zhCN": "查姆ÿc2#32ÿc4ÿc8"
     },
     {
         "id": 20476,
         "Key": "r30L",
         "enUS": "Ber",
-        "zhTW": "貝ÿc5Berÿc2#30ÿc4ÿc8",
+        "zhTW": "貝ÿc2#30ÿc4ÿc8",
         "deDE": "Ber",
         "esES": "Ber",
         "frFR": "Ber",
@@ -677,13 +677,13 @@
         "jaJP": "バー",
         "ptBR": "Ber",
         "ruRU": "Бер",
-        "zhCN": "贝ÿc5Berÿc2#30ÿc4ÿc8"
+        "zhCN": "贝ÿc2#30ÿc4ÿc8"
     },
     {
         "id": 20477,
         "Key": "r29L",
         "enUS": "Sur",
-        "zhTW": "瑟ÿc5Surÿc2#29ÿc4ÿc8",
+        "zhTW": "瑟ÿc2#29ÿc4ÿc8",
         "deDE": "Sur",
         "esES": "Sur",
         "frFR": "Sur",
@@ -694,13 +694,13 @@
         "jaJP": "サー",
         "ptBR": "Sur",
         "ruRU": "Сур",
-        "zhCN": "瑟ÿc5Surÿc2#29ÿc4ÿc8"
+        "zhCN": "瑟ÿc2#29ÿc4ÿc8"
     },
     {
         "id": 20478,
         "Key": "r28L",
         "enUS": "Lo",
-        "zhTW": "羅ÿc5Loÿc2#28ÿc4ÿc8",
+        "zhTW": "羅ÿc2#28ÿc4ÿc8",
         "deDE": "Lo",
         "esES": "Lo",
         "frFR": "Lo",
@@ -711,13 +711,13 @@
         "jaJP": "ロー",
         "ptBR": "Lo",
         "ruRU": "Ло",
-        "zhCN": "罗ÿc5Loÿc2#28ÿc4ÿc8"
+        "zhCN": "罗ÿc2#28ÿc4ÿc8"
     },
     {
         "id": 20479,
         "Key": "r27L",
         "enUS": "Ohm",
-        "zhTW": "歐姆ÿc5Ohmÿc2#27ÿc4ÿc8",
+        "zhTW": "歐姆ÿc2#27ÿc4ÿc8",
         "deDE": "Ohm",
         "esES": "Ohm",
         "frFR": "Ohm",
@@ -728,13 +728,13 @@
         "jaJP": "オーム",
         "ptBR": "Ohm",
         "ruRU": "Ом",
-        "zhCN": "欧姆ÿc5Ohmÿc2#27ÿc4ÿc8"
+        "zhCN": "欧姆ÿc2#27ÿc4ÿc8"
     },
     {
         "id": 20480,
         "Key": "r26L",
         "enUS": "Vex",
-        "zhTW": "伐克斯ÿc5Vexÿc2#26ÿc4ÿc8",
+        "zhTW": "伐克斯ÿc2#26ÿc4ÿc8",
         "deDE": "Vex",
         "esES": "Vex",
         "frFR": "Vex",
@@ -745,13 +745,13 @@
         "jaJP": "ヴェックス",
         "ptBR": "Vex",
         "ruRU": "Векс",
-        "zhCN": "伐克斯ÿc5Vexÿc2#26ÿc4ÿc8"
+        "zhCN": "伐克斯ÿc2#26ÿc4ÿc8"
     },
     {
         "id": 20481,
         "Key": "r25L",
         "enUS": "Gul",
-        "zhTW": "古爾ÿc5Gulÿc2#25ÿc4ÿc8",
+        "zhTW": "古爾ÿc2#25ÿc4ÿc8",
         "deDE": "Gul",
         "esES": "Gul",
         "frFR": "Gul",
@@ -762,13 +762,13 @@
         "jaJP": "ガル",
         "ptBR": "Gul",
         "ruRU": "Гул",
-        "zhCN": "古尔ÿc5Gulÿc2#25ÿc4ÿc8"
+        "zhCN": "古尔ÿc2#25ÿc4ÿc8"
     },
     {
         "id": 20482,
         "Key": "r24L",
         "enUS": "Ist",
-        "zhTW": "伊斯特ÿc5Istÿc2#24ÿc4ÿc8",
+        "zhTW": "伊斯特ÿc2#24ÿc4ÿc8",
         "deDE": "Ist",
         "esES": "Ist",
         "frFR": "Ist",
@@ -779,13 +779,13 @@
         "jaJP": "イスト",
         "ptBR": "Ist",
         "ruRU": "Ист",
-        "zhCN": "伊斯特ÿc5Istÿc2#24ÿc4ÿc8"
+        "zhCN": "伊斯特ÿc2#24ÿc4ÿc8"
     },
     {
         "id": 20483,
         "Key": "r23L",
         "enUS": "Mal",
-        "zhTW": "馬爾ÿc5Malÿc2#23ÿc4ÿc8",
+        "zhTW": "馬爾ÿc2#23ÿc4ÿc8",
         "deDE": "Mal",
         "esES": "Mal",
         "frFR": "Mal",
@@ -796,13 +796,13 @@
         "jaJP": "マル",
         "ptBR": "Mal",
         "ruRU": "Мал",
-        "zhCN": "马尔ÿc5Malÿc2#23ÿc4ÿc8"
+        "zhCN": "马尔ÿc2#23ÿc4ÿc8"
     },
     {
         "id": 20484,
         "Key": "r22L",
         "enUS": "Um",
-        "zhTW": "烏姆ÿc5Umÿc2#22ÿc4ÿc8",
+        "zhTW": "烏姆ÿc2#22ÿc4ÿc8",
         "deDE": "Um",
         "esES": "Um",
         "frFR": "Um",
@@ -813,13 +813,13 @@
         "jaJP": "アム",
         "ptBR": "Um",
         "ruRU": "Ом",
-        "zhCN": "乌姆ÿc5Umÿc2#22ÿc4ÿc8"
+        "zhCN": "乌姆ÿc2#22ÿc4ÿc8"
     },
     {
         "id": 20485,
         "Key": "r21L",
         "enUS": "Pul",
-        "zhTW": "普爾ÿc5Pulÿc2#21ÿc4ÿc8",
+        "zhTW": "普爾ÿc2#21ÿc4ÿc8",
         "deDE": "Pul",
         "esES": "Pul",
         "frFR": "Pul",
@@ -830,13 +830,13 @@
         "jaJP": "プル",
         "ptBR": "Pul",
         "ruRU": "Пул",
-        "zhCN": "普尔ÿc5Pulÿc2#21ÿc4ÿc8"
+        "zhCN": "普尔ÿc2#21ÿc4ÿc8"
     },
     {
         "id": 20486,
         "Key": "r20L",
         "enUS": "Lem",
-        "zhTW": "藍姆ÿc5Lemÿc2#20ÿc4ÿc8",
+        "zhTW": "藍姆ÿc2#20ÿc4ÿc8",
         "deDE": "Lem",
         "esES": "Lem",
         "frFR": "Lem",
@@ -847,13 +847,13 @@
         "jaJP": "レム",
         "ptBR": "Lem",
         "ruRU": "Лем",
-        "zhCN": "蓝姆ÿc5Lemÿc2#20ÿc4ÿc8"
+        "zhCN": "蓝姆ÿc2#20ÿc4ÿc8"
     },
     {
         "id": 20487,
         "Key": "r19L",
         "enUS": "Fal",
-        "zhTW": "法爾ÿc5Falÿc2#19ÿc4ÿc8",
+        "zhTW": "法爾ÿc2#19ÿc4ÿc8",
         "deDE": "Fal",
         "esES": "Fal",
         "frFR": "Fal",
@@ -864,13 +864,13 @@
         "jaJP": "ファル",
         "ptBR": "Fal",
         "ruRU": "Фал",
-        "zhCN": "法尔ÿc5Falÿc2#19ÿc4ÿc8"
+        "zhCN": "法尔ÿc2#19ÿc4ÿc8"
     },
     {
         "id": 20488,
         "Key": "r18L",
         "enUS": "Ko",
-        "zhTW": "科ÿc5Koÿc2#18ÿc4ÿc8",
+        "zhTW": "科ÿc2#18ÿc4ÿc8",
         "deDE": "Ko",
         "esES": "Ko",
         "frFR": "Ko",
@@ -881,13 +881,13 @@
         "jaJP": "コー",
         "ptBR": "Ko",
         "ruRU": "Ко",
-        "zhCN": "科ÿc5Koÿc2#18ÿc4ÿc8"
+        "zhCN": "科ÿc2#18ÿc4ÿc8"
     },
     {
         "id": 20489,
         "Key": "r17L",
         "enUS": "Lum",
-        "zhTW": "盧姆ÿc5Lumÿc2#17ÿc4ÿc8",
+        "zhTW": "盧姆ÿc2#17ÿc4ÿc8",
         "deDE": "Lum",
         "esES": "Lum",
         "frFR": "Lum",
@@ -898,13 +898,13 @@
         "jaJP": "ラム",
         "ptBR": "Lum",
         "ruRU": "Лум",
-        "zhCN": "卢姆ÿc5Lumÿc2#17ÿc4ÿc8"
+        "zhCN": "卢姆ÿc2#17ÿc4ÿc8"
     },
     {
         "id": 20491,
         "Key": "r15L",
         "enUS": "Hel",
-        "zhTW": "海爾ÿc5Helÿc2#15ÿc4ÿc8",
+        "zhTW": "海爾ÿc2#15ÿc4ÿc8",
         "deDE": "Hel",
         "esES": "Hel",
         "frFR": "Hel",
@@ -915,13 +915,13 @@
         "jaJP": "ヘル",
         "ptBR": "Hel",
         "ruRU": "Хел",
-        "zhCN": "海尔ÿc5Helÿc2#15ÿc4ÿc8"
+        "zhCN": "海尔ÿc2#15ÿc4ÿc8"
     },
     {
         "id": 20492,
         "Key": "r14L",
         "enUS": "Dol",
-        "zhTW": "多爾ÿc5Dolÿc2#14ÿc4ÿc8",
+        "zhTW": "多爾ÿc2#14ÿc4ÿc8",
         "deDE": "Dol",
         "esES": "Dol",
         "frFR": "Dol",
@@ -932,13 +932,13 @@
         "jaJP": "ドル",
         "ptBR": "Dol",
         "ruRU": "Дол",
-        "zhCN": "多尔ÿc5Dolÿc2#14ÿc4ÿc8"
+        "zhCN": "多尔ÿc2#14ÿc4ÿc8"
     },
     {
         "id": 20494,
         "Key": "r12L",
         "enUS": "Sol",
-        "zhTW": "索爾ÿc5Solÿc2#12ÿc4ÿc8",
+        "zhTW": "索爾ÿc2#12ÿc4ÿc8",
         "deDE": "Sol",
         "esES": "Sol",
         "frFR": "Sol",
@@ -949,13 +949,13 @@
         "jaJP": "ソル",
         "ptBR": "Sol",
         "ruRU": "Сол",
-        "zhCN": "索尔ÿc5Solÿc2#12ÿc4ÿc8"
+        "zhCN": "索尔ÿc2#12ÿc4ÿc8"
     },
     {
         "id": 20495,
         "Key": "r11L",
         "enUS": "Amn",
-        "zhTW": "安姆ÿc5Amnÿc2#11ÿc4ÿc8",
+        "zhTW": "安姆ÿc2#11ÿc4ÿc8",
         "deDE": "Amn",
         "esES": "Amn",
         "frFR": "Amn",
@@ -966,13 +966,13 @@
         "jaJP": "アムン",
         "ptBR": "Amn",
         "ruRU": "Амн",
-        "zhCN": "安姆ÿc5Amnÿc2#11ÿc4ÿc8"
+        "zhCN": "安姆ÿc2#11ÿc4ÿc8"
     },
     {
         "id": 20496,
         "Key": "r10L",
         "enUS": "Thul",
-        "zhTW": "書爾ÿc5Thulÿc2#10ÿc4ÿc8",
+        "zhTW": "書爾ÿc2#10ÿc4ÿc8",
         "deDE": "Thul",
         "esES": "Thul",
         "frFR": "Thul",
@@ -983,13 +983,13 @@
         "jaJP": "スル",
         "ptBR": "Thul",
         "ruRU": "Тул",
-        "zhCN": "书尔ÿc5Thulÿc2#10ÿc4ÿc8"
+        "zhCN": "书尔ÿc2#10ÿc4ÿc8"
     },
     {
         "id": 20497,
         "Key": "r09L",
         "enUS": "Ort",
-        "zhTW": "歐特ÿc5Ortÿc2#9ÿc4ÿc8",
+        "zhTW": "歐特ÿc2#9ÿc4ÿc8",
         "deDE": "Ort",
         "esES": "Ort",
         "frFR": "Ort",
@@ -1000,13 +1000,13 @@
         "jaJP": "オルト",
         "ptBR": "Ort",
         "ruRU": "Орт",
-        "zhCN": "欧特ÿc5Ortÿc2#9ÿc4ÿc8"
+        "zhCN": "欧特ÿc2#9ÿc4ÿc8"
     },
     {
         "id": 20498,
         "Key": "r08L",
         "enUS": "Ral",
-        "zhTW": "拉爾ÿc5Ralÿc2#8ÿc4ÿc8",
+        "zhTW": "拉爾ÿc2#8ÿc4ÿc8",
         "deDE": "Ral",
         "esES": "Ral",
         "frFR": "Ral",
@@ -1017,13 +1017,13 @@
         "jaJP": "ラル",
         "ptBR": "Ral",
         "ruRU": "Рал",
-        "zhCN": "拉尔ÿc5Ralÿc2#8ÿc4ÿc8"
+        "zhCN": "拉尔ÿc2#8ÿc4ÿc8"
     },
     {
         "id": 20499,
         "Key": "r07L",
         "enUS": "Tal",
-        "zhTW": "塔爾ÿc5Talÿc2#7ÿc4ÿc8",
+        "zhTW": "塔爾ÿc2#7ÿc4ÿc8",
         "deDE": "Tal",
         "esES": "Tal",
         "frFR": "Tal",
@@ -1034,13 +1034,13 @@
         "jaJP": "タル",
         "ptBR": "Tal",
         "ruRU": "Тхаль",
-        "zhCN": "塔尔ÿc5Talÿc2#7ÿc4ÿc8"
+        "zhCN": "塔尔ÿc2#7ÿc4ÿc8"
     },
     {
         "id": 20500,
         "Key": "r06L",
         "enUS": "Ith",
-        "zhTW": "伊斯ÿc5Ithÿc2#6ÿc4ÿc8",
+        "zhTW": "伊斯ÿc2#6ÿc4ÿc8",
         "deDE": "Ith",
         "esES": "Ith",
         "frFR": "Ith",
@@ -1051,13 +1051,13 @@
         "jaJP": "イス",
         "ptBR": "Ith",
         "ruRU": "Ит",
-        "zhCN": "伊斯ÿc5Ithÿc2#6ÿc4ÿc8"
+        "zhCN": "伊斯ÿc2#6ÿc4ÿc8"
     },
     {
         "id": 20501,
         "Key": "r05L",
         "enUS": "Eth",
-        "zhTW": "愛斯ÿc5Ethÿc2#5ÿc4ÿc8",
+        "zhTW": "愛斯ÿc2#5ÿc4ÿc8",
         "deDE": "Eth",
         "esES": "Eth",
         "frFR": "Eth",
@@ -1068,13 +1068,13 @@
         "jaJP": "エス",
         "ptBR": "Eth",
         "ruRU": "Эт",
-        "zhCN": "爱斯ÿc5Ethÿc2#5ÿc4ÿc8"
+        "zhCN": "爱斯ÿc2#5ÿc4ÿc8"
     },
     {
         "id": 20502,
         "Key": "r04L",
         "enUS": "Nef",
-        "zhTW": "那夫ÿc5Nefÿc2#4ÿc4ÿc8",
+        "zhTW": "那夫ÿc2#4ÿc4ÿc8",
         "deDE": "Nef",
         "esES": "Nef",
         "frFR": "Nef",
@@ -1085,13 +1085,13 @@
         "jaJP": "ネフ",
         "ptBR": "Nef",
         "ruRU": "Неф",
-        "zhCN": "那夫ÿc5Nefÿc2#4ÿc4ÿc8"
+        "zhCN": "那夫ÿc2#4ÿc4ÿc8"
     },
     {
         "id": 20503,
         "Key": "r03L",
         "enUS": "Tir",
-        "zhTW": "特爾ÿc5Tirÿc2#3ÿc4ÿc8",
+        "zhTW": "特爾ÿc2#3ÿc4ÿc8",
         "deDE": "Tir",
         "esES": "Tir",
         "frFR": "Tir",
@@ -1102,13 +1102,13 @@
         "jaJP": "ティア",
         "ptBR": "Tir",
         "ruRU": "Тир",
-        "zhCN": "特尔ÿc5Tirÿc2#3ÿc4ÿc8"
+        "zhCN": "特尔ÿc2#3ÿc4ÿc8"
     },
     {
         "id": 20504,
         "Key": "r02L",
         "enUS": "Eld",
-        "zhTW": "艾德ÿc5Eldÿc2#2ÿc4ÿc8",
+        "zhTW": "艾德ÿc2#2ÿc4ÿc8",
         "deDE": "Eld",
         "esES": "Eld",
         "frFR": "Eld",
@@ -1119,13 +1119,13 @@
         "jaJP": "エルド",
         "ptBR": "Eld",
         "ruRU": "Элд",
-        "zhCN": "艾德ÿc5Eldÿc2#2ÿc4ÿc8"
+        "zhCN": "艾德ÿc2#2ÿc4ÿc8"
     },
     {
         "id": 20505,
         "Key": "r01L",
         "enUS": "El",
-        "zhTW": "艾爾ÿc5Elÿc2#1ÿc4ÿc8",
+        "zhTW": "艾爾ÿc2#1ÿc4ÿc8",
         "deDE": "El",
         "esES": "El",
         "frFR": "El",
@@ -1136,7 +1136,7 @@
         "jaJP": "エル",
         "ptBR": "El",
         "ruRU": "Эль",
-        "zhCN": "艾尔ÿc5Elÿc2#1ÿc4ÿc8"
+        "zhCN": "艾尔ÿc2#1ÿc4ÿc8"
     },
     {
         "id": 20506,
