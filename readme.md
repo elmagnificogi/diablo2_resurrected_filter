@@ -1,6 +1,6 @@
 # Only For Chinese and Traditional Chinese
 
-The filter only for Chinese and Traditional Chinese, i didn't change it for other language.Maybe you could modify it for you own.
+The filter only for Chinese and Traditional Chinese, i didn't change it for other language.Maybe you could modify it for your own.
 
 
 
@@ -8,7 +8,7 @@ I know someone write one for English, maybe you could try it.
 
 > https://github.com/AlexisEvo/d2r-loot-filter
 
-More questions just Issue or mail me.
+More questions just submit issue or mail me.
 
 
 
@@ -79,6 +79,7 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 - 极品前缀紫色标识，**会影响其后缀**
 - 符文根据实用性和价值放大或者缩小
 - 移除过大的精华词缀
+- 移除扩、精、轻、重、中等词缀
 
 还有更多需要私聊我吧，慢慢改进。
 
@@ -92,7 +93,7 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 
 2021.10.10晚，补充暗金吐槽，移除部分英文，增加法师铠甲*，删除部分词缀后的英文，区分碎和裂的宝石
 
-2021.10.12，增加极品前缀、*更加明显、超红小紫取消颜色、符文价值区分、大小调整、移除暗金和符文类装备上的英文、宝石颜色调整、名称缩小
+2021.10.12，增加极品前缀、*更加明显、超红小紫取消颜色、符文价值区分、大小调整、移除暗金和符文类装备上的英文、宝石颜色调整、名称缩小、移除扩、精、轻、重、中等词缀
 
 
 
