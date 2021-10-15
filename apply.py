@@ -8,6 +8,19 @@ ext = []
 material = []
 comment = {}
 float_value = {}
+abbreviation = []
+item_names = {}
+item_modifiers = {}
+item_nameaffixes = {}
+item_runes = {}
+
+item_names = {}
+item_modifiers = {}
+item_nameaffixes = {}
+item_runes = {}
+
+new_item_names = []
+new_item_nameaffixes = []
 
 with open('./table/好底材id.json','r',encoding='utf8')as dp:
     material = json.load(dp)
@@ -25,80 +38,76 @@ with open('./table/装备浮动数值.json','r',encoding='utf8')as dp:
     float_value = json.load(dp)
 with open('./table/装备吐槽.json','r',encoding='utf8')as dp:
     comment = json.load(dp)
+with open('./table/名称缩短.json','r',encoding='utf8')as dp:
+    abbreviation = json.load(dp)
 
-a = input()
-a +=1
-#
-# for item in my_json_data:
-#     # print(item["zhCN"])
-#     name = item["zhCN"]
-#
-#     t = name.split("|")
-#     if len(t)>1:
-#         #print(t)
-#         # 抽出来所有轻型装备id
-#         if '轻' in t[1]:
-#             light.append(item['id'])
-#         # 抽出来所有中型装备id
-#         if '中' in t[1]:
-#             mid.append(item['id'])
-#         # 抽出来所有重型装备id
-#         if '重' in t[1]:
-#             heavy.append(item['id'])
-#         # 抽出来所有扩展装备id
-#         if '扩' in t[1]:
-#             ext.append(item['id'])
-#         # 抽出来所有精华装备id
-#         if '精' in t[1]:
-#             epic.append(item['id'])
-#
-#     # 抽出来所有优质底材id
-#     t = name.find("*")
-#     if t > 0:
-#         if name.find("UP*2") != -1:
-#             continue
-#         #print(name)
-#         material.append(item['id'])
-#
-#     # 抽出来所有浮动数值id
-#     t = name.find("MAX:")
-#     if t != -1:
-#         t1 = item["zhTW"].find("MAX:")
-#         n1 = item["zhTW"].find("]")
-#
-#         #print(name)
-#         n = name.find("]")
-#         float_value[item['id']]=[name[t:n],item["zhTW"][t1:n1]]
-#         #print(float_value[item['id']])
-#
-#     t = name.find("ÿc2")
-#     if t != -1:
-#         n = name.find("\n",t+1,len(name))
-#         t1 = item["zhTW"].find("ÿc2")
-#         n1 = item["zhTW"].find("\n",t1+3,len(item["zhTW"]))
-#         #print(name[t+3:n])
-#         comment[item['id']] = [name[t+3:n],item["zhTW"][t1+3:n1]]
-#     else:
-#         t = name.find("\n")
-#         n = name.find("MAX:")
-#         if t != -1 and n==-1:
-#             print(name)
-#             t1 = item["zhTW"].find("\n")
-#             comment[item['id']] = [name[:t], item["zhTW"][:t1]]
-#
-# print("所有轻型装备id")
-# print(light)
-# print("所有中型装备id")
-# print(mid)
-# print("所有重型装备id")
-# print(heavy)
-# print("所有扩展装备id")
-# print(ext)
-# print("所有精华装备id")
-# print(epic)
-# print("所有好底材id")
-# print(material)
-# print("所有装备浮动数值")
-# print(float_value)
-# print("所有吐槽")
-# print(comment)
+with open('./ori/item-names.json','r',encoding='utf-8-sig')as dp:
+    item_names = json.load(dp)
+# with open('./ori/item_modifiers.json','r',encoding='utf-8-sig')as dp:
+#     item_modifiers = json.load(dp)
+with open('./ori/item-nameaffixes.json','r',encoding='utf-8-sig')as dp:
+    item_nameaffixes = json.load(dp)
+with open('./ori/item-runes.json','r',encoding='utf-8-sig')as dp:
+    item_runes = json.load(dp)
+
+def add_separator_suffix(name,separator,suffix):
+    if separator != "":
+        if name.find(separator) != -1:
+            return name + suffix
+    return name + separator + suffix
+
+def find_index_in_array(id,array):
+    index=0
+    for index in range(len(array)):
+        if array[index]["id"] == int(id):
+            return index
+    return -1
+
+for item in item_names:
+    # print(item["zhCN"])
+    name = item
+    if name["id"] in light:
+        name["zhCN"] = add_separator_suffix(name["zhCN"],"|","轻")
+        name["zhTW"] = add_separator_suffix(name["zhTW"],"|","輕")
+    if name["id"] in mid:
+        name["zhCN"] = add_separator_suffix(name["zhCN"],"|","中")
+        name["zhTW"] = add_separator_suffix(name["zhTW"],"|","中")
+    if name["id"] in heavy:
+        name["zhCN"] = add_separator_suffix(name["zhCN"], "|", "重")
+        name["zhTW"] = add_separator_suffix(name["zhTW"], "|", "重")
+    if name["id"] in ext:
+        name["zhCN"] = add_separator_suffix(name["zhCN"], "|", "扩")
+        name["zhTW"] = add_separator_suffix(name["zhTW"], "|", "擴")
+    if name["id"] in epic:
+        name["zhCN"] = add_separator_suffix(name["zhCN"], "|", "精")
+        name["zhTW"] = add_separator_suffix(name["zhTW"], "|", "精")
+    if name["id"] in material:
+        name["zhCN"] = add_separator_suffix(name["zhCN"], "", "ÿc1*")
+        name["zhTW"] = add_separator_suffix(name["zhTW"], "", "ÿc1*")
+
+    if str(name["id"]) in comment.keys():
+        name["zhCN"] = "ÿc8"+comment[str(name["id"])] [0]+"\n" + name["zhCN"]
+        name["zhTW"] = "ÿc8"+comment[str(name["id"])] [1]+"\n" + name["zhTW"]
+
+    if str(name["id"]) in float_value.keys():
+        name["zhCN"] = "ÿc3"+float_value[str(name["id"])][0]+"\n"+ name["zhCN"]
+        name["zhTW"] = "ÿc3"+float_value[str(name["id"])][1]+"\n"+ name["zhTW"]
+
+    index = find_index_in_array(name["id"], abbreviation)
+    if index != -1:
+        name = abbreviation[index]
+
+    new_item_names.append(name)
+
+for item in item_nameaffixes:
+    # print(item["zhCN"])
+    name = item
+    index = find_index_in_array(name["id"], abbreviation)
+    if index != -1:
+        name = abbreviation[index]
+    new_item_nameaffixes.append(name)
+
+with open('./new_mod_files/item-names.json','w',encoding='utf-8-sig')as dp:
+    dp.write(json.dumps(new_item_names,ensure_ascii=False,indent=2))
+with open('./new_mod_files/item-nameaffixes.json','w',encoding='utf-8-sig')as dp:
+    dp.write(json.dumps(new_item_nameaffixes,ensure_ascii=False,indent=2))
