@@ -4525,7 +4525,7 @@
     "id": 2191,
     "Key": "leg",
     "enUS": "Wirt's Leg",
-    "zhTW": "維特的腿",
+    "zhTW": "ÿc8維特的腿",
     "deDE": "[ns]Wirts Bein",
     "esES": "[fs]Pierna de Wirt",
     "frFR": "[fs]Jambe de Wirt",
@@ -4536,7 +4536,7 @@
     "jaJP": "ワートの脚",
     "ptBR": "Perna do Wirt",
     "ruRU": "Нога Вирта",
-    "zhCN": "怀特的腿"
+    "zhCN": "ÿc8怀特的腿"
   },
   {
     "id": 2192,
@@ -5766,7 +5766,7 @@
     "id": 2279,
     "Key": "sku",
     "enUS": "Skull",
-    "zhTW": "ÿc1骷髏",
+    "zhTW": "ÿc8骷髏",
     "deDE": "Schädel",
     "esES": "Cráneo",
     "frFR": "Crâne",
@@ -5777,13 +5777,13 @@
     "jaJP": "頭蓋骨",
     "ptBR": "[fs]Caveira",
     "ruRU": "Череп",
-    "zhCN": "ÿc1骷髅"
+    "zhCN": "ÿc8骷髅"
   },
   {
     "id": 2280,
     "Key": "skl",
     "enUS": "Flawless Skull",
-    "zhTW": "ÿc1無瑕骷髏",
+    "zhTW": "ÿc8無瑕骷髏",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
     "frFR": "Crâne sans défaut",
@@ -5794,13 +5794,13 @@
     "jaJP": "上質な頭蓋骨",
     "ptBR": "[fs]Caveira Impecável",
     "ruRU": "Безупречный череп",
-    "zhCN": "ÿc1无瑕骷髅"
+    "zhCN": "ÿc8无瑕骷髅"
   },
   {
     "id": 2281,
     "Key": "skz",
     "enUS": "Perfect Skull",
-    "zhTW": "ÿc1完美骷髏",
+    "zhTW": "ÿc8完美骷髏",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
     "frFR": "Crâne parfait",
@@ -5811,7 +5811,7 @@
     "jaJP": "完璧な頭蓋骨",
     "ptBR": "[fs]Caveira Perfeita",
     "ruRU": "Идеальный череп",
-    "zhCN": "ÿc1完美骷髅"
+    "zhCN": "ÿc8完美骷髅"
   },
   {
     "id": 2284,
