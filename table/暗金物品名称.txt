@@ -127,7 +127,7 @@ Horadric Staff
 Hell Forge Hammer
 Khalim's Flail
 Khalim's Will
-Coldkill Ð¡¸«Hatchet
+Coldkill
 Butcher's Pupil
 Islestrike
 Pompeii's Wrath
@@ -178,7 +178,7 @@ Spire of Honor
 The Meat Scraper
 Blackleach Blade
 Athena's Wrath
-Pierre Tombale
+Pierre Tombale Couant
 Husoldal Evo
 Grim's Burning Dead
 Razorswitch
@@ -196,7 +196,7 @@ Magewrath
 Goldstrike Arch
 Langer Briser
 Pus Spitter
-Buriza-Do
+Buriza-Do Kyanon
 Demon Machine
 Peasant Crown
 Rockstopper
