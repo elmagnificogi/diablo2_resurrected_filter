@@ -4746,7 +4746,7 @@
     "id": 2209,
     "Key": "rvs",
     "enUS": "Rejuvenation Potion",
-    "zhTW": "ÿc;小紫",
+    "zhTW": "小紫",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
     "frFR": "Potion de rajeunissement",
@@ -4757,7 +4757,7 @@
     "jaJP": "回復のポーション",
     "ptBR": "[fs]Poção de Rejuvenescimento",
     "ruRU": "Зелье восстановления",
-    "zhCN": "ÿc;小紫"
+    "zhCN": "小紫"
   },
   {
     "id": 2210,
@@ -5715,7 +5715,7 @@
     "id": 2275,
     "Key": "mp5",
     "enUS": "Super Mana Potion",
-    "zhTW": "ÿc3超藍",
+    "zhTW": "超藍",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
     "frFR": "Super potion de mana",
@@ -5726,7 +5726,7 @@
     "jaJP": "マナ・ポーション（特大）",
     "ptBR": "[fs]Poção de Mana Especial",
     "ruRU": "Сверхмощное зелье маны",
-    "zhCN": "ÿc3超蓝"
+    "zhCN": "超蓝"
   },
   {
     "id": 2277,
