@@ -86,12 +86,22 @@ for item in item_names:
         name["zhTW"] = add_separator_suffix(name["zhTW"], "", "ÿc1*")
 
     if str(name["id"]) in comment.keys():
-        name["zhCN"] = "ÿc8"+comment[str(name["id"])] [0]+"\n" + name["zhCN"]
-        name["zhTW"] = "ÿc8"+comment[str(name["id"])] [1]+"\n" + name["zhTW"]
+        item_color = ""
+        if comment[str(name["id"])] == 0:
+            item_color = "ÿc4"
+        if comment[str(name["id"])] == 2:
+            item_color = "ÿc2"
+
+        name["zhCN"] = comment[str(name["id"])] [0]+"\n" + name["zhCN"]
+        name["zhTW"] = comment[str(name["id"])] [1]+"\n" + name["zhTW"]
+        # name["zhCN"] = "ÿc8"+comment[str(name["id"])] [0]+"\n" +item_color+ name["zhCN"]
+        # name["zhTW"] = "ÿc8"+comment[str(name["id"])] [1]+"\n" +item_color+ name["zhTW"]
 
     if str(name["id"]) in float_value.keys():
-        name["zhCN"] = "ÿc3"+float_value[str(name["id"])][0]+"\n"+ name["zhCN"]
-        name["zhTW"] = "ÿc3"+float_value[str(name["id"])][1]+"\n"+ name["zhTW"]
+        name["zhCN"] = float_value[str(name["id"])][0]+"\n"+ name["zhCN"]
+        name["zhTW"] = float_value[str(name["id"])][1]+"\n"+ name["zhTW"]
+        # name["zhCN"] = "ÿc3"+float_value[str(name["id"])][0]+"\n"+ name["zhCN"]
+        # name["zhTW"] = "ÿc3"+float_value[str(name["id"])][1]+"\n"+ name["zhTW"]
 
     index = find_index_in_array(name["id"], abbreviation)
     if index != -1:

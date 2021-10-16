@@ -71,14 +71,19 @@ for item in my_json_data:
         t1 = item["zhTW"].find("ÿc2")
         n1 = item["zhTW"].find("\n",t1+3,len(item["zhTW"]))
         #print(name[t+3:n])
-        comment[item['id']] = [name[t+3:n],item["zhTW"][t1+3:n1]]
+        comment[item['id']] = [name[t+3:n],item["zhTW"][t1+3:n1],0]
     else:
         t = name.find("\n")
         n = name.find("MAX:")
         if t != -1 and n==-1:
-            print(name)
+            #print(name)
             t1 = item["zhTW"].find("\n")
-            comment[item['id']] = [name[:t], item["zhTW"][:t1]]
+            comment[item['id']] = [name[:t], item["zhTW"][:t1],1]
+        elif t!=-1 and n!=-1:
+            m = name.find("\n",t+1,len(name))
+            if m!=-1:
+                #print(name)
+                comment[item['id']] = [name[t:m], item["zhTW"][t:m],2]
 
 print("所有轻型装备id")
 print(light)
