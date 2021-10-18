@@ -210,6 +210,16 @@ Data\hd\ui\fonts\
 
 
 
+# 地图显示mod
+
+![image-20211018132934320](https://i.loli.net/2021/10/18/zKL5kvdPVW8potG.png)
+
+使用说明见：
+
+> http://elmagnifico.tech/2021/10/18/diablo2-map-hack/
+
+
+
 # Ref
 
 更多教程参考我的blog文章 
