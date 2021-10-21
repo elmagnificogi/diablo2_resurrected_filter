@@ -4797,7 +4797,7 @@
     "id": 2212,
     "Key": "amu",
     "enUS": "Amulet",
-    "zhTW": "護身符",
+    "zhTW": "護身符 Amulet",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
     "frFR": "[fs]Amulette",
@@ -4808,7 +4808,7 @@
     "jaJP": "アミュレット",
     "ptBR": "[ms]Amuleto",
     "ruRU": "[ms]амулет",
-    "zhCN": "护符"
+    "zhCN": "护符 Amulet"
   },
   {
     "id": 2213,
@@ -4831,7 +4831,7 @@
     "id": 2214,
     "Key": "rin",
     "enUS": "Ring",
-    "zhTW": "戒指",
+    "zhTW": "戒指 Ring",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
     "frFR": "[ms]Anneau",
@@ -4842,7 +4842,7 @@
     "jaJP": "指輪",
     "ptBR": "[ms]Anel",
     "ruRU": "[ns]кольцо",
-    "zhCN": "戒指"
+    "zhCN": "戒指 Ring"
   },
   {
     "id": 2216,
@@ -12226,7 +12226,7 @@
     "id": 11006,
     "Key": "neg",
     "enUS": "Hellspawn Skull",
-    "zhTW": "地獄爪牙顱骨",
+    "zhTW": "地獄爪牙顱骨|精",
     "deDE": "[ms]Höllenbrutschädel",
     "esES": "[ms]Cráneo del averno",
     "frFR": "[ms]Crâne de l’engeance infernale",
@@ -12237,13 +12237,13 @@
     "jaJP": "ヘルスポーン・スカル",
     "ptBR": "[fs]Caveira de Cria Infernal",
     "ruRU": "[ms]череп отродья Тьмы",
-    "zhCN": "地狱魔颅骨"
+    "zhCN": "地狱魔颅骨|精"
   },
   {
     "id": 11008,
     "Key": "uhf",
     "enUS": "Legendary Mallet",
-    "zhTW": "傳說戰鎚",
+    "zhTW": "傳說戰鎚|精",
     "deDE": "[ms]Legendärer Hammer",
     "esES": "[ms]Mazo legendario",
     "frFR": "[ms]Maillet légendaire",
@@ -12254,13 +12254,13 @@
     "jaJP": "レジェンダリー・マレット",
     "ptBR": "Marreta Lendária",
     "ruRU": "[fs]легендарная колотушка",
-    "zhCN": "传奇重锤"
+    "zhCN": "传奇重锤|精"
   },
   {
     "id": 11010,
     "Key": "7wa",
     "enUS": "Berserker Axe",
-    "zhTW": "狂戰斧ÿc1*",
+    "zhTW": "狂戰斧|精ÿc1*",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
     "frFR": "[fs]Hache de beserker",
@@ -12271,7 +12271,7 @@
     "jaJP": "バーサーカー・アックス",
     "ptBR": "[ms]Machado do Berserker",
     "ruRU": "Секира берсерка",
-    "zhCN": "狂战士战斧ÿc1*"
+    "zhCN": "狂战士战斧|精ÿc1*"
   },
   {
     "id": 11012,
@@ -12294,7 +12294,7 @@
     "id": 11028,
     "Key": "9bl",
     "enUS": "Stiletto",
-    "zhTW": "窄刃匕首",
+    "zhTW": "窄刃匕首|擴",
     "deDE": "[ns]Stilett",
     "esES": "[ms]Stiletto",
     "frFR": "[ms]Stylet",
@@ -12305,7 +12305,7 @@
     "jaJP": "スティレット",
     "ptBR": "[ms]Estilete",
     "ruRU": "[ms]стилет",
-    "zhCN": "小剑"
+    "zhCN": "小剑|扩"
   },
   {
     "id": 11146,
@@ -15201,7 +15201,7 @@
     "id": 20340,
     "Key": "ci3",
     "enUS": "Diadem",
-    "zhTW": "權冠|精",
+    "zhTW": "權冠|精ÿc1*",
     "deDE": "[ns]Diadem",
     "esES": "[fs]Diadema",
     "frFR": "[ms]Diadème",
@@ -15212,7 +15212,7 @@
     "jaJP": "ダイアデム",
     "ptBR": "[fs]Argola",
     "ruRU": "[fs]диадема",
-    "zhCN": "权冠|精"
+    "zhCN": "权冠|精ÿc1*"
   },
   {
     "id": 20341,

@@ -4797,7 +4797,7 @@
     "id": 2212,
     "Key": "amu",
     "enUS": "Amulet",
-    "zhTW": "項鏈",
+    "zhTW": "項鏈 Amulet",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
     "frFR": "[fs]Amulette",
@@ -4808,7 +4808,7 @@
     "jaJP": "アミュレット",
     "ptBR": "[ms]Amuleto",
     "ruRU": "[ms]амулет",
-    "zhCN": "项链"
+    "zhCN": "项链 Amulet"
   },
   {
     "id": 2213,
@@ -15201,7 +15201,7 @@
     "id": 20340,
     "Key": "ci3",
     "enUS": "Diadem",
-    "zhTW": "權冠",
+    "zhTW": "權冠ÿc1*",
     "deDE": "[ns]Diadem",
     "esES": "[fs]Diadema",
     "frFR": "[ms]Diadème",
@@ -15212,7 +15212,7 @@
     "jaJP": "ダイアデム",
     "ptBR": "[fs]Argola",
     "ruRU": "[fs]диадема",
-    "zhCN": "权冠"
+    "zhCN": "权冠ÿc1*"
   },
   {
     "id": 20341,
