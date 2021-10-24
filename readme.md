@@ -64,7 +64,7 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 
 <img src=".\显示mod使用说明.assets\image-20211010023007005.png" alt="image-20211010023007005" style="zoom:150%;" />
 
-
+![image-20211024152014038](https://i.loli.net/2021/10/24/RZtnTahJf1MVzvE.png)
 
 ## 修改点
 
@@ -83,6 +83,9 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 - 符文根据实用性和价值放大或者缩小
 - 移除过大的精华词缀
 - 移除扩、精、轻、重、中等词缀(大佬版本)
+- 怀特的腿等特殊物品高亮
+- ~~地图等级显示，太丑了我取消了~~
+- 符文图标替换
 
 还有更多需要私聊我吧，慢慢改进。
 
@@ -100,6 +103,12 @@ elmagnifico，可以显示符文编号、装备是扩展还是精英，同时还
 
 2021.10.16，mod版本区分，开荒、中期、大佬，三个版本各自应对不同需求
 
+~~2021.10.19，增加地图等级显示~~
+
+2021.10.21，增加部分遗漏词缀、去掉巨鲸和泰坦词缀的高亮，仅保留珠宝匠
+
+2021.10.24，增加符文图标替换
+
 
 
 # 安装
@@ -110,14 +119,28 @@ mod解压到暗黑2重置的目录中
 
 游戏设置中选择额外命令行，加载mod
 
-<img src=".\显示mod使用说明.assets\image-20211008221018776.png" alt="image-20211008221018776" style="zoom:150%;" />
+<img src="https://i.loli.net/2021/10/24/Yd9tSgwT3ijKm1s.png" style="zoom:150%;" />
 
 
 
-命令如下：
+命令如下，**只能三个选一个**：
+
+开荒版本
 
 ```
--mod elmagnifico
+-mod elmagnifico0
+```
+
+中期版本
+
+```
+-mod elmagnifico1
+```
+
+大佬版本
+
+```
+-mod elmagnifico2
 ```
 
 
@@ -230,3 +253,5 @@ Data\hd\ui\fonts\
 > http://elmagnifico.tech/2021/10/10/diablo2-resurrected-filter/
 >
 > https://d2mods.info/forum/viewtopic.php?t=57429
+>
+> https://www.nexusmods.com/diablo2resurrected/mods/77?tab=files&file_id=290

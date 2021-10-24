@@ -170,7 +170,7 @@ mod解压到暗黑2重置的目录中
 
 游戏设置中选择额外命令行，加载mod
 
-<img src=".\显示mod使用说明.assets\image-20211008221018776.png" alt="image-20211008221018776" style="zoom:150%;" />
+![image-20211024174927158](https://i.loli.net/2021/10/24/Yd9tSgwT3ijKm1s.png)
 
 
 
