@@ -12226,7 +12226,7 @@
     "id": 11006,
     "Key": "neg",
     "enUS": "Hellspawn Skull",
-    "zhTW": "地獄爪牙顱骨|精",
+    "zhTW": "地獄爪牙顱骨|精轻",
     "deDE": "[ms]Höllenbrutschädel",
     "esES": "[ms]Cráneo del averno",
     "frFR": "[ms]Crâne de l’engeance infernale",
@@ -12237,7 +12237,7 @@
     "jaJP": "ヘルスポーン・スカル",
     "ptBR": "[fs]Caveira de Cria Infernal",
     "ruRU": "[ms]череп отродья Тьмы",
-    "zhCN": "地狱魔颅骨|精"
+    "zhCN": "地狱魔颅骨|精轻"
   },
   {
     "id": 11008,
@@ -12277,7 +12277,7 @@
     "id": 11012,
     "Key": "xhg",
     "enUS": "War Gauntlets",
-    "zhTW": "征戰護手",
+    "zhTW": "征戰護手|擴",
     "deDE": "Kriegspanzerhandschuhe",
     "esES": "[mp]Guanteletes de guerra",
     "frFR": "[mp]Gantelets de guerre",
@@ -12288,7 +12288,7 @@
     "jaJP": "ウォー・ガントレット",
     "ptBR": "[fp]Manoplas Bélicas",
     "ruRU": "[pl]воинские рукавицы",
-    "zhCN": "战争护手"
+    "zhCN": "战争护手|扩"
   },
   {
     "id": 11028,
