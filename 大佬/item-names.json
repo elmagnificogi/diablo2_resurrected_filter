@@ -13433,7 +13433,7 @@
     "id": 20236,
     "Key": "7gs",
     "enUS": "Balrog Blade",
-    "zhTW": "炎魔之刃",
+    "zhTW": "炎魔之刃ÿc1*",
     "deDE": "[fs]Balrogklinge",
     "esES": "[fs]Espada de Balrog",
     "frFR": "[fs]Épée de Balrog",
@@ -13444,7 +13444,7 @@
     "jaJP": "バルログ・ブレイド",
     "ptBR": "[fs]Lâmina de Balrog",
     "ruRU": "[ms]Балрогов клинок",
-    "zhCN": "炎魔之刃"
+    "zhCN": "炎魔之刃ÿc1*"
   },
   {
     "id": 20237,
@@ -13467,7 +13467,7 @@
     "id": 20238,
     "Key": "7fb",
     "enUS": "Colossus Sword",
-    "zhTW": "巨神之劍",
+    "zhTW": "巨神之劍ÿc1*",
     "deDE": "Kolossschwert",
     "esES": "[fs]Espada del coloso",
     "frFR": "[fs]Épée de colosse",
@@ -13478,13 +13478,13 @@
     "jaJP": "コロッサス・ソード",
     "ptBR": "[fs]Espada Colossal",
     "ruRU": "[ms]массивный меч",
-    "zhCN": "巨神之剑"
+    "zhCN": "巨神之剑ÿc1*"
   },
   {
     "id": 20239,
     "Key": "7gd",
     "enUS": "Colossus Blade",
-    "zhTW": "巨神之刃",
+    "zhTW": "巨神之刃ÿc1*",
     "deDE": "[fs]Kolossklinge",
     "esES": "[fs]Hoja del coloso",
     "frFR": "[fs]Lame de colosse",
@@ -13495,7 +13495,7 @@
     "jaJP": "コロッサス・ブレイド",
     "ptBR": "[fs]Lâmina Colossal",
     "ruRU": "[ms]массивный клинок",
-    "zhCN": "巨神之刃"
+    "zhCN": "巨神之刃ÿc1*"
   },
   {
     "id": 20240,
@@ -13773,7 +13773,7 @@
     "id": 20256,
     "Key": "7st",
     "enUS": "Ghost Spear",
-    "zhTW": "鬼魂之矛",
+    "zhTW": "鬼魂之矛*",
     "deDE": "[ms]Geisterspeer",
     "esES": "[fs]Lanza fantasmal",
     "frFR": "[fs]Lance fantôme",
@@ -13784,13 +13784,13 @@
     "jaJP": "ゴースト・スピア",
     "ptBR": "[fs]Lança Fantasma",
     "ruRU": "[ns]призрачное копье",
-    "zhCN": "鬼魂之矛"
+    "zhCN": "鬼魂之矛*"
   },
   {
     "id": 20257,
     "Key": "7p7",
     "enUS": "War Pike",
-    "zhTW": "戰槍",
+    "zhTW": "戰槍*",
     "deDE": "[fs]Kriegspike",
     "esES": "[fs]Pica de guerra",
     "frFR": "[fs]Pique de guerre",
@@ -13801,7 +13801,7 @@
     "jaJP": "ウォーパイク",
     "ptBR": "[ms]Pique Bélico",
     "ruRU": "[fs]воинская пика",
-    "zhCN": "战枪"
+    "zhCN": "战枪*"
   },
   {
     "id": 20258,
@@ -13977,7 +13977,7 @@
     "id": 20268,
     "Key": "6ws",
     "enUS": "Archon Staff",
-    "zhTW": "執政官之杖",
+    "zhTW": "執政官之杖*",
     "deDE": "[ms]Archonstab",
     "esES": "[ms]Bastón de arconte",
     "frFR": "[ms]Bâton de l’Archonte",
@@ -13988,7 +13988,7 @@
     "jaJP": "アルコン・スタッフ",
     "ptBR": "[ms]Cajado do Arconte",
     "ruRU": "[ms]архонтов посох",
-    "zhCN": "执政官之杖"
+    "zhCN": "执政官之杖*"
   },
   {
     "id": 20269,
@@ -14419,7 +14419,7 @@
     "id": 20294,
     "Key": "am3",
     "enUS": "Maiden Spear",
-    "zhTW": "女士之矛*",
+    "zhTW": "女士之矛",
     "deDE": "[ms]Jungfernspeer",
     "esES": "[fs]Lanza doncella",
     "frFR": "[fs]Lance de la vierge",
@@ -14430,13 +14430,13 @@
     "jaJP": "メイデン・スピア",
     "ptBR": "[fs]Lança da Dama",
     "ruRU": "[ns]девичье копье",
-    "zhCN": "女士之矛*"
+    "zhCN": "女士之矛"
   },
   {
     "id": 20295,
     "Key": "am4",
     "enUS": "Maiden Pike",
-    "zhTW": "女士長矛*",
+    "zhTW": "女士長矛",
     "deDE": "[fs]Jungfernpike",
     "esES": "[fs]Pica doncella",
     "frFR": "[fs]Pique de la vierge",
@@ -14447,7 +14447,7 @@
     "jaJP": "メイデン・パイク",
     "ptBR": "[ms]Pique da Dama",
     "ruRU": "[fs]девичья пика",
-    "zhCN": "女士长矛*"
+    "zhCN": "女士长矛"
   },
   {
     "id": 20296,
