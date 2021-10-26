@@ -4797,7 +4797,7 @@
     "id": 2212,
     "Key": "amu",
     "enUS": "Amulet",
-    "zhTW": "護身符 Amulet",
+    "zhTW": "護身符  ★",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
     "frFR": "[fs]Amulette",
@@ -4808,7 +4808,7 @@
     "jaJP": "アミュレット",
     "ptBR": "[ms]Amuleto",
     "ruRU": "[ms]амулет",
-    "zhCN": "护符 Amulet"
+    "zhCN": "护符  ★"
   },
   {
     "id": 2213,
@@ -4831,7 +4831,7 @@
     "id": 2214,
     "Key": "rin",
     "enUS": "Ring",
-    "zhTW": "戒指 Ring",
+    "zhTW": "戒指  ★",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
     "frFR": "[ms]Anneau",
@@ -4842,7 +4842,7 @@
     "jaJP": "指輪",
     "ptBR": "[ms]Anel",
     "ruRU": "[ns]кольцо",
-    "zhCN": "戒指 Ring"
+    "zhCN": "戒指  ★"
   },
   {
     "id": 2216,
@@ -16663,7 +16663,7 @@
     "id": 20433,
     "Key": "jew",
     "enUS": "\n   Jewel   \n",
-    "zhTW": "珠寶",
+    "zhTW": "珠寶ÿc;*",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
     "frFR": "[ms]Joyau",
@@ -16674,7 +16674,7 @@
     "jaJP": "宝玉",
     "ptBR": "[fs]Joia",
     "ruRU": "[ms]cамоцвет",
-    "zhCN": "珠宝"
+    "zhCN": "珠宝ÿc;*"
   },
   {
     "id": 20434,
@@ -16697,7 +16697,7 @@
     "id": 20435,
     "Key": "cm1",
     "enUS": "ÿc1Small Charmÿc3",
-    "zhTW": "ÿc;小型咒符",
+    "zhTW": "小型ÿc;咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
     "frFR": "[ms]Charme mineur",
@@ -16708,13 +16708,13 @@
     "jaJP": "護符（小）",
     "ptBR": "[ms]Patuá Pequeno",
     "ruRU": "[ms]маленький оберег",
-    "zhCN": "ÿc;小型神符"
+    "zhCN": "小型ÿc;神符"
   },
   {
     "id": 20436,
     "Key": "cm2",
     "enUS": "Large Charm",
-    "zhTW": "ÿc;大型咒符",
+    "zhTW": "大型ÿc;咒符",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
     "frFR": "[ms]Grand charme",
@@ -16725,13 +16725,13 @@
     "jaJP": "護符（中）",
     "ptBR": "[ms]Patuá Grande",
     "ruRU": "[ms]большой оберег",
-    "zhCN": "ÿc;大型神符"
+    "zhCN": "大型ÿc;神符"
   },
   {
     "id": 20437,
     "Key": "cm3",
     "enUS": "ÿc1Grand Charmÿc3",
-    "zhTW": "ÿc;特大咒符",
+    "zhTW": "特大ÿc;咒符",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
     "frFR": "[ms]Charme majeur",
@@ -16742,7 +16742,7 @@
     "jaJP": "護符（大）",
     "ptBR": "[ms]Patuá Grandioso",
     "ruRU": "[ms]великий оберег",
-    "zhCN": "ÿc;巨型神符"
+    "zhCN": "巨型ÿc;神符"
   },
   {
     "id": 20676,
