@@ -1,0 +1,12642 @@
+﻿[
+  {
+    "Key": "D2bnetHelp12a",
+    "Id": 727,
+    "StateId": 12
+  },
+  {
+    "Key": "Durance of Hate",
+    "Id": 821,
+    "StateId": 12
+  },
+  {
+    "Key": "Flayer Dungeon",
+    "Id": 822,
+    "StateId": 12
+  },
+  {
+    "Key": "Swampy Pit",
+    "Id": 823,
+    "StateId": 12
+  },
+  {
+    "Key": "Maggot Lair",
+    "Id": 853,
+    "StateId": 12
+  },
+  {
+    "Key": "Claw Viper Temple",
+    "Id": 854,
+    "StateId": 12
+  },
+  {
+    "Key": "Halls of the Dead",
+    "Id": 855,
+    "StateId": 12
+  },
+  {
+    "Key": "Stony Tomb",
+    "Id": 856,
+    "StateId": 12
+  },
+  {
+    "Key": "Palace Cellar",
+    "Id": 857,
+    "StateId": 12
+  },
+  {
+    "Key": "Harem",
+    "Id": 858,
+    "StateId": 12
+  },
+  {
+    "Key": "Sewers",
+    "Id": 859,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa2q0",
+    "Id": 922,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa3q0",
+    "Id": 929,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa4q0",
+    "Id": 936,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa2q01",
+    "Id": 940,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa2q31",
+    "Id": 949,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa2q63",
+    "Id": 963,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa3q01",
+    "Id": 967,
+    "StateId": 12
+  },
+  {
+    "Key": "nikita",
+    "Id": 1012,
+    "StateId": 12
+  },
+  {
+    "Key": "Playersubtitles26",
+    "Id": 1092,
+    "StateId": 12
+  },
+  {
+    "Key": "nodarkwanderer",
+    "Id": 1235,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname0",
+    "Id": 1296,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd0",
+    "Id": 1297,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld0",
+    "Id": 1298,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan0",
+    "Id": 1299,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillnameExp1",
+    "Id": 1300,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillsExpd1",
+    "Id": 1301,
+    "StateId": 12
+  },
+  {
+    "Key": "EskilllExpd1",
+    "Id": 1302,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillExpan1",
+    "Id": 1303,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname2",
+    "Id": 1304,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd2",
+    "Id": 1305,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld2",
+    "Id": 1306,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan2",
+    "Id": 1307,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname3",
+    "Id": 1308,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd3",
+    "Id": 1309,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld3",
+    "Id": 1310,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan3",
+    "Id": 1311,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname4",
+    "Id": 1312,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd4",
+    "Id": 1313,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld4",
+    "Id": 1314,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan4",
+    "Id": 1315,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname5",
+    "Id": 1316,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd5",
+    "Id": 1317,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld5",
+    "Id": 1318,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan5",
+    "Id": 1319,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname6",
+    "Id": 1320,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd6",
+    "Id": 1321,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld6",
+    "Id": 1322,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan6",
+    "Id": 1323,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname7",
+    "Id": 1324,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd7",
+    "Id": 1325,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld7",
+    "Id": 1326,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan7",
+    "Id": 1327,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname8",
+    "Id": 1328,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd8",
+    "Id": 1329,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld8",
+    "Id": 1330,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan8",
+    "Id": 1331,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname9",
+    "Id": 1332,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd9",
+    "Id": 1333,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld9",
+    "Id": 1334,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan9",
+    "Id": 1335,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname10",
+    "Id": 1336,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd10",
+    "Id": 1337,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld10",
+    "Id": 1338,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan10",
+    "Id": 1339,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname11",
+    "Id": 1340,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd11",
+    "Id": 1341,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld11",
+    "Id": 1342,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan11",
+    "Id": 1343,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname12",
+    "Id": 1344,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd12",
+    "Id": 1345,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld12",
+    "Id": 1346,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan12",
+    "Id": 1347,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname13",
+    "Id": 1348,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd13",
+    "Id": 1349,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld13",
+    "Id": 1350,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan13",
+    "Id": 1351,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname14",
+    "Id": 1352,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd14",
+    "Id": 1353,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld14",
+    "Id": 1354,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan14",
+    "Id": 1355,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname15",
+    "Id": 1356,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd15",
+    "Id": 1357,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld15",
+    "Id": 1358,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan15",
+    "Id": 1359,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname16",
+    "Id": 1360,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd16",
+    "Id": 1361,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld16",
+    "Id": 1362,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan16",
+    "Id": 1363,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname17",
+    "Id": 1364,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd17",
+    "Id": 1365,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld17",
+    "Id": 1366,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan17",
+    "Id": 1367,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname18",
+    "Id": 1368,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd18",
+    "Id": 1369,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld18",
+    "Id": 1370,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan18",
+    "Id": 1371,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname19",
+    "Id": 1372,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd19",
+    "Id": 1373,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld19",
+    "Id": 1374,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan19",
+    "Id": 1375,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname20",
+    "Id": 1376,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd20",
+    "Id": 1377,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld20",
+    "Id": 1378,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan20",
+    "Id": 1379,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname21",
+    "Id": 1380,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd21",
+    "Id": 1381,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld21",
+    "Id": 1382,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan21",
+    "Id": 1383,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname22",
+    "Id": 1384,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd22",
+    "Id": 1385,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld22",
+    "Id": 1386,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan22",
+    "Id": 1387,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname23",
+    "Id": 1388,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd23",
+    "Id": 1389,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld23",
+    "Id": 1390,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan23",
+    "Id": 1391,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname24",
+    "Id": 1392,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd24",
+    "Id": 1393,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld24",
+    "Id": 1394,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan24",
+    "Id": 1395,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname25",
+    "Id": 1396,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd25",
+    "Id": 1397,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld25",
+    "Id": 1398,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan25",
+    "Id": 1399,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname26",
+    "Id": 1400,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd26",
+    "Id": 1401,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld26",
+    "Id": 1402,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan26",
+    "Id": 1403,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname27",
+    "Id": 1404,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd27",
+    "Id": 1405,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld27",
+    "Id": 1406,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan27",
+    "Id": 1407,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname28",
+    "Id": 1408,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd28",
+    "Id": 1409,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld28",
+    "Id": 1410,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan28",
+    "Id": 1411,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname29",
+    "Id": 1412,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd29",
+    "Id": 1413,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld29",
+    "Id": 1414,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan29",
+    "Id": 1415,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname30",
+    "Id": 1416,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd30",
+    "Id": 1417,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld30",
+    "Id": 1418,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan30",
+    "Id": 1419,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname31",
+    "Id": 1420,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd31",
+    "Id": 1421,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld31",
+    "Id": 1422,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan31",
+    "Id": 1423,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname32",
+    "Id": 1424,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd32",
+    "Id": 1425,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld32",
+    "Id": 1426,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan32",
+    "Id": 1427,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname33",
+    "Id": 1428,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd33",
+    "Id": 1429,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld33",
+    "Id": 1430,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan33",
+    "Id": 1431,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname34",
+    "Id": 1432,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd34",
+    "Id": 1433,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld34",
+    "Id": 1434,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan34",
+    "Id": 1435,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname35",
+    "Id": 1436,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd35",
+    "Id": 1437,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld35",
+    "Id": 1438,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan35",
+    "Id": 1439,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname36",
+    "Id": 1440,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd36",
+    "Id": 1441,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld36",
+    "Id": 1442,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan36",
+    "Id": 1443,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname37",
+    "Id": 1444,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd37",
+    "Id": 1445,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld37",
+    "Id": 1446,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan37",
+    "Id": 1447,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname38",
+    "Id": 1448,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd38",
+    "Id": 1449,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld38",
+    "Id": 1450,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan38",
+    "Id": 1451,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname39",
+    "Id": 1452,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd39",
+    "Id": 1453,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld39",
+    "Id": 1454,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan39",
+    "Id": 1455,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname40",
+    "Id": 1456,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd40",
+    "Id": 1457,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld40",
+    "Id": 1458,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan40",
+    "Id": 1459,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname41",
+    "Id": 1460,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd41",
+    "Id": 1461,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld41",
+    "Id": 1462,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan41",
+    "Id": 1463,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname42",
+    "Id": 1464,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd42",
+    "Id": 1465,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld42",
+    "Id": 1466,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan42",
+    "Id": 1467,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname43",
+    "Id": 1468,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd43",
+    "Id": 1469,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld43",
+    "Id": 1470,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan43",
+    "Id": 1471,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname44",
+    "Id": 1472,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd44",
+    "Id": 1473,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld44",
+    "Id": 1474,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan44",
+    "Id": 1475,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname45",
+    "Id": 1476,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd45",
+    "Id": 1477,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld45",
+    "Id": 1478,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan45",
+    "Id": 1479,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname46",
+    "Id": 1480,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd46",
+    "Id": 1481,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld46",
+    "Id": 1482,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan46",
+    "Id": 1483,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname47",
+    "Id": 1484,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd47",
+    "Id": 1485,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld47",
+    "Id": 1486,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan47",
+    "Id": 1487,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname48",
+    "Id": 1488,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd48",
+    "Id": 1489,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld48",
+    "Id": 1490,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan48",
+    "Id": 1491,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname49",
+    "Id": 1492,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd49",
+    "Id": 1493,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld49",
+    "Id": 1494,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan49",
+    "Id": 1495,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname50",
+    "Id": 1496,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd50",
+    "Id": 1497,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld50",
+    "Id": 1498,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan50",
+    "Id": 1499,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname51",
+    "Id": 1500,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd51",
+    "Id": 1501,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld51",
+    "Id": 1502,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan51",
+    "Id": 1503,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname52",
+    "Id": 1504,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd52",
+    "Id": 1505,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld52",
+    "Id": 1506,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan52",
+    "Id": 1507,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname53",
+    "Id": 1508,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd53",
+    "Id": 1509,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld53",
+    "Id": 1510,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan53",
+    "Id": 1511,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname54",
+    "Id": 1512,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd54",
+    "Id": 1513,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld54",
+    "Id": 1514,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan54",
+    "Id": 1515,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname55",
+    "Id": 1516,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd55",
+    "Id": 1517,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld55",
+    "Id": 1518,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan55",
+    "Id": 1519,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname56",
+    "Id": 1520,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd56",
+    "Id": 1521,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld56",
+    "Id": 1522,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan56",
+    "Id": 1523,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname57",
+    "Id": 1524,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd57",
+    "Id": 1525,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld57",
+    "Id": 1526,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan57",
+    "Id": 1527,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname58",
+    "Id": 1528,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd58",
+    "Id": 1529,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld58",
+    "Id": 1530,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan58",
+    "Id": 1531,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillname59",
+    "Id": 1532,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsd59",
+    "Id": 1533,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillld59",
+    "Id": 1534,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillan59",
+    "Id": 1535,
+    "StateId": 12
+  },
+  {
+    "Key": "Seige Beast",
+    "Id": 1580,
+    "StateId": 12
+  },
+  {
+    "Key": "BlightWing",
+    "Id": 1611,
+    "StateId": 12
+  },
+  {
+    "Key": "BloodWitch",
+    "Id": 1612,
+    "StateId": 12
+  },
+  {
+    "Key": "MageWing",
+    "Id": 1616,
+    "StateId": 12
+  },
+  {
+    "Key": "HellWitch",
+    "Id": 1617,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsJoinMenu4",
+    "Id": 1633,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsJoinMenu5",
+    "Id": 1634,
+    "StateId": 12
+  },
+  {
+    "Key": "Guild 1",
+    "Id": 1635,
+    "StateId": 12
+  },
+  {
+    "Key": "Guild 2",
+    "Id": 1636,
+    "StateId": 12
+  },
+  {
+    "Key": "Guild 3",
+    "Id": 1637,
+    "StateId": 12
+  },
+  {
+    "Key": "Guild 4",
+    "Id": 1638,
+    "StateId": 12
+  },
+  {
+    "Key": "Guild 5",
+    "Id": 1639,
+    "StateId": 12
+  },
+  {
+    "Key": "To Guild 5",
+    "Id": 1640,
+    "StateId": 12
+  },
+  {
+    "Key": "To Guild 4",
+    "Id": 1641,
+    "StateId": 12
+  },
+  {
+    "Key": "To Guild 3",
+    "Id": 1642,
+    "StateId": 12
+  },
+  {
+    "Key": "To Guild 2",
+    "Id": 1643,
+    "StateId": 12
+  },
+  {
+    "Key": "To Guild 1",
+    "Id": 1644,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet9",
+    "Id": 1645,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet10",
+    "Id": 1646,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet11",
+    "Id": 1647,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet12",
+    "Id": 1648,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet13",
+    "Id": 1649,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet14",
+    "Id": 1650,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsBnet15",
+    "Id": 1651,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsGuildName",
+    "Id": 1652,
+    "StateId": 12
+  },
+  {
+    "Key": "CapsGuildTag",
+    "Id": 1653,
+    "StateId": 12
+  },
+  {
+    "Key": "GuildText1",
+    "Id": 1654,
+    "StateId": 12
+  },
+  {
+    "Key": "GuildText2",
+    "Id": 1655,
+    "StateId": 12
+  },
+  {
+    "Key": "Ladder7",
+    "Id": 1657,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildTitle",
+    "Id": 1658,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildName",
+    "Id": 1659,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildTag",
+    "Id": 1660,
+    "StateId": 12
+  },
+  {
+    "Key": "gmWWW",
+    "Id": 1661,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildCharter",
+    "Id": 1662,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildCurrentGolds",
+    "Id": 1663,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildNextLevel",
+    "Id": 1664,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildMaster",
+    "Id": 1665,
+    "StateId": 12
+  },
+  {
+    "Key": "gmOfficer",
+    "Id": 1666,
+    "StateId": 12
+  },
+  {
+    "Key": "gmName",
+    "Id": 1667,
+    "StateId": 12
+  },
+  {
+    "Key": "gmClass",
+    "Id": 1668,
+    "StateId": 12
+  },
+  {
+    "Key": "gmLevel",
+    "Id": 1669,
+    "StateId": 12
+  },
+  {
+    "Key": "gmDonate",
+    "Id": 1670,
+    "StateId": 12
+  },
+  {
+    "Key": "gmRemove",
+    "Id": 1671,
+    "StateId": 12
+  },
+  {
+    "Key": "gmPal",
+    "Id": 1672,
+    "StateId": 12
+  },
+  {
+    "Key": "gmSor",
+    "Id": 1673,
+    "StateId": 12
+  },
+  {
+    "Key": "gmAma",
+    "Id": 1674,
+    "StateId": 12
+  },
+  {
+    "Key": "gmNec",
+    "Id": 1675,
+    "StateId": 12
+  },
+  {
+    "Key": "gmBar",
+    "Id": 1676,
+    "StateId": 12
+  },
+  {
+    "Key": "gmChangeSym",
+    "Id": 1677,
+    "StateId": 12
+  },
+  {
+    "Key": "gmChangeCharter",
+    "Id": 1678,
+    "StateId": 12
+  },
+  {
+    "Key": "gmChangeWebLink",
+    "Id": 1679,
+    "StateId": 12
+  },
+  {
+    "Key": "createdguildsuccess",
+    "Id": 1681,
+    "StateId": 12
+  },
+  {
+    "Key": "createdguildfailure",
+    "Id": 1682,
+    "StateId": 12
+  },
+  {
+    "Key": "inviteguildsuccess",
+    "Id": 1683,
+    "StateId": 12
+  },
+  {
+    "Key": "inviteguildfailure",
+    "Id": 1684,
+    "StateId": 12
+  },
+  {
+    "Key": "inviteguildins",
+    "Id": 1685,
+    "StateId": 12
+  },
+  {
+    "Key": "joinedguildsuccess",
+    "Id": 1686,
+    "StateId": 12
+  },
+  {
+    "Key": "joinedguildfailure",
+    "Id": 1687,
+    "StateId": 12
+  },
+  {
+    "Key": "quitguildsuccess",
+    "Id": 1688,
+    "StateId": 12
+  },
+  {
+    "Key": "quitguildfailure",
+    "Id": 1689,
+    "StateId": 12
+  },
+  {
+    "Key": "guildentererror",
+    "Id": 1690,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk1",
+    "Id": 1692,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk2",
+    "Id": 1693,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk3",
+    "Id": 1694,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk4",
+    "Id": 1695,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk5",
+    "Id": 1696,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildPerk6",
+    "Id": 1697,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildGoldDonated",
+    "Id": 1698,
+    "StateId": 12
+  },
+  {
+    "Key": "strGuildDonateGold",
+    "Id": 1699,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildCurrentGoldPopup",
+    "Id": 1700,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildNextLevelPopup",
+    "Id": 1701,
+    "StateId": 12
+  },
+  {
+    "Key": "gmGuildDonateGoldPopup",
+    "Id": 1702,
+    "StateId": 12
+  },
+  {
+    "Key": "guildaccepticon",
+    "Id": 1707,
+    "StateId": 12
+  },
+  {
+    "Key": "guildmsgtext",
+    "Id": 1708,
+    "StateId": 12
+  },
+  {
+    "Key": "ScrollFormat",
+    "Id": 1709,
+    "StateId": 12
+  },
+  {
+    "Key": "BookFormat",
+    "Id": 1710,
+    "StateId": 12
+  },
+  {
+    "Key": "HerbFormat",
+    "Id": 1713,
+    "StateId": 12
+  },
+  {
+    "Key": "PlayerBodyPartFormat",
+    "Id": 1717,
+    "StateId": 12
+  },
+  {
+    "Key": "SetItemFormat",
+    "Id": 1719,
+    "StateId": 12
+  },
+  {
+    "Key": "ChampionFormat",
+    "Id": 1720,
+    "StateId": 12
+  },
+  {
+    "Key": "Resiliant",
+    "Id": 1729,
+    "StateId": 12
+  },
+  {
+    "Key": "Sturdy",
+    "Id": 1730,
+    "StateId": 12
+  },
+  {
+    "Key": "Strong",
+    "Id": 1731,
+    "StateId": 12
+  },
+  {
+    "Key": "Glorious",
+    "Id": 1732,
+    "StateId": 12
+  },
+  {
+    "Key": "Blessed",
+    "Id": 1733,
+    "StateId": 12
+  },
+  {
+    "Key": "Saintly",
+    "Id": 1734,
+    "StateId": 12
+  },
+  {
+    "Key": "Devious",
+    "Id": 1736,
+    "StateId": 12
+  },
+  {
+    "Key": "Fortified",
+    "Id": 1737,
+    "StateId": 12
+  },
+  {
+    "Key": "Urgent",
+    "Id": 1738,
+    "StateId": 12
+  },
+  {
+    "Key": "Fleet",
+    "Id": 1739,
+    "StateId": 12
+  },
+  {
+    "Key": "Muscular",
+    "Id": 1740,
+    "StateId": 12
+  },
+  {
+    "Key": "Jagged",
+    "Id": 1741,
+    "StateId": 12
+  },
+  {
+    "Key": "Deadly",
+    "Id": 1742,
+    "StateId": 12
+  },
+  {
+    "Key": "Vicious",
+    "Id": 1743,
+    "StateId": 12
+  },
+  {
+    "Key": "Brutal",
+    "Id": 1744,
+    "StateId": 12
+  },
+  {
+    "Key": "Massive",
+    "Id": 1745,
+    "StateId": 12
+  },
+  {
+    "Key": "Savage",
+    "Id": 1746,
+    "StateId": 12
+  },
+  {
+    "Key": "Merciless",
+    "Id": 1747,
+    "StateId": 12
+  },
+  {
+    "Key": "Vulpine",
+    "Id": 1748,
+    "StateId": 12
+  },
+  {
+    "Key": "Swift",
+    "Id": 1749,
+    "StateId": 12
+  },
+  {
+    "Key": "Artful",
+    "Id": 1750,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillful",
+    "Id": 1751,
+    "StateId": 12
+  },
+  {
+    "Key": "Adroit",
+    "Id": 1752,
+    "StateId": 12
+  },
+  {
+    "Key": "Tireless",
+    "Id": 1753,
+    "StateId": 12
+  },
+  {
+    "Key": "Rugged",
+    "Id": 1754,
+    "StateId": 12
+  },
+  {
+    "Key": "Bronze",
+    "Id": 1755,
+    "StateId": 12
+  },
+  {
+    "Key": "Iron",
+    "Id": 1756,
+    "StateId": 12
+  },
+  {
+    "Key": "Silver",
+    "Id": 1758,
+    "StateId": 12
+  },
+  {
+    "Key": "Platinum",
+    "Id": 1760,
+    "StateId": 12
+  },
+  {
+    "Key": "Meteoric",
+    "Id": 1761,
+    "StateId": 12
+  },
+  {
+    "Key": "Sharp",
+    "Id": 1762,
+    "StateId": 12
+  },
+  {
+    "Key": "Fine",
+    "Id": 1763,
+    "StateId": 12
+  },
+  {
+    "Key": "Warrior's",
+    "Id": 1764,
+    "StateId": 12
+  },
+  {
+    "Key": "Soldier's",
+    "Id": 1765,
+    "StateId": 12
+  },
+  {
+    "Key": "Knight's",
+    "Id": 1766,
+    "StateId": 12
+  },
+  {
+    "Key": "Lord's",
+    "Id": 1767,
+    "StateId": 12
+  },
+  {
+    "Key": "King's",
+    "Id": 1768,
+    "StateId": 12
+  },
+  {
+    "Key": "Howling",
+    "Id": 1769,
+    "StateId": 12
+  },
+  {
+    "Key": "Fortuitous",
+    "Id": 1770,
+    "StateId": 12
+  },
+  {
+    "Key": "Brilliant",
+    "Id": 1771,
+    "StateId": 12
+  },
+  {
+    "Key": "Omniscient",
+    "Id": 1772,
+    "StateId": 12
+  },
+  {
+    "Key": "Sage",
+    "Id": 1773,
+    "StateId": 12
+  },
+  {
+    "Key": "Shrewd",
+    "Id": 1774,
+    "StateId": 12
+  },
+  {
+    "Key": "Vivid",
+    "Id": 1775,
+    "StateId": 12
+  },
+  {
+    "Key": "Glimmering",
+    "Id": 1776,
+    "StateId": 12
+  },
+  {
+    "Key": "Glowing",
+    "Id": 1777,
+    "StateId": 12
+  },
+  {
+    "Key": "Bright",
+    "Id": 1778,
+    "StateId": 12
+  },
+  {
+    "Key": "Solar",
+    "Id": 1779,
+    "StateId": 12
+  },
+  {
+    "Key": "Lizard's",
+    "Id": 1780,
+    "StateId": 12
+  },
+  {
+    "Key": "Forceful",
+    "Id": 1781,
+    "StateId": 12
+  },
+  {
+    "Key": "Snake's",
+    "Id": 1782,
+    "StateId": 12
+  },
+  {
+    "Key": "Serpent's",
+    "Id": 1783,
+    "StateId": 12
+  },
+  {
+    "Key": "Drake's",
+    "Id": 1784,
+    "StateId": 12
+  },
+  {
+    "Key": "Dragon's",
+    "Id": 1785,
+    "StateId": 12
+  },
+  {
+    "Key": "Wyrm's",
+    "Id": 1786,
+    "StateId": 12
+  },
+  {
+    "Key": "Dazzling",
+    "Id": 1787,
+    "StateId": 12
+  },
+  {
+    "Key": "Facinating",
+    "Id": 1788,
+    "StateId": 12
+  },
+  {
+    "Key": "Prismatic",
+    "Id": 1789,
+    "StateId": 12
+  },
+  {
+    "Key": "Azure",
+    "Id": 1790,
+    "StateId": 12
+  },
+  {
+    "Key": "Lapis",
+    "Id": 1791,
+    "StateId": 12
+  },
+  {
+    "Key": "Cobalt",
+    "Id": 1792,
+    "StateId": 12
+  },
+  {
+    "Key": "Indigo",
+    "Id": 1793,
+    "StateId": 12
+  },
+  {
+    "Key": "Cerulean",
+    "Id": 1795,
+    "StateId": 12
+  },
+  {
+    "Key": "Crimson",
+    "Id": 1797,
+    "StateId": 12
+  },
+  {
+    "Key": "Burgundy",
+    "Id": 1798,
+    "StateId": 12
+  },
+  {
+    "Key": "Garnet",
+    "Id": 1799,
+    "StateId": 12
+  },
+  {
+    "Key": "Russet",
+    "Id": 1800,
+    "StateId": 12
+  },
+  {
+    "Key": "Vermilion",
+    "Id": 1802,
+    "StateId": 12
+  },
+  {
+    "Key": "Ocher",
+    "Id": 1804,
+    "StateId": 12
+  },
+  {
+    "Key": "Tangerine",
+    "Id": 1805,
+    "StateId": 12
+  },
+  {
+    "Key": "Coral",
+    "Id": 1806,
+    "StateId": 12
+  },
+  {
+    "Key": "Crackling",
+    "Id": 1807,
+    "StateId": 12
+  },
+  {
+    "Key": "Amber",
+    "Id": 1808,
+    "StateId": 12
+  },
+  {
+    "Key": "Forked",
+    "Id": 1809,
+    "StateId": 12
+  },
+  {
+    "Key": "Beryl",
+    "Id": 1811,
+    "StateId": 12
+  },
+  {
+    "Key": "Jade",
+    "Id": 1812,
+    "StateId": 12
+  },
+  {
+    "Key": "Viridian",
+    "Id": 1813,
+    "StateId": 12
+  },
+  {
+    "Key": "Vital",
+    "Id": 1814,
+    "StateId": 12
+  },
+  {
+    "Key": "Enduring",
+    "Id": 1816,
+    "StateId": 12
+  },
+  {
+    "Key": "Fletcher's",
+    "Id": 1817,
+    "StateId": 12
+  },
+  {
+    "Key": "Archer's",
+    "Id": 1818,
+    "StateId": 12
+  },
+  {
+    "Key": "Monk's",
+    "Id": 1819,
+    "StateId": 12
+  },
+  {
+    "Key": "Priest's",
+    "Id": 1820,
+    "StateId": 12
+  },
+  {
+    "Key": "Summoner's",
+    "Id": 1821,
+    "StateId": 12
+  },
+  {
+    "Key": "Necromancer's",
+    "Id": 1822,
+    "StateId": 12
+  },
+  {
+    "Key": "Angel's",
+    "Id": 1823,
+    "StateId": 12
+  },
+  {
+    "Key": "Arch-Angel's",
+    "Id": 1824,
+    "StateId": 12
+  },
+  {
+    "Key": "Slayer's",
+    "Id": 1825,
+    "StateId": 12
+  },
+  {
+    "Key": "Berserker's",
+    "Id": 1826,
+    "StateId": 12
+  },
+  {
+    "Key": "Kicking",
+    "Id": 1827,
+    "StateId": 12
+  },
+  {
+    "Key": "Triumphant",
+    "Id": 1828,
+    "StateId": 12
+  },
+  {
+    "Key": "Mighty",
+    "Id": 1829,
+    "StateId": 12
+  },
+  {
+    "Key": "Energizing",
+    "Id": 1830,
+    "StateId": 12
+  },
+  {
+    "Key": "Strengthening",
+    "Id": 1831,
+    "StateId": 12
+  },
+  {
+    "Key": "Empowering",
+    "Id": 1832,
+    "StateId": 12
+  },
+  {
+    "Key": "Brisk",
+    "Id": 1833,
+    "StateId": 12
+  },
+  {
+    "Key": "Tough",
+    "Id": 1834,
+    "StateId": 12
+  },
+  {
+    "Key": "Hardy",
+    "Id": 1835,
+    "StateId": 12
+  },
+  {
+    "Key": "Robust",
+    "Id": 1836,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Horse",
+    "Id": 1887,
+    "StateId": 12
+  },
+  {
+    "Key": "of Ice",
+    "Id": 1918,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Mule",
+    "Id": 1921,
+    "StateId": 12
+  },
+  {
+    "Key": "Raven",
+    "Id": 2284,
+    "StateId": 12
+  },
+  {
+    "Key": "Viper",
+    "Id": 2285,
+    "StateId": 12
+  },
+  {
+    "Key": "GhoulRI",
+    "Id": 2286,
+    "StateId": 12
+  },
+  {
+    "Key": "Grim",
+    "Id": 2291,
+    "StateId": 12
+  },
+  {
+    "Key": "PlagueRI",
+    "Id": 2297,
+    "StateId": 12
+  },
+  {
+    "Key": "Demon",
+    "Id": 2301,
+    "StateId": 12
+  },
+  {
+    "Key": "Cruel",
+    "Id": 2302,
+    "StateId": 12
+  },
+  {
+    "Key": "Empyrion",
+    "Id": 2303,
+    "StateId": 12
+  },
+  {
+    "Key": "Pain",
+    "Id": 2305,
+    "StateId": 12
+  },
+  {
+    "Key": "Loath",
+    "Id": 2306,
+    "StateId": 12
+  },
+  {
+    "Key": "Glyph",
+    "Id": 2307,
+    "StateId": 12
+  },
+  {
+    "Key": "Imp",
+    "Id": 2308,
+    "StateId": 12
+  },
+  {
+    "Key": "Hailstone",
+    "Id": 2310,
+    "StateId": 12
+  },
+  {
+    "Key": "Gale",
+    "Id": 2311,
+    "StateId": 12
+  },
+  {
+    "Key": "Dire",
+    "Id": 2312,
+    "StateId": 12
+  },
+  {
+    "Key": "Soul",
+    "Id": 2313,
+    "StateId": 12
+  },
+  {
+    "Key": "Brimstone",
+    "Id": 2314,
+    "StateId": 12
+  },
+  {
+    "Key": "Carrion",
+    "Id": 2316,
+    "StateId": 12
+  },
+  {
+    "Key": "Holocaust",
+    "Id": 2317,
+    "StateId": 12
+  },
+  {
+    "Key": "Havoc",
+    "Id": 2318,
+    "StateId": 12
+  },
+  {
+    "Key": "Bitter",
+    "Id": 2319,
+    "StateId": 12
+  },
+  {
+    "Key": "Entropy",
+    "Id": 2320,
+    "StateId": 12
+  },
+  {
+    "Key": "Order",
+    "Id": 2322,
+    "StateId": 12
+  },
+  {
+    "Key": "Corruption",
+    "Id": 2324,
+    "StateId": 12
+  },
+  {
+    "Key": "Hsarus' Trim",
+    "Id": 2481,
+    "StateId": 12
+  },
+  {
+    "Key": "Civerb's",
+    "Id": 2496,
+    "StateId": 12
+  },
+  {
+    "Key": "Hsarus'",
+    "Id": 2497,
+    "StateId": 12
+  },
+  {
+    "Key": "Cleglaw's",
+    "Id": 2498,
+    "StateId": 12
+  },
+  {
+    "Key": "Iratha's",
+    "Id": 2499,
+    "StateId": 12
+  },
+  {
+    "Key": "Isenhart's",
+    "Id": 2500,
+    "StateId": 12
+  },
+  {
+    "Key": "Vidala's",
+    "Id": 2501,
+    "StateId": 12
+  },
+  {
+    "Key": "Milabrega's",
+    "Id": 2502,
+    "StateId": 12
+  },
+  {
+    "Key": "Cathan's",
+    "Id": 2503,
+    "StateId": 12
+  },
+  {
+    "Key": "Tancred's",
+    "Id": 2504,
+    "StateId": 12
+  },
+  {
+    "Key": "Sigon's",
+    "Id": 2505,
+    "StateId": 12
+  },
+  {
+    "Key": "Infernal",
+    "Id": 2506,
+    "StateId": 12
+  },
+  {
+    "Key": "Death's",
+    "Id": 2508,
+    "StateId": 12
+  },
+  {
+    "Key": "Angelical",
+    "Id": 2509,
+    "StateId": 12
+  },
+  {
+    "Key": "Arctic",
+    "Id": 2510,
+    "StateId": 12
+  },
+  {
+    "Key": "Arcanna's",
+    "Id": 2511,
+    "StateId": 12
+  },
+  {
+    "Key": "Ward",
+    "Id": 2512,
+    "StateId": 12
+  },
+  {
+    "Key": "Iron Heel",
+    "Id": 2513,
+    "StateId": 12
+  },
+  {
+    "Key": "Tooth",
+    "Id": 2514,
+    "StateId": 12
+  },
+  {
+    "Key": "Collar",
+    "Id": 2515,
+    "StateId": 12
+  },
+  {
+    "Key": "Lightbrand",
+    "Id": 2516,
+    "StateId": 12
+  },
+  {
+    "Key": "Barb",
+    "Id": 2517,
+    "StateId": 12
+  },
+  {
+    "Key": "Rule",
+    "Id": 2519,
+    "StateId": 12
+  },
+  {
+    "Key": "Crowbill",
+    "Id": 2520,
+    "StateId": 12
+  },
+  {
+    "Key": "Visor",
+    "Id": 2521,
+    "StateId": 12
+  },
+  {
+    "Key": "Cranium",
+    "Id": 2522,
+    "StateId": 12
+  },
+  {
+    "Key": "Headgear",
+    "Id": 2523,
+    "StateId": 12
+  },
+  {
+    "Key": "Hand",
+    "Id": 2524,
+    "StateId": 12
+  },
+  {
+    "Key": "Sickle",
+    "Id": 2525,
+    "StateId": 12
+  },
+  {
+    "Key": "Horn",
+    "Id": 2526,
+    "StateId": 12
+  },
+  {
+    "Key": "Sign",
+    "Id": 2527,
+    "StateId": 12
+  },
+  {
+    "Key": "Iron Fist",
+    "Id": 2529,
+    "StateId": 12
+  },
+  {
+    "Key": "Claw",
+    "Id": 2530,
+    "StateId": 12
+  },
+  {
+    "Key": "Cuff",
+    "Id": 2531,
+    "StateId": 12
+  },
+  {
+    "Key": "Parry",
+    "Id": 2532,
+    "StateId": 12
+  },
+  {
+    "Key": "Fetlock",
+    "Id": 2533,
+    "StateId": 12
+  },
+  {
+    "Key": "Rod",
+    "Id": 2534,
+    "StateId": 12
+  },
+  {
+    "Key": "Mesh",
+    "Id": 2535,
+    "StateId": 12
+  },
+  {
+    "Key": "Spine",
+    "Id": 2536,
+    "StateId": 12
+  },
+  {
+    "Key": "Shelter",
+    "Id": 2537,
+    "StateId": 12
+  },
+  {
+    "Key": "Hauberk",
+    "Id": 2539,
+    "StateId": 12
+  },
+  {
+    "Key": "Mantle",
+    "Id": 2541,
+    "StateId": 12
+  },
+  {
+    "Key": "Furs",
+    "Id": 2542,
+    "StateId": 12
+  },
+  {
+    "Key": "Deathwand",
+    "Id": 2543,
+    "StateId": 12
+  },
+  {
+    "Key": "CudgelSI3S",
+    "Id": 2544,
+    "StateId": 12
+  },
+  {
+    "Key": "Iron Stay",
+    "Id": 2545,
+    "StateId": 12
+  },
+  {
+    "Key": "Pincers",
+    "Id": 2546,
+    "StateId": 12
+  },
+  {
+    "Key": "Coil",
+    "Id": 2547,
+    "StateId": 12
+  },
+  {
+    "Key": "Case",
+    "Id": 2548,
+    "StateId": 12
+  },
+  {
+    "Key": "Ambush",
+    "Id": 2549,
+    "StateId": 12
+  },
+  {
+    "Key": "Diadem",
+    "Id": 2550,
+    "StateId": 12
+  },
+  {
+    "Key": "Visage",
+    "Id": 2551,
+    "StateId": 12
+  },
+  {
+    "Key": "Hobnails",
+    "Id": 2552,
+    "StateId": 12
+  },
+  {
+    "Key": "Gage",
+    "Id": 2553,
+    "StateId": 12
+  },
+  {
+    "Key": "SignSI3S",
+    "Id": 2554,
+    "StateId": 12
+  },
+  {
+    "Key": "Hatchet",
+    "Id": 2555,
+    "StateId": 12
+  },
+  {
+    "Key": "Touch",
+    "Id": 2556,
+    "StateId": 12
+  },
+  {
+    "Key": "Halo",
+    "Id": 2557,
+    "StateId": 12
+  },
+  {
+    "Key": "Horns",
+    "Id": 2560,
+    "StateId": 12
+  },
+  {
+    "Key": "Snare",
+    "Id": 2561,
+    "StateId": 12
+  },
+  {
+    "Key": "Robe",
+    "Id": 2562,
+    "StateId": 12
+  },
+  {
+    "Key": "Sigil",
+    "Id": 2563,
+    "StateId": 12
+  },
+  {
+    "Key": "Weird",
+    "Id": 2564,
+    "StateId": 12
+  },
+  {
+    "Key": "Sabot",
+    "Id": 2565,
+    "StateId": 12
+  },
+  {
+    "Key": "Wings",
+    "Id": 2566,
+    "StateId": 12
+  },
+  {
+    "Key": "Mitts",
+    "Id": 2567,
+    "StateId": 12
+  },
+  {
+    "Key": "Flesh",
+    "Id": 2568,
+    "StateId": 12
+  },
+  {
+    "Key": "Cord",
+    "Id": 2569,
+    "StateId": 12
+  },
+  {
+    "Key": "SkullSI5S",
+    "Id": 2571,
+    "StateId": 12
+  },
+  {
+    "Key": "Wrap",
+    "Id": 2572,
+    "StateId": 12
+  },
+  {
+    "Key": "GuardSI6S",
+    "Id": 2573,
+    "StateId": 12
+  },
+  {
+    "Key": "Gorgethroat",
+    "Id": 2696,
+    "StateId": 12
+  },
+  {
+    "Key": "Wariv",
+    "Id": 2895,
+    "StateId": 12
+  },
+  {
+    "Key": "BlackVulture",
+    "Id": 3002,
+    "StateId": 12
+  },
+  {
+    "Key": "Camel",
+    "Id": 3033,
+    "StateId": 12
+  },
+  {
+    "Key": "CorpseArcher",
+    "Id": 3087,
+    "StateId": 12
+  },
+  {
+    "Key": "CorpseMage",
+    "Id": 3108,
+    "StateId": 12
+  },
+  {
+    "Key": "InvisoSpawner",
+    "Id": 3152,
+    "StateId": 12
+  },
+  {
+    "Key": "NecroMage",
+    "Id": 3176,
+    "StateId": 12
+  },
+  {
+    "Key": "NecroSkeleton",
+    "Id": 3177,
+    "StateId": 12
+  },
+  {
+    "Key": "Raises Fetishes",
+    "Id": 3181,
+    "StateId": 12
+  },
+  {
+    "Key": "Raises Undead",
+    "Id": 3182,
+    "StateId": 12
+  },
+  {
+    "Key": "Raises Fallen",
+    "Id": 3184,
+    "StateId": 12
+  },
+  {
+    "Key": "eats and spits corspes",
+    "Id": 3190,
+    "StateId": 12
+  },
+  {
+    "Key": "This Cow Bites",
+    "Id": 3219,
+    "StateId": 12
+  },
+  {
+    "Key": "Lever1",
+    "Id": 3223,
+    "StateId": 12
+  },
+  {
+    "Key": "Cabinet",
+    "Id": 3238,
+    "StateId": 12
+  },
+  {
+    "Key": "Vase",
+    "Id": 3239,
+    "StateId": 12
+  },
+  {
+    "Key": "CanopicJar",
+    "Id": 3252,
+    "StateId": 12
+  },
+  {
+    "Key": "bag",
+    "Id": 3259,
+    "StateId": 12
+  },
+  {
+    "Key": "Chest",
+    "Id": 3260,
+    "StateId": 12
+  },
+  {
+    "Key": "HorazonsJournal",
+    "Id": 3263,
+    "StateId": 12
+  },
+  {
+    "Key": "bowl",
+    "Id": 3276,
+    "StateId": 12
+  },
+  {
+    "Key": "burning body",
+    "Id": 3280,
+    "StateId": 12
+  },
+  {
+    "Key": "ratchest-r",
+    "Id": 3296,
+    "StateId": 12
+  },
+  {
+    "Key": "hell bridge",
+    "Id": 3299,
+    "StateId": 12
+  },
+  {
+    "Key": "dead villager",
+    "Id": 3310,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCHeal",
+    "Id": 3337,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCNextPage",
+    "Id": 3339,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCPreviousPage",
+    "Id": 3340,
+    "StateId": 12
+  },
+  {
+    "Key": "TransactionMenu1a",
+    "Id": 3342,
+    "StateId": 12
+  },
+  {
+    "Key": "TransactionMenu1f",
+    "Id": 3343,
+    "StateId": 12
+  },
+  {
+    "Key": "VerifyTransaction6",
+    "Id": 3349,
+    "StateId": 12
+  },
+  {
+    "Key": "TransactionResults2",
+    "Id": 3354,
+    "StateId": 12
+  },
+  {
+    "Key": "TransactionResults3",
+    "Id": 3355,
+    "StateId": 12
+  },
+  {
+    "Key": "TransactionResults7",
+    "Id": 3359,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCMenuTalkMore",
+    "Id": 3391,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCTownMore1",
+    "Id": 3393,
+    "StateId": 12
+  },
+  {
+    "Key": "NPCMenuLeave",
+    "Id": 3394,
+    "StateId": 12
+  },
+  {
+    "Key": "strOptGamma",
+    "Id": 3407,
+    "StateId": 12
+  },
+  {
+    "Key": "strOptRender",
+    "Id": 3408,
+    "StateId": 12
+  },
+  {
+    "Key": "strOptPrevious",
+    "Id": 3409,
+    "StateId": 12
+  },
+  {
+    "Key": "cfgCtrl",
+    "Id": 3410,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemStats1a",
+    "Id": 3454,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemStats1c",
+    "Id": 3456,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemStats1g",
+    "Id": 3460,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemStast1k",
+    "Id": 3464,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemStatsrejuv2",
+    "Id": 3472,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2f",
+    "Id": 3504,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2m",
+    "Id": 3511,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2n",
+    "Id": 3512,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2o",
+    "Id": 3513,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2p",
+    "Id": 3514,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2q",
+    "Id": 3515,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2r",
+    "Id": 3516,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2s",
+    "Id": 3517,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr2x",
+    "Id": 3522,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3n",
+    "Id": 3538,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3o",
+    "Id": 3539,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3p",
+    "Id": 3540,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3q",
+    "Id": 3541,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3x",
+    "Id": 3546,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr3z",
+    "Id": 3548,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4l",
+    "Id": 3560,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4n",
+    "Id": 3562,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4o",
+    "Id": 3563,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4q",
+    "Id": 3565,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4r",
+    "Id": 3566,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4t",
+    "Id": 3568,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4u",
+    "Id": 3569,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4w",
+    "Id": 3571,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4x",
+    "Id": 3572,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr4z",
+    "Id": 3574,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr5p",
+    "Id": 3590,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr5s",
+    "Id": 3593,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStr5t",
+    "Id": 3594,
+    "StateId": 12
+  },
+  {
+    "Key": "Quick Strike",
+    "Id": 3629,
+    "StateId": 12
+  },
+  {
+    "Key": "strGemPlace1",
+    "Id": 3630,
+    "StateId": 12
+  },
+  {
+    "Key": "strGemPlace2",
+    "Id": 3631,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect1",
+    "Id": 3632,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect2",
+    "Id": 3633,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect3",
+    "Id": 3634,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect4",
+    "Id": 3635,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect5",
+    "Id": 3636,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect6",
+    "Id": 3637,
+    "StateId": 12
+  },
+  {
+    "Key": "gemeffect7",
+    "Id": 3638,
+    "StateId": 12
+  },
+  {
+    "Key": "sysmsg10",
+    "Id": 3650,
+    "StateId": 12
+  },
+  {
+    "Key": "sysmsgPlayer",
+    "Id": 3653,
+    "StateId": 12
+  },
+  {
+    "Key": "chatmsg3",
+    "Id": 3656,
+    "StateId": 12
+  },
+  {
+    "Key": "syswork",
+    "Id": 3659,
+    "StateId": 12
+  },
+  {
+    "Key": "strqi1",
+    "Id": 3706,
+    "StateId": 12
+  },
+  {
+    "Key": "strqi2",
+    "Id": 3707,
+    "StateId": 12
+  },
+  {
+    "Key": "stsa1q4alert",
+    "Id": 3709,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa1qt",
+    "Id": 3711,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa1qt0",
+    "Id": 3712,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa1q0",
+    "Id": 3713,
+    "StateId": 12
+  },
+  {
+    "Key": "newquestlog",
+    "Id": 3721,
+    "StateId": 12
+  },
+  {
+    "Key": "qsts",
+    "Id": 3722,
+    "StateId": 12
+  },
+  {
+    "Key": "noactivequest",
+    "Id": 3723,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsThankYouComeAgainSingle",
+    "Id": 3731,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyKana",
+    "Id": 3866,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyJunja",
+    "Id": 3867,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyFinal",
+    "Id": 3868,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyKanji",
+    "Id": 3869,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyConvert",
+    "Id": 3871,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyNonConvert",
+    "Id": 3872,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyAccept",
+    "Id": 3873,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyModeChange",
+    "Id": 3874,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyLeft",
+    "Id": 3875,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyRight",
+    "Id": 3876,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyDown",
+    "Id": 3877,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeySelect",
+    "Id": 3878,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyExecute",
+    "Id": 3879,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyLeftWindows",
+    "Id": 3880,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyRightWindows",
+    "Id": 3881,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyApps",
+    "Id": 3882,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyClear",
+    "Id": 3885,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyEnter",
+    "Id": 3886,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyPause",
+    "Id": 3889,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyCapsLock",
+    "Id": 3890,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeySpace",
+    "Id": 3891,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyHome",
+    "Id": 3894,
+    "StateId": 12
+  },
+  {
+    "Key": "KeyMacCommand",
+    "Id": 3916,
+    "StateId": 12
+  },
+  {
+    "Key": "ShorthandKeyMacCommand",
+    "Id": 3919,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgMiniMap",
+    "Id": 3932,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt5",
+    "Id": 3951,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt6",
+    "Id": 3952,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt7",
+    "Id": 3953,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt8",
+    "Id": 3954,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt9",
+    "Id": 3955,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt10",
+    "Id": 3956,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt11",
+    "Id": 3957,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgBelt12",
+    "Id": 3958,
+    "StateId": 12
+  },
+  {
+    "Key": "strNoKeysAssigned",
+    "Id": 3975,
+    "StateId": 12
+  },
+  {
+    "Key": "KeysAssigned",
+    "Id": 3976,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgClearKey",
+    "Id": 3980,
+    "StateId": 12
+  },
+  {
+    "Key": "warpsheader",
+    "Id": 3988,
+    "StateId": 12
+  },
+  {
+    "Key": "nowarps",
+    "Id": 3989,
+    "StateId": 12
+  },
+  {
+    "Key": "nowaypoints",
+    "Id": 3991,
+    "StateId": 12
+  },
+  {
+    "Key": "MAX",
+    "Id": 3993,
+    "StateId": 12
+  },
+  {
+    "Key": "pipe",
+    "Id": 3999,
+    "StateId": 12
+  },
+  {
+    "Key": "srostertitle",
+    "Id": 4004,
+    "StateId": 12
+  },
+  {
+    "Key": "Nest",
+    "Id": 4014,
+    "StateId": 12
+  },
+  {
+    "Key": "NoParty",
+    "Id": 4015,
+    "StateId": 12
+  },
+  {
+    "Key": "ItsMyParty",
+    "Id": 4016,
+    "StateId": 12
+  },
+  {
+    "Key": "upgraderestrict",
+    "Id": 4018,
+    "StateId": 12
+  },
+  {
+    "Key": "Use",
+    "Id": 4019,
+    "StateId": 12
+  },
+  {
+    "Key": "Body Looted",
+    "Id": 4023,
+    "StateId": 12
+  },
+  {
+    "Key": "Party1",
+    "Id": 4024,
+    "StateId": 12
+  },
+  {
+    "Key": "Party2",
+    "Id": 4025,
+    "StateId": 12
+  },
+  {
+    "Key": "strBSMagic",
+    "Id": 4038,
+    "StateId": 12
+  },
+  {
+    "Key": "strTrade",
+    "Id": 4040,
+    "StateId": 12
+  },
+  {
+    "Key": "strTradeAccept",
+    "Id": 4041,
+    "StateId": 12
+  },
+  {
+    "Key": "strTradeTooFull",
+    "Id": 4045,
+    "StateId": 12
+  },
+  {
+    "Key": "strNecromanerOnly",
+    "Id": 4095,
+    "StateId": 12
+  },
+  {
+    "Key": "strPaladinOnly",
+    "Id": 4096,
+    "StateId": 12
+  },
+  {
+    "Key": "strSorceressOnly",
+    "Id": 4097,
+    "StateId": 12
+  },
+  {
+    "Key": "strMaceSpecialDamage",
+    "Id": 4098,
+    "StateId": 12
+  },
+  {
+    "Key": "strGoldLabel",
+    "Id": 4099,
+    "StateId": 12
+  },
+  {
+    "Key": "strGoldTrade",
+    "Id": 4127,
+    "StateId": 12
+  },
+  {
+    "Key": "strGoldInStash",
+    "Id": 4128,
+    "StateId": 12
+  },
+  {
+    "Key": "strUiMenu1",
+    "Id": 4130,
+    "StateId": 12
+  },
+  {
+    "Key": "strUiBank",
+    "Id": 4132,
+    "StateId": 12
+  },
+  {
+    "Key": "strUnknownTomb",
+    "Id": 4133,
+    "StateId": 12
+  },
+  {
+    "Key": "strFree",
+    "Id": 4136,
+    "StateId": 12
+  },
+  {
+    "Key": "Lightning Spell",
+    "Id": 4145,
+    "StateId": 12
+  },
+  {
+    "Key": "Fire Spell",
+    "Id": 4146,
+    "StateId": 12
+  },
+  {
+    "Key": "Cold Spell",
+    "Id": 4147,
+    "StateId": 12
+  },
+  {
+    "Key": "Partyclose",
+    "Id": 4153,
+    "StateId": 12
+  },
+  {
+    "Key": "charmonster",
+    "Id": 4160,
+    "StateId": 12
+  },
+  {
+    "Key": "charmontohit1",
+    "Id": 4161,
+    "StateId": 12
+  },
+  {
+    "Key": "charmontohit2",
+    "Id": 4162,
+    "StateId": 12
+  },
+  {
+    "Key": "RunOff",
+    "Id": 4180,
+    "StateId": 12
+  },
+  {
+    "Key": "skilldesc1",
+    "Id": 4185,
+    "StateId": 12
+  },
+  {
+    "Key": "skilldesc2",
+    "Id": 4186,
+    "StateId": 12
+  },
+  {
+    "Key": "skilldesc4",
+    "Id": 4188,
+    "StateId": 12
+  },
+  {
+    "Key": "strpanel1",
+    "Id": 4189,
+    "StateId": 12
+  },
+  {
+    "Key": "strpanel3",
+    "Id": 4191,
+    "StateId": 12
+  },
+  {
+    "Key": "strpanel5",
+    "Id": 4193,
+    "StateId": 12
+  },
+  {
+    "Key": "strpanel6",
+    "Id": 4194,
+    "StateId": 12
+  },
+  {
+    "Key": "strpanel7",
+    "Id": 4195,
+    "StateId": 12
+  },
+  {
+    "Key": "stashfull",
+    "Id": 4197,
+    "StateId": 12
+  },
+  {
+    "Key": "strSklTree",
+    "Id": 4223,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree4",
+    "Id": 4230,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree5",
+    "Id": 4231,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree6",
+    "Id": 4232,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree7",
+    "Id": 4233,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree8",
+    "Id": 4234,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree9",
+    "Id": 4235,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree10",
+    "Id": 4236,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree11",
+    "Id": 4237,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree12",
+    "Id": 4238,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree13",
+    "Id": 4239,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree14",
+    "Id": 4240,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree15",
+    "Id": 4241,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree16",
+    "Id": 4242,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree17",
+    "Id": 4243,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree18",
+    "Id": 4244,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree19",
+    "Id": 4245,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree20",
+    "Id": 4246,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree21",
+    "Id": 4247,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree22",
+    "Id": 4248,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree23",
+    "Id": 4249,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree24",
+    "Id": 4250,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree25",
+    "Id": 4251,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill12",
+    "Id": 4264,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill19",
+    "Id": 4271,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill30",
+    "Id": 4282,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill31",
+    "Id": 4283,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill32",
+    "Id": 4284,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill35",
+    "Id": 4287,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill45",
+    "Id": 4299,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill49",
+    "Id": 4303,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill59",
+    "Id": 4313,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill60",
+    "Id": 4314,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill62",
+    "Id": 4316,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill63",
+    "Id": 4317,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill64",
+    "Id": 4318,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill66",
+    "Id": 4320,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill70",
+    "Id": 4324,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill71",
+    "Id": 4325,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill73",
+    "Id": 4327,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill75",
+    "Id": 4329,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill78",
+    "Id": 4332,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill81",
+    "Id": 4335,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill84",
+    "Id": 4338,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill87",
+    "Id": 4341,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill90",
+    "Id": 4344,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill92",
+    "Id": 4346,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill98",
+    "Id": 4351,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill104",
+    "Id": 4357,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill105",
+    "Id": 4358,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill108",
+    "Id": 4361,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill111",
+    "Id": 4364,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSkill114",
+    "Id": 4367,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd0",
+    "Id": 4374,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd1",
+    "Id": 4378,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd2",
+    "Id": 4382,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd3",
+    "Id": 4386,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd4",
+    "Id": 4390,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd5",
+    "Id": 4394,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd6",
+    "Id": 4398,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd7",
+    "Id": 4402,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld7",
+    "Id": 4403,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd8",
+    "Id": 4406,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd9",
+    "Id": 4410,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd10",
+    "Id": 4414,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd11",
+    "Id": 4418,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld11",
+    "Id": 4419,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd12",
+    "Id": 4422,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd13",
+    "Id": 4426,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd14",
+    "Id": 4430,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd15",
+    "Id": 4434,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd16",
+    "Id": 4438,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld16",
+    "Id": 4439,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd17",
+    "Id": 4442,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd18",
+    "Id": 4446,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd19",
+    "Id": 4450,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd20",
+    "Id": 4454,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd21",
+    "Id": 4458,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld21",
+    "Id": 4459,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd22",
+    "Id": 4462,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd23",
+    "Id": 4466,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd24",
+    "Id": 4470,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd25",
+    "Id": 4474,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd26",
+    "Id": 4478,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd27",
+    "Id": 4482,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld27",
+    "Id": 4483,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd28",
+    "Id": 4486,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd29",
+    "Id": 4490,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd30",
+    "Id": 4494,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd31",
+    "Id": 4498,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld31",
+    "Id": 4499,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd32",
+    "Id": 4502,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd33",
+    "Id": 4506,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd34",
+    "Id": 4510,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd35",
+    "Id": 4514,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd36",
+    "Id": 4518,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd37",
+    "Id": 4522,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd38",
+    "Id": 4526,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd39",
+    "Id": 4530,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd40",
+    "Id": 4534,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd41",
+    "Id": 4538,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd42",
+    "Id": 4542,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd43",
+    "Id": 4546,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd44",
+    "Id": 4550,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd45",
+    "Id": 4554,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd46",
+    "Id": 4558,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd47",
+    "Id": 4562,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd48",
+    "Id": 4566,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd49",
+    "Id": 4570,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd50",
+    "Id": 4574,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd51",
+    "Id": 4578,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd52",
+    "Id": 4582,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd53",
+    "Id": 4586,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd54",
+    "Id": 4590,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd55",
+    "Id": 4594,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd56",
+    "Id": 4598,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd57",
+    "Id": 4602,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd58",
+    "Id": 4606,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd59",
+    "Id": 4610,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd60",
+    "Id": 4614,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd61",
+    "Id": 4618,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd62",
+    "Id": 4622,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd63",
+    "Id": 4626,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld63",
+    "Id": 4627,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd64",
+    "Id": 4630,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd65",
+    "Id": 4634,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd66",
+    "Id": 4638,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd67",
+    "Id": 4642,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd68",
+    "Id": 4646,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd69",
+    "Id": 4650,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd70",
+    "Id": 4654,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd71",
+    "Id": 4658,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd72",
+    "Id": 4662,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd73",
+    "Id": 4666,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd74",
+    "Id": 4670,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd75",
+    "Id": 4674,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd76",
+    "Id": 4678,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd77",
+    "Id": 4682,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd78",
+    "Id": 4686,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd79",
+    "Id": 4690,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd80",
+    "Id": 4694,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd81",
+    "Id": 4698,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd82",
+    "Id": 4702,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd83",
+    "Id": 4706,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd84",
+    "Id": 4710,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd85",
+    "Id": 4714,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd86",
+    "Id": 4718,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld86",
+    "Id": 4719,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd87",
+    "Id": 4722,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd88",
+    "Id": 4726,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd89",
+    "Id": 4730,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd90",
+    "Id": 4734,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd91",
+    "Id": 4738,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd92",
+    "Id": 4742,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd93",
+    "Id": 4746,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd94",
+    "Id": 4750,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd95",
+    "Id": 4754,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd96",
+    "Id": 4758,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd97",
+    "Id": 4762,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd98",
+    "Id": 4766,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd99",
+    "Id": 4770,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd100",
+    "Id": 4774,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd101",
+    "Id": 4778,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd102",
+    "Id": 4782,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd103",
+    "Id": 4786,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd104",
+    "Id": 4790,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd105",
+    "Id": 4794,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd106",
+    "Id": 4798,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd107",
+    "Id": 4802,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd108",
+    "Id": 4806,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd109",
+    "Id": 4810,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd110",
+    "Id": 4814,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd111",
+    "Id": 4818,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd112",
+    "Id": 4822,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd113",
+    "Id": 4826,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd114",
+    "Id": 4830,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd115",
+    "Id": 4834,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd116",
+    "Id": 4838,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd117",
+    "Id": 4842,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd118",
+    "Id": 4846,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld118",
+    "Id": 4847,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd119",
+    "Id": 4850,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd120",
+    "Id": 4854,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd121",
+    "Id": 4858,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd122",
+    "Id": 4862,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld122",
+    "Id": 4863,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd123",
+    "Id": 4866,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd124",
+    "Id": 4870,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld124",
+    "Id": 4871,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd125",
+    "Id": 4874,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd126",
+    "Id": 4878,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd127",
+    "Id": 4882,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd128",
+    "Id": 4886,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd129",
+    "Id": 4890,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd130",
+    "Id": 4894,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd131",
+    "Id": 4898,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd132",
+    "Id": 4902,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd133",
+    "Id": 4906,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd134",
+    "Id": 4910,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd135",
+    "Id": 4914,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd136",
+    "Id": 4918,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd137",
+    "Id": 4922,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd138",
+    "Id": 4926,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd139",
+    "Id": 4930,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd140",
+    "Id": 4934,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd141",
+    "Id": 4938,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd142",
+    "Id": 4942,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd143",
+    "Id": 4946,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd144",
+    "Id": 4950,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd145",
+    "Id": 4954,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd146",
+    "Id": 4958,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd147",
+    "Id": 4962,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd148",
+    "Id": 4966,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd149",
+    "Id": 4970,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd150",
+    "Id": 4974,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd151",
+    "Id": 4978,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd152",
+    "Id": 4982,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd153",
+    "Id": 4986,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd154",
+    "Id": 4990,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd155",
+    "Id": 4994,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd217",
+    "Id": 4998,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd218",
+    "Id": 5002,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd219",
+    "Id": 5006,
+    "StateId": 12
+  },
+  {
+    "Key": "skillsd220",
+    "Id": 5010,
+    "StateId": 12
+  },
+  {
+    "Key": "strMephistoDoorLocked",
+    "Id": 5013,
+    "StateId": 12
+  },
+  {
+    "Key": "strcopyrightinfo",
+    "Id": 5104,
+    "StateId": 12
+  },
+  {
+    "Key": "strCinematicsPopup",
+    "Id": 5112,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNCancel",
+    "Id": 5134,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNCreateChannel",
+    "Id": 5135,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNJoinChannel",
+    "Id": 5136,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNCharLimit1",
+    "Id": 5142,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNCharLimit2",
+    "Id": 5143,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelect",
+    "Id": 5144,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectNew",
+    "Id": 5145,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectOpen",
+    "Id": 5146,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectRealm",
+    "Id": 5147,
+    "StateId": 12
+  },
+  {
+    "Key": "strLMMSelectHClass",
+    "Id": 5148,
+    "StateId": 12
+  },
+  {
+    "Key": "strMultiLANMenu1",
+    "Id": 5152,
+    "StateId": 12
+  },
+  {
+    "Key": "strMultiLANMenu2",
+    "Id": 5153,
+    "StateId": 12
+  },
+  {
+    "Key": "strselectdiff",
+    "Id": 5157,
+    "StateId": 12
+  },
+  {
+    "Key": "stropengamechar",
+    "Id": 5164,
+    "StateId": 12
+  },
+  {
+    "Key": "strcinematiccd",
+    "Id": 5170,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetConnecting",
+    "Id": 5171,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetQueryGateway",
+    "Id": 5172,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetFastestServer",
+    "Id": 5173,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetValidateID",
+    "Id": 5174,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetCheckVersions",
+    "Id": 5175,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetGetProfile",
+    "Id": 5177,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetMacBadConnection",
+    "Id": 5184,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetBadServiceProvider",
+    "Id": 5185,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetNoWinsock32",
+    "Id": 5191,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetNoWinsock32_ext",
+    "Id": 5192,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetMacNoWinsock32",
+    "Id": 5193,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetAskUpdate",
+    "Id": 5195,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetPrepRestart",
+    "Id": 5196,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetDownloadFailed",
+    "Id": 5197,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetDownloadInProgress",
+    "Id": 5198,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetRealmsdown",
+    "Id": 5203,
+    "StateId": 12
+  },
+  {
+    "Key": "strBattleNetLogin",
+    "Id": 5204,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharfailedduetoname",
+    "Id": 5206,
+    "StateId": 12
+  },
+  {
+    "Key": "strserverdowns",
+    "Id": 5210,
+    "StateId": 12
+  },
+  {
+    "Key": "strAccountCreate",
+    "Id": 5222,
+    "StateId": 12
+  },
+  {
+    "Key": "strVerifyPassword",
+    "Id": 5226,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchMMbn4",
+    "Id": 5230,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetPasswordMismatch",
+    "Id": 5238,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetInvalidBNETID",
+    "Id": 5240,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetInvalidPassword",
+    "Id": 5241,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetChangePasswordErr",
+    "Id": 5242,
+    "StateId": 12
+  },
+  {
+    "Key": "strCreateAccount",
+    "Id": 5250,
+    "StateId": 12
+  },
+  {
+    "Key": "strEnterName",
+    "Id": 5251,
+    "StateId": 12
+  },
+  {
+    "Key": "strPeople",
+    "Id": 5252,
+    "StateId": 12
+  },
+  {
+    "Key": "strFilter",
+    "Id": 5253,
+    "StateId": 12
+  },
+  {
+    "Key": "strChannel",
+    "Id": 5254,
+    "StateId": 12
+  },
+  {
+    "Key": "strPlayers",
+    "Id": 5255,
+    "StateId": 12
+  },
+  {
+    "Key": "strnewcharacterwarninga",
+    "Id": 5276,
+    "StateId": 12
+  },
+  {
+    "Key": "strnewcharacterwarningb",
+    "Id": 5277,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnlongA",
+    "Id": 5278,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnlongB",
+    "Id": 5279,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnlongC",
+    "Id": 5280,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnshortA",
+    "Id": 5281,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnshortB",
+    "Id": 5282,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnshortC",
+    "Id": 5283,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnvagueA",
+    "Id": 5284,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpirewarnvagueB",
+    "Id": 5285,
+    "StateId": 12
+  },
+  {
+    "Key": "strcharexpiredwarngone",
+    "Id": 5286,
+    "StateId": 12
+  },
+  {
+    "Key": "strPlayerName",
+    "Id": 5287,
+    "StateId": 12
+  },
+  {
+    "Key": "strSelectRealmTitle",
+    "Id": 5289,
+    "StateId": 12
+  },
+  {
+    "Key": "strAllRealmsDown",
+    "Id": 5290,
+    "StateId": 12
+  },
+  {
+    "Key": "strSelectRealm",
+    "Id": 5291,
+    "StateId": 12
+  },
+  {
+    "Key": "strRealmName",
+    "Id": 5292,
+    "StateId": 12
+  },
+  {
+    "Key": "strRealmList",
+    "Id": 5293,
+    "StateId": 12
+  },
+  {
+    "Key": "strSort",
+    "Id": 5294,
+    "StateId": 12
+  },
+  {
+    "Key": "strAlphabetically",
+    "Id": 5295,
+    "StateId": 12
+  },
+  {
+    "Key": "strCapacity",
+    "Id": 5296,
+    "StateId": 12
+  },
+  {
+    "Key": "strRealmInformation",
+    "Id": 5297,
+    "StateId": 12
+  },
+  {
+    "Key": "strConnectionSpeed",
+    "Id": 5298,
+    "StateId": 12
+  },
+  {
+    "Key": "strCurrentCapacity",
+    "Id": 5299,
+    "StateId": 12
+  },
+  {
+    "Key": "strRealmLecture",
+    "Id": 5300,
+    "StateId": 12
+  },
+  {
+    "Key": "strbuttonafk",
+    "Id": 5311,
+    "StateId": 12
+  },
+  {
+    "Key": "strWeeklyLadder",
+    "Id": 5319,
+    "StateId": 12
+  },
+  {
+    "Key": "strExpGained",
+    "Id": 5323,
+    "StateId": 12
+  },
+  {
+    "Key": "strDisplay",
+    "Id": 5325,
+    "StateId": 12
+  },
+  {
+    "Key": "strByClass",
+    "Id": 5327,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetChannelNameInvalid",
+    "Id": 5337,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetQueryBrowseWeb",
+    "Id": 5338,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetQueryDisconnect",
+    "Id": 5339,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetBrowserError",
+    "Id": 5340,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetBadURL",
+    "Id": 5341,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetNoInternetConfig",
+    "Id": 5342,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetMacNoBrowser",
+    "Id": 5343,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetMacErrLowMemory",
+    "Id": 5344,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetMacQueryBrowseWeb",
+    "Id": 5345,
+    "StateId": 12
+  },
+  {
+    "Key": "strbnetchannelrestricted",
+    "Id": 5346,
+    "StateId": 12
+  },
+  {
+    "Key": "strbnetdownsory",
+    "Id": 5350,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetConnectionLost",
+    "Id": 5352,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetUnreachable",
+    "Id": 5353,
+    "StateId": 12
+  },
+  {
+    "Key": "strBnetNotResponding",
+    "Id": 5355,
+    "StateId": 12
+  },
+  {
+    "Key": "Not used",
+    "Id": 5386,
+    "StateId": 12
+  },
+  {
+    "Key": "strNotInBeta",
+    "Id": 5388,
+    "StateId": 12
+  },
+  {
+    "Key": "Endthispuppy",
+    "Id": 5390,
+    "StateId": 12
+  },
+  {
+    "Key": "strModAllSkillLevels",
+    "Id": 10025,
+    "StateId": 12
+  },
+  {
+    "Key": "strModMinDamage",
+    "Id": 10036,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9j",
+    "Id": 10039,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9k",
+    "Id": 10040,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9l",
+    "Id": 10041,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9m",
+    "Id": 10042,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9n",
+    "Id": 10043,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9r",
+    "Id": 10047,
+    "StateId": 12
+  },
+  {
+    "Key": "Valkyrie's",
+    "Id": 10050,
+    "StateId": 12
+  },
+  {
+    "Key": "Maiden's",
+    "Id": 10051,
+    "StateId": 12
+  },
+  {
+    "Key": "Blank",
+    "Id": 10052,
+    "StateId": 12
+  },
+  {
+    "Key": "stritsgonesomakeanewone",
+    "Id": 10075,
+    "StateId": 12
+  },
+  {
+    "Key": "strScaryMonDescA",
+    "Id": 10079,
+    "StateId": 12
+  },
+  {
+    "Key": "strScaryMonDescB",
+    "Id": 10080,
+    "StateId": 12
+  },
+  {
+    "Key": "PlayerNameOnItemstring",
+    "Id": 10087,
+    "StateId": 12
+  },
+  {
+    "Key": "PlayerNameOnItemstringX",
+    "Id": 10088,
+    "StateId": 12
+  },
+  {
+    "Key": "strrepairallequip",
+    "Id": 10094,
+    "StateId": 12
+  },
+  {
+    "Key": "strnoequiptorepair",
+    "Id": 10096,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname0",
+    "Id": 10184,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd0",
+    "Id": 10185,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld0",
+    "Id": 10186,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan0",
+    "Id": 10187,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname1",
+    "Id": 10188,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd1",
+    "Id": 10189,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld1",
+    "Id": 10190,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan1",
+    "Id": 10191,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname2",
+    "Id": 10192,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd2",
+    "Id": 10193,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld2",
+    "Id": 10194,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan2",
+    "Id": 10195,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname3",
+    "Id": 10196,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd3",
+    "Id": 10197,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld3",
+    "Id": 10198,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan3",
+    "Id": 10199,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname4",
+    "Id": 10200,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd4",
+    "Id": 10201,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld4",
+    "Id": 10202,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan4",
+    "Id": 10203,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname5",
+    "Id": 10204,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd5",
+    "Id": 10205,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld5",
+    "Id": 10206,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan5",
+    "Id": 10207,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname6",
+    "Id": 10208,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd6",
+    "Id": 10209,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld6",
+    "Id": 10210,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan6",
+    "Id": 10211,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname7",
+    "Id": 10212,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd7",
+    "Id": 10213,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan7",
+    "Id": 10215,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname8",
+    "Id": 10216,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd8",
+    "Id": 10217,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld8",
+    "Id": 10218,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan8",
+    "Id": 10219,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname9",
+    "Id": 10220,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd9",
+    "Id": 10221,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld9",
+    "Id": 10222,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan9",
+    "Id": 10223,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname10",
+    "Id": 10224,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd10",
+    "Id": 10225,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld10",
+    "Id": 10226,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan10",
+    "Id": 10227,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname11",
+    "Id": 10228,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd11",
+    "Id": 10229,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan11",
+    "Id": 10231,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname12",
+    "Id": 10232,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd12",
+    "Id": 10233,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld12",
+    "Id": 10234,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan12",
+    "Id": 10235,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname13",
+    "Id": 10236,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd13",
+    "Id": 10237,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld13",
+    "Id": 10238,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan13",
+    "Id": 10239,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname14",
+    "Id": 10240,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd14",
+    "Id": 10241,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld14",
+    "Id": 10242,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan14",
+    "Id": 10243,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname15",
+    "Id": 10244,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd15",
+    "Id": 10245,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld15",
+    "Id": 10246,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan15",
+    "Id": 10247,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname16",
+    "Id": 10248,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd16",
+    "Id": 10249,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan16",
+    "Id": 10251,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname17",
+    "Id": 10252,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd17",
+    "Id": 10253,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld17",
+    "Id": 10254,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan17",
+    "Id": 10255,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname18",
+    "Id": 10256,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd18",
+    "Id": 10257,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld18",
+    "Id": 10258,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan18",
+    "Id": 10259,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname19",
+    "Id": 10260,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd19",
+    "Id": 10261,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld19",
+    "Id": 10262,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan19",
+    "Id": 10263,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname20",
+    "Id": 10264,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd20",
+    "Id": 10265,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld20",
+    "Id": 10266,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan20",
+    "Id": 10267,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname21",
+    "Id": 10268,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd21",
+    "Id": 10269,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan21",
+    "Id": 10271,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname22",
+    "Id": 10272,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd22",
+    "Id": 10273,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld22",
+    "Id": 10274,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan22",
+    "Id": 10275,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname23",
+    "Id": 10276,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd23",
+    "Id": 10277,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld23",
+    "Id": 10278,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan23",
+    "Id": 10279,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname24",
+    "Id": 10280,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd24",
+    "Id": 10281,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld24",
+    "Id": 10282,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan24",
+    "Id": 10283,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname25",
+    "Id": 10284,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd25",
+    "Id": 10285,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld25",
+    "Id": 10286,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan25",
+    "Id": 10287,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname26",
+    "Id": 10288,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd26",
+    "Id": 10289,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld26",
+    "Id": 10290,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan26",
+    "Id": 10291,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname27",
+    "Id": 10292,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd27",
+    "Id": 10293,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan27",
+    "Id": 10295,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname28",
+    "Id": 10296,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd28",
+    "Id": 10297,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld28",
+    "Id": 10298,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan28",
+    "Id": 10299,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname29",
+    "Id": 10300,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd29",
+    "Id": 10301,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld29",
+    "Id": 10302,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan29",
+    "Id": 10303,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname30",
+    "Id": 10304,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd30",
+    "Id": 10305,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld30",
+    "Id": 10306,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan30",
+    "Id": 10307,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname31",
+    "Id": 10308,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd31",
+    "Id": 10309,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan31",
+    "Id": 10311,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname32",
+    "Id": 10312,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd32",
+    "Id": 10313,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld32",
+    "Id": 10314,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan32",
+    "Id": 10315,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname33",
+    "Id": 10316,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd33",
+    "Id": 10317,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld33",
+    "Id": 10318,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan33",
+    "Id": 10319,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname34",
+    "Id": 10320,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd34",
+    "Id": 10321,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld34",
+    "Id": 10322,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan34",
+    "Id": 10323,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname35",
+    "Id": 10324,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd35",
+    "Id": 10325,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld35",
+    "Id": 10326,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan35",
+    "Id": 10327,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname36",
+    "Id": 10328,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd36",
+    "Id": 10329,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld36",
+    "Id": 10330,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan36",
+    "Id": 10331,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname37",
+    "Id": 10332,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd37",
+    "Id": 10333,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld37",
+    "Id": 10334,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan37",
+    "Id": 10335,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname38",
+    "Id": 10336,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd38",
+    "Id": 10337,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld38",
+    "Id": 10338,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan38",
+    "Id": 10339,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname39",
+    "Id": 10340,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd39",
+    "Id": 10341,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld39",
+    "Id": 10342,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan39",
+    "Id": 10343,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname40",
+    "Id": 10344,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd40",
+    "Id": 10345,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld40",
+    "Id": 10346,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan40",
+    "Id": 10347,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname41",
+    "Id": 10348,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd41",
+    "Id": 10349,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld41",
+    "Id": 10350,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan41",
+    "Id": 10351,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname42",
+    "Id": 10352,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd42",
+    "Id": 10353,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan42",
+    "Id": 10355,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname43",
+    "Id": 10356,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd43",
+    "Id": 10357,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld43",
+    "Id": 10358,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan43",
+    "Id": 10359,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname44",
+    "Id": 10360,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd44",
+    "Id": 10361,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld44",
+    "Id": 10362,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan44",
+    "Id": 10363,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname45",
+    "Id": 10364,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd45",
+    "Id": 10365,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld45",
+    "Id": 10366,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan45",
+    "Id": 10367,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname46",
+    "Id": 10368,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd46",
+    "Id": 10369,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld46",
+    "Id": 10370,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan46",
+    "Id": 10371,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname47",
+    "Id": 10372,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd47",
+    "Id": 10373,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld47",
+    "Id": 10374,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan47",
+    "Id": 10375,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname48",
+    "Id": 10376,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd48",
+    "Id": 10377,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld48",
+    "Id": 10378,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan48",
+    "Id": 10379,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname49",
+    "Id": 10380,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd49",
+    "Id": 10381,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld49",
+    "Id": 10382,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan49",
+    "Id": 10383,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname50",
+    "Id": 10384,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd50",
+    "Id": 10385,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld50",
+    "Id": 10386,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan50",
+    "Id": 10387,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname51",
+    "Id": 10388,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd51",
+    "Id": 10389,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld51",
+    "Id": 10390,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan51",
+    "Id": 10391,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname52",
+    "Id": 10392,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd52",
+    "Id": 10393,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld52",
+    "Id": 10394,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan52",
+    "Id": 10395,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname53",
+    "Id": 10396,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd53",
+    "Id": 10397,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld53",
+    "Id": 10398,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan53",
+    "Id": 10399,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname54",
+    "Id": 10400,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd54",
+    "Id": 10401,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld54",
+    "Id": 10402,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan54",
+    "Id": 10403,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname55",
+    "Id": 10404,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd55",
+    "Id": 10405,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld55",
+    "Id": 10406,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan55",
+    "Id": 10407,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname56",
+    "Id": 10408,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd56",
+    "Id": 10409,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld56",
+    "Id": 10410,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan56",
+    "Id": 10411,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname57",
+    "Id": 10412,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd57",
+    "Id": 10413,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld57",
+    "Id": 10414,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan57",
+    "Id": 10415,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname58",
+    "Id": 10416,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd58",
+    "Id": 10417,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld58",
+    "Id": 10418,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan58",
+    "Id": 10419,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname59",
+    "Id": 10420,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd59",
+    "Id": 10421,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld59",
+    "Id": 10422,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan59",
+    "Id": 10423,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname60",
+    "Id": 10424,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd60",
+    "Id": 10425,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld60",
+    "Id": 10426,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan60",
+    "Id": 10427,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsname61",
+    "Id": 10428,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd61",
+    "Id": 10429,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld61",
+    "Id": 10430,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan61",
+    "Id": 10431,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname62",
+    "Id": 10432,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd62",
+    "Id": 10433,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld62",
+    "Id": 10434,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan62",
+    "Id": 10435,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname63",
+    "Id": 10436,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd63",
+    "Id": 10437,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan63",
+    "Id": 10439,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname64",
+    "Id": 10440,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd64",
+    "Id": 10441,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld64",
+    "Id": 10442,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan64",
+    "Id": 10443,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname65",
+    "Id": 10444,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd65",
+    "Id": 10445,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld65",
+    "Id": 10446,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan65",
+    "Id": 10447,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname66",
+    "Id": 10448,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd66",
+    "Id": 10449,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld66",
+    "Id": 10450,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan66",
+    "Id": 10451,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname67",
+    "Id": 10452,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd67",
+    "Id": 10453,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld67",
+    "Id": 10454,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan67",
+    "Id": 10455,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname68",
+    "Id": 10456,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd68",
+    "Id": 10457,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld68",
+    "Id": 10458,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan68",
+    "Id": 10459,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname69",
+    "Id": 10460,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd69",
+    "Id": 10461,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld69",
+    "Id": 10462,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan69",
+    "Id": 10463,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname70",
+    "Id": 10464,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd70",
+    "Id": 10465,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld70",
+    "Id": 10466,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan70",
+    "Id": 10467,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname71",
+    "Id": 10468,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd71",
+    "Id": 10469,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld71",
+    "Id": 10470,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan71",
+    "Id": 10471,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname72",
+    "Id": 10472,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd72",
+    "Id": 10473,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld72",
+    "Id": 10474,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan72",
+    "Id": 10475,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname73",
+    "Id": 10476,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd73",
+    "Id": 10477,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld73",
+    "Id": 10478,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan73",
+    "Id": 10479,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname74",
+    "Id": 10480,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd74",
+    "Id": 10481,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld74",
+    "Id": 10482,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan74",
+    "Id": 10483,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname75",
+    "Id": 10484,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd75",
+    "Id": 10485,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld75",
+    "Id": 10486,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan75",
+    "Id": 10487,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname76",
+    "Id": 10488,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd76",
+    "Id": 10489,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld76",
+    "Id": 10490,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan76",
+    "Id": 10491,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname77",
+    "Id": 10492,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd77",
+    "Id": 10493,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld77",
+    "Id": 10494,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan77",
+    "Id": 10495,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname78",
+    "Id": 10496,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd78",
+    "Id": 10497,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld78",
+    "Id": 10498,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan78",
+    "Id": 10499,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname79",
+    "Id": 10500,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd79",
+    "Id": 10501,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld79",
+    "Id": 10502,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan79",
+    "Id": 10503,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname80",
+    "Id": 10504,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd80",
+    "Id": 10505,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld80",
+    "Id": 10506,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan80",
+    "Id": 10507,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname81",
+    "Id": 10508,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd81",
+    "Id": 10509,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld81",
+    "Id": 10510,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan81",
+    "Id": 10511,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname82",
+    "Id": 10512,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd82",
+    "Id": 10513,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld82",
+    "Id": 10514,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan82",
+    "Id": 10515,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname83",
+    "Id": 10516,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd83",
+    "Id": 10517,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld83",
+    "Id": 10518,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan83",
+    "Id": 10519,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname84",
+    "Id": 10520,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd84",
+    "Id": 10521,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld84",
+    "Id": 10522,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan84",
+    "Id": 10523,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname85",
+    "Id": 10524,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd85",
+    "Id": 10525,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld85",
+    "Id": 10526,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan85",
+    "Id": 10527,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname86",
+    "Id": 10528,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd86",
+    "Id": 10529,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan86",
+    "Id": 10531,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname87",
+    "Id": 10532,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd87",
+    "Id": 10533,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld87",
+    "Id": 10534,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan87",
+    "Id": 10535,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname88",
+    "Id": 10536,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd88",
+    "Id": 10537,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld88",
+    "Id": 10538,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan88",
+    "Id": 10539,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname89",
+    "Id": 10540,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd89",
+    "Id": 10541,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld89",
+    "Id": 10542,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan89",
+    "Id": 10543,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname90",
+    "Id": 10544,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd90",
+    "Id": 10545,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld90",
+    "Id": 10546,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan90",
+    "Id": 10547,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname91",
+    "Id": 10548,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd91",
+    "Id": 10549,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld91",
+    "Id": 10550,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan91",
+    "Id": 10551,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname92",
+    "Id": 10552,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd92",
+    "Id": 10553,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld92",
+    "Id": 10554,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan92",
+    "Id": 10555,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname93",
+    "Id": 10556,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd93",
+    "Id": 10557,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld93",
+    "Id": 10558,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan93",
+    "Id": 10559,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname94",
+    "Id": 10560,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd94",
+    "Id": 10561,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld94",
+    "Id": 10562,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan94",
+    "Id": 10563,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname95",
+    "Id": 10564,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd95",
+    "Id": 10565,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld95",
+    "Id": 10566,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan95",
+    "Id": 10567,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname96",
+    "Id": 10568,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd96",
+    "Id": 10569,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld96",
+    "Id": 10570,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan96",
+    "Id": 10571,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname97",
+    "Id": 10572,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd97",
+    "Id": 10573,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld97",
+    "Id": 10574,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan97",
+    "Id": 10575,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname98",
+    "Id": 10576,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd98",
+    "Id": 10577,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld98",
+    "Id": 10578,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan98",
+    "Id": 10579,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname99",
+    "Id": 10580,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd99",
+    "Id": 10581,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld99",
+    "Id": 10582,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan99",
+    "Id": 10583,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname100",
+    "Id": 10584,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd100",
+    "Id": 10585,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld100",
+    "Id": 10586,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan100",
+    "Id": 10587,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname101",
+    "Id": 10588,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd101",
+    "Id": 10589,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld101",
+    "Id": 10590,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan101",
+    "Id": 10591,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname102",
+    "Id": 10592,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd102",
+    "Id": 10593,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld102",
+    "Id": 10594,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan102",
+    "Id": 10595,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname103",
+    "Id": 10596,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd103",
+    "Id": 10597,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld103",
+    "Id": 10598,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan103",
+    "Id": 10599,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname104",
+    "Id": 10600,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd104",
+    "Id": 10601,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld104",
+    "Id": 10602,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan104",
+    "Id": 10603,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname105",
+    "Id": 10604,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd105",
+    "Id": 10605,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld105",
+    "Id": 10606,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan105",
+    "Id": 10607,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname106",
+    "Id": 10608,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd106",
+    "Id": 10609,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld106",
+    "Id": 10610,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan106",
+    "Id": 10611,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname107",
+    "Id": 10612,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd107",
+    "Id": 10613,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld107",
+    "Id": 10614,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan107",
+    "Id": 10615,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname108",
+    "Id": 10616,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd108",
+    "Id": 10617,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld108",
+    "Id": 10618,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan108",
+    "Id": 10619,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname109",
+    "Id": 10620,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd109",
+    "Id": 10621,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld109",
+    "Id": 10622,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan109",
+    "Id": 10623,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname110",
+    "Id": 10624,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd110",
+    "Id": 10625,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld110",
+    "Id": 10626,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan110",
+    "Id": 10627,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname111",
+    "Id": 10628,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd111",
+    "Id": 10629,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld111",
+    "Id": 10630,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan111",
+    "Id": 10631,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname112",
+    "Id": 10632,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd112",
+    "Id": 10633,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld112",
+    "Id": 10634,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan112",
+    "Id": 10635,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname113",
+    "Id": 10636,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd113",
+    "Id": 10637,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld113",
+    "Id": 10638,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan113",
+    "Id": 10639,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname114",
+    "Id": 10640,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd114",
+    "Id": 10641,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld114",
+    "Id": 10642,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan114",
+    "Id": 10643,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname115",
+    "Id": 10644,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd115",
+    "Id": 10645,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld115",
+    "Id": 10646,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan115",
+    "Id": 10647,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname116",
+    "Id": 10648,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd116",
+    "Id": 10649,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld116",
+    "Id": 10650,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan116",
+    "Id": 10651,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname117",
+    "Id": 10652,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd117",
+    "Id": 10653,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld117",
+    "Id": 10654,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan117",
+    "Id": 10655,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname118",
+    "Id": 10656,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd118",
+    "Id": 10657,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan118",
+    "Id": 10659,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname119",
+    "Id": 10660,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd119",
+    "Id": 10661,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld119",
+    "Id": 10662,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan119",
+    "Id": 10663,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname120",
+    "Id": 10664,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd120",
+    "Id": 10665,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld120",
+    "Id": 10666,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan120",
+    "Id": 10667,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname121",
+    "Id": 10668,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd121",
+    "Id": 10669,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld121",
+    "Id": 10670,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan121",
+    "Id": 10671,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname122",
+    "Id": 10672,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd122",
+    "Id": 10673,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan122",
+    "Id": 10675,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname123",
+    "Id": 10676,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd123",
+    "Id": 10677,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld123",
+    "Id": 10678,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan123",
+    "Id": 10679,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname124",
+    "Id": 10680,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd124",
+    "Id": 10681,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan124",
+    "Id": 10683,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname125",
+    "Id": 10684,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd125",
+    "Id": 10685,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld125",
+    "Id": 10686,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan125",
+    "Id": 10687,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname126",
+    "Id": 10688,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd126",
+    "Id": 10689,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld126",
+    "Id": 10690,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan126",
+    "Id": 10691,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname127",
+    "Id": 10692,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd127",
+    "Id": 10693,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld127",
+    "Id": 10694,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan127",
+    "Id": 10695,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname128",
+    "Id": 10696,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd128",
+    "Id": 10697,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld128",
+    "Id": 10698,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan128",
+    "Id": 10699,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname129",
+    "Id": 10700,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd129",
+    "Id": 10701,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld129",
+    "Id": 10702,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan129",
+    "Id": 10703,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname130",
+    "Id": 10704,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd130",
+    "Id": 10705,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld130",
+    "Id": 10706,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan130",
+    "Id": 10707,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname131",
+    "Id": 10708,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd131",
+    "Id": 10709,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld131",
+    "Id": 10710,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan131",
+    "Id": 10711,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname132",
+    "Id": 10712,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd132",
+    "Id": 10713,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld132",
+    "Id": 10714,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan132",
+    "Id": 10715,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname133",
+    "Id": 10716,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd133",
+    "Id": 10717,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld133",
+    "Id": 10718,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan133",
+    "Id": 10719,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname134",
+    "Id": 10720,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd134",
+    "Id": 10721,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld134",
+    "Id": 10722,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan134",
+    "Id": 10723,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname135",
+    "Id": 10724,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd135",
+    "Id": 10725,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld135",
+    "Id": 10726,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan135",
+    "Id": 10727,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname136",
+    "Id": 10728,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd136",
+    "Id": 10729,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld136",
+    "Id": 10730,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan136",
+    "Id": 10731,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname137",
+    "Id": 10732,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd137",
+    "Id": 10733,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld137",
+    "Id": 10734,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan137",
+    "Id": 10735,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname138",
+    "Id": 10736,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd138",
+    "Id": 10737,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld138",
+    "Id": 10738,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan138",
+    "Id": 10739,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname139",
+    "Id": 10740,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd139",
+    "Id": 10741,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld139",
+    "Id": 10742,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan139",
+    "Id": 10743,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname140",
+    "Id": 10744,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd140",
+    "Id": 10745,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld140",
+    "Id": 10746,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan140",
+    "Id": 10747,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname141",
+    "Id": 10748,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd141",
+    "Id": 10749,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld141",
+    "Id": 10750,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan141",
+    "Id": 10751,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname142",
+    "Id": 10752,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd142",
+    "Id": 10753,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld142",
+    "Id": 10754,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan142",
+    "Id": 10755,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname143",
+    "Id": 10756,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd143",
+    "Id": 10757,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld143",
+    "Id": 10758,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan143",
+    "Id": 10759,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname144",
+    "Id": 10760,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd144",
+    "Id": 10761,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld144",
+    "Id": 10762,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan144",
+    "Id": 10763,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname145",
+    "Id": 10764,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd145",
+    "Id": 10765,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld145",
+    "Id": 10766,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan145",
+    "Id": 10767,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname146",
+    "Id": 10768,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd146",
+    "Id": 10769,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld146",
+    "Id": 10770,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan146",
+    "Id": 10771,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname147",
+    "Id": 10772,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd147",
+    "Id": 10773,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld147",
+    "Id": 10774,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan147",
+    "Id": 10775,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname148",
+    "Id": 10776,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd148",
+    "Id": 10777,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld148",
+    "Id": 10778,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan148",
+    "Id": 10779,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname149",
+    "Id": 10780,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd149",
+    "Id": 10781,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld149",
+    "Id": 10782,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan149",
+    "Id": 10783,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname150",
+    "Id": 10784,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd150",
+    "Id": 10785,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld150",
+    "Id": 10786,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan150",
+    "Id": 10787,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname151",
+    "Id": 10788,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd151",
+    "Id": 10789,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld151",
+    "Id": 10790,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan151",
+    "Id": 10791,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname152",
+    "Id": 10792,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd152",
+    "Id": 10793,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld152",
+    "Id": 10794,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan152",
+    "Id": 10795,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname153",
+    "Id": 10796,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd153",
+    "Id": 10797,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld153",
+    "Id": 10798,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan153",
+    "Id": 10799,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname154",
+    "Id": 10800,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd154",
+    "Id": 10801,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld154",
+    "Id": 10802,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan154",
+    "Id": 10803,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxname155",
+    "Id": 10804,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxsd155",
+    "Id": 10805,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld155",
+    "Id": 10806,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxan155",
+    "Id": 10807,
+    "StateId": 12
+  },
+  {
+    "Key": "r16L",
+    "Id": 10903,
+    "StateId": 12
+  },
+  {
+    "Key": "r13L",
+    "Id": 10905,
+    "StateId": 12
+  },
+  {
+    "Key": "r31L",
+    "Id": 10907,
+    "StateId": 12
+  },
+  {
+    "Key": "Chatcaps",
+    "Id": 10924,
+    "StateId": 12
+  },
+  {
+    "Key": "Newscaps",
+    "Id": 10925,
+    "StateId": 12
+  },
+  {
+    "Key": "Laddercaps",
+    "Id": 10926,
+    "StateId": 12
+  },
+  {
+    "Key": "strLadderWarning",
+    "Id": 10928,
+    "StateId": 12
+  },
+  {
+    "Key": "RateFireplev",
+    "Id": 10940,
+    "StateId": 12
+  },
+  {
+    "Key": "AttSpeedplev",
+    "Id": 10942,
+    "StateId": 12
+  },
+  {
+    "Key": "Manacoredplev",
+    "Id": 10944,
+    "StateId": 12
+  },
+  {
+    "Key": "Missplev1",
+    "Id": 10945,
+    "StateId": 12
+  },
+  {
+    "Key": "Missplev2",
+    "Id": 10946,
+    "StateId": 12
+  },
+  {
+    "Key": "Boltplev1",
+    "Id": 10948,
+    "StateId": 12
+  },
+  {
+    "Key": "Boltplev2",
+    "Id": 10949,
+    "StateId": 12
+  },
+  {
+    "Key": "Shotplev1",
+    "Id": 10951,
+    "StateId": 12
+  },
+  {
+    "Key": "Shotplev2",
+    "Id": 10952,
+    "StateId": 12
+  },
+  {
+    "Key": "WRSpeedplev",
+    "Id": 10955,
+    "StateId": 12
+  },
+  {
+    "Key": "CoLenplev",
+    "Id": 10957,
+    "StateId": 12
+  },
+  {
+    "Key": "PoisLenplev",
+    "Id": 10959,
+    "StateId": 12
+  },
+  {
+    "Key": "Convphy2magplev",
+    "Id": 10960,
+    "StateId": 12
+  },
+  {
+    "Key": "Convphy2elemplev",
+    "Id": 10961,
+    "StateId": 12
+  },
+  {
+    "Key": "Secplev1",
+    "Id": 10964,
+    "StateId": 12
+  },
+  {
+    "Key": "Moditemslayat",
+    "Id": 10984,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd224",
+    "Id": 10998,
+    "StateId": 12
+  },
+  {
+    "Key": "uhf",
+    "Id": 11008,
+    "StateId": 12
+  },
+  {
+    "Key": "skillxld124P",
+    "Id": 11009,
+    "StateId": 12
+  },
+  {
+    "Key": "skillld42",
+    "Id": 11011,
+    "StateId": 12
+  },
+  {
+    "Key": "Fiendra",
+    "Id": 11013,
+    "StateId": 12
+  },
+  {
+    "Key": "Wraithra",
+    "Id": 11014,
+    "StateId": 12
+  },
+  {
+    "Key": "D2bnetHelp10",
+    "Id": 11017,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNShardGameQueTitle",
+    "Id": 11024,
+    "StateId": 12
+  },
+  {
+    "Key": "strBNShardGameQuealt",
+    "Id": 11025,
+    "StateId": 12
+  },
+  {
+    "Key": "Shocking Hit",
+    "Id": 11031,
+    "StateId": 12
+  },
+  {
+    "Key": "D2bnetHelp10a",
+    "Id": 11044,
+    "StateId": 12
+  },
+  {
+    "Key": "BnetnewGameTime",
+    "Id": 11045,
+    "StateId": 12
+  },
+  {
+    "Key": "strTermsOfService",
+    "Id": 11070,
+    "StateId": 12
+  },
+  {
+    "Key": "strTOSPrompt",
+    "Id": 11071,
+    "StateId": 12
+  },
+  {
+    "Key": "expansionchar2x",
+    "Id": 11077,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillLowersResistX",
+    "Id": 11079,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillToMeleeX",
+    "Id": 11081,
+    "StateId": 12
+  },
+  {
+    "Key": "PalMercExST1X",
+    "Id": 11088,
+    "StateId": 12
+  },
+  {
+    "Key": "PalMercEXST3X",
+    "Id": 11089,
+    "StateId": 12
+  },
+  {
+    "Key": "PalMercEXST4X",
+    "Id": 11090,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillOver_2",
+    "Id": 11135,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillHandOfAthena_2",
+    "Id": 11136,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillReleases_2",
+    "Id": 11137,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillChanceUninterruptable_2",
+    "Id": 11138,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillRemainsTargetFor_2",
+    "Id": 11139,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillConverts_2",
+    "Id": 11140,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillCurseReduction_2",
+    "Id": 11141,
+    "StateId": 12
+  },
+  {
+    "Key": "strSkillStrafe_2",
+    "Id": 11142,
+    "StateId": 12
+  },
+  {
+    "Key": "strAutoGoldLabel",
+    "Id": 11179,
+    "StateId": 12
+  },
+  {
+    "Key": "Chanceplev",
+    "Id": 11185,
+    "StateId": 12
+  },
+  {
+    "Key": "baseandminstatshovertip",
+    "Id": 11191,
+    "StateId": 12
+  },
+  {
+    "Key": "as1",
+    "Id": 20285,
+    "StateId": 12
+  },
+  {
+    "Key": "as2",
+    "Id": 20286,
+    "StateId": 12
+  },
+  {
+    "Key": "as3",
+    "Id": 20287,
+    "StateId": 12
+  },
+  {
+    "Key": "as4",
+    "Id": 20288,
+    "StateId": 12
+  },
+  {
+    "Key": "as5",
+    "Id": 20289,
+    "StateId": 12
+  },
+  {
+    "Key": "as6",
+    "Id": 20290,
+    "StateId": 12
+  },
+  {
+    "Key": "as7",
+    "Id": 20291,
+    "StateId": 12
+  },
+  {
+    "Key": "r33L",
+    "Id": 20473,
+    "StateId": 12
+  },
+  {
+    "Key": "r32L",
+    "Id": 20474,
+    "StateId": 12
+  },
+  {
+    "Key": "r30L",
+    "Id": 20476,
+    "StateId": 12
+  },
+  {
+    "Key": "r29L",
+    "Id": 20477,
+    "StateId": 12
+  },
+  {
+    "Key": "r28L",
+    "Id": 20478,
+    "StateId": 12
+  },
+  {
+    "Key": "r27L",
+    "Id": 20479,
+    "StateId": 12
+  },
+  {
+    "Key": "r26L",
+    "Id": 20480,
+    "StateId": 12
+  },
+  {
+    "Key": "r25L",
+    "Id": 20481,
+    "StateId": 12
+  },
+  {
+    "Key": "r24L",
+    "Id": 20482,
+    "StateId": 12
+  },
+  {
+    "Key": "r23L",
+    "Id": 20483,
+    "StateId": 12
+  },
+  {
+    "Key": "r22L",
+    "Id": 20484,
+    "StateId": 12
+  },
+  {
+    "Key": "r21L",
+    "Id": 20485,
+    "StateId": 12
+  },
+  {
+    "Key": "r20L",
+    "Id": 20486,
+    "StateId": 12
+  },
+  {
+    "Key": "r19L",
+    "Id": 20487,
+    "StateId": 12
+  },
+  {
+    "Key": "r18L",
+    "Id": 20488,
+    "StateId": 12
+  },
+  {
+    "Key": "r17L",
+    "Id": 20489,
+    "StateId": 12
+  },
+  {
+    "Key": "r15L",
+    "Id": 20491,
+    "StateId": 12
+  },
+  {
+    "Key": "r14L",
+    "Id": 20492,
+    "StateId": 12
+  },
+  {
+    "Key": "r12L",
+    "Id": 20494,
+    "StateId": 12
+  },
+  {
+    "Key": "r11L",
+    "Id": 20495,
+    "StateId": 12
+  },
+  {
+    "Key": "r10L",
+    "Id": 20496,
+    "StateId": 12
+  },
+  {
+    "Key": "r09L",
+    "Id": 20497,
+    "StateId": 12
+  },
+  {
+    "Key": "r08L",
+    "Id": 20498,
+    "StateId": 12
+  },
+  {
+    "Key": "r07L",
+    "Id": 20499,
+    "StateId": 12
+  },
+  {
+    "Key": "r06L",
+    "Id": 20500,
+    "StateId": 12
+  },
+  {
+    "Key": "r05L",
+    "Id": 20501,
+    "StateId": 12
+  },
+  {
+    "Key": "r04L",
+    "Id": 20502,
+    "StateId": 12
+  },
+  {
+    "Key": "r03L",
+    "Id": 20503,
+    "StateId": 12
+  },
+  {
+    "Key": "r02L",
+    "Id": 20504,
+    "StateId": 12
+  },
+  {
+    "Key": "r01L",
+    "Id": 20505,
+    "StateId": 12
+  },
+  {
+    "Key": "Runeword96",
+    "Id": 20601,
+    "StateId": 12
+  },
+  {
+    "Key": "Stout",
+    "Id": 20688,
+    "StateId": 12
+  },
+  {
+    "Key": "Antimagic",
+    "Id": 20689,
+    "StateId": 12
+  },
+  {
+    "Key": "Null",
+    "Id": 20690,
+    "StateId": 12
+  },
+  {
+    "Key": "Godly",
+    "Id": 20691,
+    "StateId": 12
+  },
+  {
+    "Key": "Ivory",
+    "Id": 20692,
+    "StateId": 12
+  },
+  {
+    "Key": "Eburin",
+    "Id": 20693,
+    "StateId": 12
+  },
+  {
+    "Key": "Blanched",
+    "Id": 20694,
+    "StateId": 12
+  },
+  {
+    "Key": "Stalwart",
+    "Id": 20695,
+    "StateId": 12
+  },
+  {
+    "Key": "Burly",
+    "Id": 20696,
+    "StateId": 12
+  },
+  {
+    "Key": "Dense",
+    "Id": 20697,
+    "StateId": 12
+  },
+  {
+    "Key": "Thin",
+    "Id": 20698,
+    "StateId": 12
+  },
+  {
+    "Key": "Compact",
+    "Id": 20699,
+    "StateId": 12
+  },
+  {
+    "Key": "Witch-hunter's",
+    "Id": 20700,
+    "StateId": 12
+  },
+  {
+    "Key": "Magekiller's",
+    "Id": 20701,
+    "StateId": 12
+  },
+  {
+    "Key": "Hierophant's",
+    "Id": 20702,
+    "StateId": 12
+  },
+  {
+    "Key": "Shaman's",
+    "Id": 20703,
+    "StateId": 12
+  },
+  {
+    "Key": "Pestilent",
+    "Id": 20704,
+    "StateId": 12
+  },
+  {
+    "Key": "Toxic",
+    "Id": 20705,
+    "StateId": 12
+  },
+  {
+    "Key": "Corosive",
+    "Id": 20706,
+    "StateId": 12
+  },
+  {
+    "Key": "Envenomed",
+    "Id": 20707,
+    "StateId": 12
+  },
+  {
+    "Key": "Septic",
+    "Id": 20708,
+    "StateId": 12
+  },
+  {
+    "Key": "Shocking",
+    "Id": 20709,
+    "StateId": 12
+  },
+  {
+    "Key": "Arcing",
+    "Id": 20710,
+    "StateId": 12
+  },
+  {
+    "Key": "Buzzing",
+    "Id": 20711,
+    "StateId": 12
+  },
+  {
+    "Key": "Scorching",
+    "Id": 20713,
+    "StateId": 12
+  },
+  {
+    "Key": "Flaming",
+    "Id": 20714,
+    "StateId": 12
+  },
+  {
+    "Key": "Smoking",
+    "Id": 20715,
+    "StateId": 12
+  },
+  {
+    "Key": "Smoldering",
+    "Id": 20716,
+    "StateId": 12
+  },
+  {
+    "Key": "Ember",
+    "Id": 20717,
+    "StateId": 12
+  },
+  {
+    "Key": "Hibernal",
+    "Id": 20718,
+    "StateId": 12
+  },
+  {
+    "Key": "Boreal",
+    "Id": 20719,
+    "StateId": 12
+  },
+  {
+    "Key": "Shivering",
+    "Id": 20720,
+    "StateId": 12
+  },
+  {
+    "Key": "Snowflake",
+    "Id": 20721,
+    "StateId": 12
+  },
+  {
+    "Key": "Mnemonic",
+    "Id": 20722,
+    "StateId": 12
+  },
+  {
+    "Key": "Visionary",
+    "Id": 20723,
+    "StateId": 12
+  },
+  {
+    "Key": "Eagleeye",
+    "Id": 20724,
+    "StateId": 12
+  },
+  {
+    "Key": "Hawkeye",
+    "Id": 20725,
+    "StateId": 12
+  },
+  {
+    "Key": "Falconeye",
+    "Id": 20726,
+    "StateId": 12
+  },
+  {
+    "Key": "Sparroweye",
+    "Id": 20727,
+    "StateId": 12
+  },
+  {
+    "Key": "Robineye",
+    "Id": 20728,
+    "StateId": 12
+  },
+  {
+    "Key": "Paradox",
+    "Id": 20729,
+    "StateId": 12
+  },
+  {
+    "Key": "Shouting",
+    "Id": 20730,
+    "StateId": 12
+  },
+  {
+    "Key": "Yelling",
+    "Id": 20731,
+    "StateId": 12
+  },
+  {
+    "Key": "Calling",
+    "Id": 20732,
+    "StateId": 12
+  },
+  {
+    "Key": "Loud",
+    "Id": 20733,
+    "StateId": 12
+  },
+  {
+    "Key": "Trump",
+    "Id": 20734,
+    "StateId": 12
+  },
+  {
+    "Key": "Joker's",
+    "Id": 20735,
+    "StateId": 12
+  },
+  {
+    "Key": "Jester's",
+    "Id": 20736,
+    "StateId": 12
+  },
+  {
+    "Key": "Jack's",
+    "Id": 20737,
+    "StateId": 12
+  },
+  {
+    "Key": "Knave's",
+    "Id": 20738,
+    "StateId": 12
+  },
+  {
+    "Key": "Paleocene",
+    "Id": 20739,
+    "StateId": 12
+  },
+  {
+    "Key": "Eocene",
+    "Id": 20740,
+    "StateId": 12
+  },
+  {
+    "Key": "Oligocene",
+    "Id": 20741,
+    "StateId": 12
+  },
+  {
+    "Key": "Miocene",
+    "Id": 20742,
+    "StateId": 12
+  },
+  {
+    "Key": "Kenshi's",
+    "Id": 20743,
+    "StateId": 12
+  },
+  {
+    "Key": "Sensei's",
+    "Id": 20744,
+    "StateId": 12
+  },
+  {
+    "Key": "Shogukusha's",
+    "Id": 20745,
+    "StateId": 12
+  },
+  {
+    "Key": "Psychic",
+    "Id": 20746,
+    "StateId": 12
+  },
+  {
+    "Key": "Mentalist's",
+    "Id": 20747,
+    "StateId": 12
+  },
+  {
+    "Key": "Cunning",
+    "Id": 20748,
+    "StateId": 12
+  },
+  {
+    "Key": "Trickster's",
+    "Id": 20749,
+    "StateId": 12
+  },
+  {
+    "Key": "Entrapping",
+    "Id": 20750,
+    "StateId": 12
+  },
+  {
+    "Key": "Gaea's",
+    "Id": 20751,
+    "StateId": 12
+  },
+  {
+    "Key": "Terra's",
+    "Id": 20752,
+    "StateId": 12
+  },
+  {
+    "Key": "Nature's",
+    "Id": 20753,
+    "StateId": 12
+  },
+  {
+    "Key": "Communal",
+    "Id": 20754,
+    "StateId": 12
+  },
+  {
+    "Key": "Feral",
+    "Id": 20755,
+    "StateId": 12
+  },
+  {
+    "Key": "Spiritual",
+    "Id": 20756,
+    "StateId": 12
+  },
+  {
+    "Key": "Keeper's",
+    "Id": 20757,
+    "StateId": 12
+  },
+  {
+    "Key": "Caretaker's",
+    "Id": 20758,
+    "StateId": 12
+  },
+  {
+    "Key": "Trainer's",
+    "Id": 20759,
+    "StateId": 12
+  },
+  {
+    "Key": "Veteran's",
+    "Id": 20760,
+    "StateId": 12
+  },
+  {
+    "Key": "Expert's",
+    "Id": 20761,
+    "StateId": 12
+  },
+  {
+    "Key": "Furious",
+    "Id": 20762,
+    "StateId": 12
+  },
+  {
+    "Key": "Raging",
+    "Id": 20763,
+    "StateId": 12
+  },
+  {
+    "Key": "Echoing",
+    "Id": 20764,
+    "StateId": 12
+  },
+  {
+    "Key": "Resonant",
+    "Id": 20765,
+    "StateId": 12
+  },
+  {
+    "Key": "Sounding",
+    "Id": 20766,
+    "StateId": 12
+  },
+  {
+    "Key": "Guardian's",
+    "Id": 20767,
+    "StateId": 12
+  },
+  {
+    "Key": "Warder's",
+    "Id": 20768,
+    "StateId": 12
+  },
+  {
+    "Key": "Preserver's",
+    "Id": 20769,
+    "StateId": 12
+  },
+  {
+    "Key": "Marshal's",
+    "Id": 20770,
+    "StateId": 12
+  },
+  {
+    "Key": "Commander's",
+    "Id": 20771,
+    "StateId": 12
+  },
+  {
+    "Key": "Captain's",
+    "Id": 20772,
+    "StateId": 12
+  },
+  {
+    "Key": "Rose Branded",
+    "Id": 20773,
+    "StateId": 12
+  },
+  {
+    "Key": "Hawk Branded",
+    "Id": 20774,
+    "StateId": 12
+  },
+  {
+    "Key": "Lion Branded",
+    "Id": 20775,
+    "StateId": 12
+  },
+  {
+    "Key": "Golemlord's",
+    "Id": 20776,
+    "StateId": 12
+  },
+  {
+    "Key": "Vodoun",
+    "Id": 20777,
+    "StateId": 12
+  },
+  {
+    "Key": "Graverobber's",
+    "Id": 20778,
+    "StateId": 12
+  },
+  {
+    "Key": "Venomous",
+    "Id": 20779,
+    "StateId": 12
+  },
+  {
+    "Key": "Noxious",
+    "Id": 20780,
+    "StateId": 12
+  },
+  {
+    "Key": "Fungal",
+    "Id": 20781,
+    "StateId": 12
+  },
+  {
+    "Key": "Accursed",
+    "Id": 20782,
+    "StateId": 12
+  },
+  {
+    "Key": "Blighting",
+    "Id": 20783,
+    "StateId": 12
+  },
+  {
+    "Key": "Hexing",
+    "Id": 20784,
+    "StateId": 12
+  },
+  {
+    "Key": "Glacial",
+    "Id": 20785,
+    "StateId": 12
+  },
+  {
+    "Key": "Freezing",
+    "Id": 20786,
+    "StateId": 12
+  },
+  {
+    "Key": "Chilling",
+    "Id": 20787,
+    "StateId": 12
+  },
+  {
+    "Key": "Powered",
+    "Id": 20788,
+    "StateId": 12
+  },
+  {
+    "Key": "Charged",
+    "Id": 20789,
+    "StateId": 12
+  },
+  {
+    "Key": "Sparking",
+    "Id": 20790,
+    "StateId": 12
+  },
+  {
+    "Key": "Volcanic",
+    "Id": 20791,
+    "StateId": 12
+  },
+  {
+    "Key": "Blazing",
+    "Id": 20792,
+    "StateId": 12
+  },
+  {
+    "Key": "Burning",
+    "Id": 20793,
+    "StateId": 12
+  },
+  {
+    "Key": "Lancer's",
+    "Id": 20794,
+    "StateId": 12
+  },
+  {
+    "Key": "Spearmaiden's",
+    "Id": 20795,
+    "StateId": 12
+  },
+  {
+    "Key": "Harpoonist's",
+    "Id": 20796,
+    "StateId": 12
+  },
+  {
+    "Key": "Athlete's",
+    "Id": 20797,
+    "StateId": 12
+  },
+  {
+    "Key": "Gymnast's",
+    "Id": 20798,
+    "StateId": 12
+  },
+  {
+    "Key": "Acrobat's",
+    "Id": 20799,
+    "StateId": 12
+  },
+  {
+    "Key": "Bowyer's",
+    "Id": 20800,
+    "StateId": 12
+  },
+  {
+    "Key": "Celestial",
+    "Id": 20802,
+    "StateId": 12
+  },
+  {
+    "Key": "Elysian",
+    "Id": 20803,
+    "StateId": 12
+  },
+  {
+    "Key": "Astral",
+    "Id": 20804,
+    "StateId": 12
+  },
+  {
+    "Key": "Unearthly",
+    "Id": 20805,
+    "StateId": 12
+  },
+  {
+    "Key": "Arcadian",
+    "Id": 20806,
+    "StateId": 12
+  },
+  {
+    "Key": "Jeweler's",
+    "Id": 20807,
+    "StateId": 12
+  },
+  {
+    "Key": "Artificer's",
+    "Id": 20808,
+    "StateId": 12
+  },
+  {
+    "Key": "Mechanist's",
+    "Id": 20809,
+    "StateId": 12
+  },
+  {
+    "Key": "Aureolin",
+    "Id": 20810,
+    "StateId": 12
+  },
+  {
+    "Key": "Victorious",
+    "Id": 20811,
+    "StateId": 12
+  },
+  {
+    "Key": "Ambergris",
+    "Id": 20812,
+    "StateId": 12
+  },
+  {
+    "Key": "Camphor",
+    "Id": 20813,
+    "StateId": 12
+  },
+  {
+    "Key": "Lapis Lazuli",
+    "Id": 20814,
+    "StateId": 12
+  },
+  {
+    "Key": "Chromatic",
+    "Id": 20815,
+    "StateId": 12
+  },
+  {
+    "Key": "Scintillating",
+    "Id": 20816,
+    "StateId": 12
+  },
+  {
+    "Key": "Turquoise",
+    "Id": 20817,
+    "StateId": 12
+  },
+  {
+    "Key": "Jacinth",
+    "Id": 20818,
+    "StateId": 12
+  },
+  {
+    "Key": "Zircon",
+    "Id": 20819,
+    "StateId": 12
+  },
+  {
+    "Key": "Bahamut's",
+    "Id": 20820,
+    "StateId": 12
+  },
+  {
+    "Key": "Great Wyrm's",
+    "Id": 20821,
+    "StateId": 12
+  },
+  {
+    "Key": "Felicitous",
+    "Id": 20822,
+    "StateId": 12
+  },
+  {
+    "Key": "Lucky",
+    "Id": 20823,
+    "StateId": 12
+  },
+  {
+    "Key": "Wailing",
+    "Id": 20824,
+    "StateId": 12
+  },
+  {
+    "Key": "Screaming",
+    "Id": 20825,
+    "StateId": 12
+  },
+  {
+    "Key": "Grandmaster's",
+    "Id": 20826,
+    "StateId": 12
+  },
+  {
+    "Key": "Master's",
+    "Id": 20827,
+    "StateId": 12
+  },
+  {
+    "Key": "Argent",
+    "Id": 20828,
+    "StateId": 12
+  },
+  {
+    "Key": "Tin",
+    "Id": 20829,
+    "StateId": 12
+  },
+  {
+    "Key": "Nickel",
+    "Id": 20830,
+    "StateId": 12
+  },
+  {
+    "Key": "Maroon",
+    "Id": 20831,
+    "StateId": 12
+  },
+  {
+    "Key": "Chestnut",
+    "Id": 20832,
+    "StateId": 12
+  },
+  {
+    "Key": "Vigorous",
+    "Id": 20833,
+    "StateId": 12
+  },
+  {
+    "Key": "Dun",
+    "Id": 20835,
+    "StateId": 12
+  },
+  {
+    "Key": "Realgar",
+    "Id": 20836,
+    "StateId": 12
+  },
+  {
+    "Key": "Rusty",
+    "Id": 20837,
+    "StateId": 12
+  },
+  {
+    "Key": "Cinnabar",
+    "Id": 20838,
+    "StateId": 12
+  },
+  {
+    "Key": "Vermillion",
+    "Id": 20839,
+    "StateId": 12
+  },
+  {
+    "Key": "Carmine",
+    "Id": 20840,
+    "StateId": 12
+  },
+  {
+    "Key": "Carbuncle",
+    "Id": 20841,
+    "StateId": 12
+  },
+  {
+    "Key": "Serrated",
+    "Id": 20842,
+    "StateId": 12
+  },
+  {
+    "Key": "Scarlet",
+    "Id": 20843,
+    "StateId": 12
+  },
+  {
+    "Key": "Bloody",
+    "Id": 20844,
+    "StateId": 12
+  },
+  {
+    "Key": "Sanguinary",
+    "Id": 20845,
+    "StateId": 12
+  },
+  {
+    "Key": "Pearl",
+    "Id": 20846,
+    "StateId": 12
+  },
+  {
+    "Key": "Divine",
+    "Id": 20847,
+    "StateId": 12
+  },
+  {
+    "Key": "Hallowed",
+    "Id": 20848,
+    "StateId": 12
+  },
+  {
+    "Key": "Sacred",
+    "Id": 20849,
+    "StateId": 12
+  },
+  {
+    "Key": "Pure",
+    "Id": 20850,
+    "StateId": 12
+  },
+  {
+    "Key": "Consecrated",
+    "Id": 20851,
+    "StateId": 12
+  },
+  {
+    "Key": "Assamic",
+    "Id": 20852,
+    "StateId": 12
+  },
+  {
+    "Key": "Frantic",
+    "Id": 20853,
+    "StateId": 12
+  },
+  {
+    "Key": "Hellatial",
+    "Id": 20854,
+    "StateId": 12
+  },
+  {
+    "Key": "Quixotic",
+    "Id": 20855,
+    "StateId": 12
+  },
+  {
+    "Key": "Smiting",
+    "Id": 20856,
+    "StateId": 12
+  },
+  {
+    "Key": "Steller",
+    "Id": 20857,
+    "StateId": 12
+  },
+  {
+    "Key": "Stinging",
+    "Id": 20858,
+    "StateId": 12
+  },
+  {
+    "Key": "Singing",
+    "Id": 20859,
+    "StateId": 12
+  },
+  {
+    "Key": "Timeless",
+    "Id": 20860,
+    "StateId": 12
+  },
+  {
+    "Key": "Corporal",
+    "Id": 20862,
+    "StateId": 12
+  },
+  {
+    "Key": "Lawful",
+    "Id": 20863,
+    "StateId": 12
+  },
+  {
+    "Key": "Chaotic",
+    "Id": 20864,
+    "StateId": 12
+  },
+  {
+    "Key": "Fierce",
+    "Id": 20865,
+    "StateId": 12
+  },
+  {
+    "Key": "Ferocious",
+    "Id": 20866,
+    "StateId": 12
+  },
+  {
+    "Key": "Perpetual",
+    "Id": 20867,
+    "StateId": 12
+  },
+  {
+    "Key": "Continuous",
+    "Id": 20868,
+    "StateId": 12
+  },
+  {
+    "Key": "Laden",
+    "Id": 20869,
+    "StateId": 12
+  },
+  {
+    "Key": "Pernicious",
+    "Id": 20870,
+    "StateId": 12
+  },
+  {
+    "Key": "Harmful",
+    "Id": 20871,
+    "StateId": 12
+  },
+  {
+    "Key": "Evil",
+    "Id": 20872,
+    "StateId": 12
+  },
+  {
+    "Key": "Insidious",
+    "Id": 20873,
+    "StateId": 12
+  },
+  {
+    "Key": "Malicious",
+    "Id": 20874,
+    "StateId": 12
+  },
+  {
+    "Key": "Spiteful",
+    "Id": 20875,
+    "StateId": 12
+  },
+  {
+    "Key": "Precocious",
+    "Id": 20876,
+    "StateId": 12
+  },
+  {
+    "Key": "Majestic",
+    "Id": 20877,
+    "StateId": 12
+  },
+  {
+    "Key": "Sanguine",
+    "Id": 20878,
+    "StateId": 12
+  },
+  {
+    "Key": "Monumental",
+    "Id": 20879,
+    "StateId": 12
+  },
+  {
+    "Key": "Irresistible",
+    "Id": 20880,
+    "StateId": 12
+  },
+  {
+    "Key": "Festering",
+    "Id": 20881,
+    "StateId": 12
+  },
+  {
+    "Key": "Musty",
+    "Id": 20882,
+    "StateId": 12
+  },
+  {
+    "Key": "Dusty",
+    "Id": 20883,
+    "StateId": 12
+  },
+  {
+    "Key": "Decaying",
+    "Id": 20884,
+    "StateId": 12
+  },
+  {
+    "Key": "Rotting",
+    "Id": 20885,
+    "StateId": 12
+  },
+  {
+    "Key": "Infectious",
+    "Id": 20886,
+    "StateId": 12
+  },
+  {
+    "Key": "Foggy",
+    "Id": 20887,
+    "StateId": 12
+  },
+  {
+    "Key": "Cloudy",
+    "Id": 20888,
+    "StateId": 12
+  },
+  {
+    "Key": "Hazy",
+    "Id": 20889,
+    "StateId": 12
+  },
+  {
+    "Key": "Punishing",
+    "Id": 20890,
+    "StateId": 12
+  },
+  {
+    "Key": "Obsidian",
+    "Id": 20891,
+    "StateId": 12
+  },
+  {
+    "Key": "Royal",
+    "Id": 20892,
+    "StateId": 12
+  },
+  {
+    "Key": "Frigid",
+    "Id": 20893,
+    "StateId": 12
+  },
+  {
+    "Key": "Moldy",
+    "Id": 20894,
+    "StateId": 12
+  },
+  {
+    "Key": "Gaudy",
+    "Id": 20895,
+    "StateId": 12
+  },
+  {
+    "Key": "Impecable",
+    "Id": 20896,
+    "StateId": 12
+  },
+  {
+    "Key": "Soulless",
+    "Id": 20897,
+    "StateId": 12
+  },
+  {
+    "Key": "Heated",
+    "Id": 20898,
+    "StateId": 12
+  },
+  {
+    "Key": "Lasting",
+    "Id": 20899,
+    "StateId": 12
+  },
+  {
+    "Key": "Scorched",
+    "Id": 20900,
+    "StateId": 12
+  },
+  {
+    "Key": "Marred",
+    "Id": 20901,
+    "StateId": 12
+  },
+  {
+    "Key": "Lilac",
+    "Id": 20902,
+    "StateId": 12
+  },
+  {
+    "Key": "Rose",
+    "Id": 20903,
+    "StateId": 12
+  },
+  {
+    "Key": "Shimmering",
+    "Id": 20904,
+    "StateId": 12
+  },
+  {
+    "Key": "Wicked",
+    "Id": 20906,
+    "StateId": 12
+  },
+  {
+    "Key": "Strange",
+    "Id": 20907,
+    "StateId": 12
+  },
+  {
+    "Key": "Repulsive",
+    "Id": 20908,
+    "StateId": 12
+  },
+  {
+    "Key": "Reclusive",
+    "Id": 20909,
+    "StateId": 12
+  },
+  {
+    "Key": "Rude",
+    "Id": 20911,
+    "StateId": 12
+  },
+  {
+    "Key": "Hermetic",
+    "Id": 20912,
+    "StateId": 12
+  },
+  {
+    "Key": "Rainbow",
+    "Id": 20913,
+    "StateId": 12
+  },
+  {
+    "Key": "Colorful",
+    "Id": 20914,
+    "StateId": 12
+  },
+  {
+    "Key": "Stinky",
+    "Id": 20915,
+    "StateId": 12
+  },
+  {
+    "Key": "Gritty",
+    "Id": 20916,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Kraken1",
+    "Id": 20966,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Colossus1",
+    "Id": 20984,
+    "StateId": 12
+  },
+  {
+    "Key": "of Joy",
+    "Id": 20999,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Choir",
+    "Id": 21020,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Sniper",
+    "Id": 21021,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Stiletto",
+    "Id": 21022,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Bile",
+    "Id": 21023,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Blitzen",
+    "Id": 21024,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Cremation",
+    "Id": 21025,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Darkness",
+    "Id": 21026,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Disease",
+    "Id": 21027,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Remorse",
+    "Id": 21028,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Terror",
+    "Id": 21029,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Sky",
+    "Id": 21030,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Valhalla",
+    "Id": 21031,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Waste",
+    "Id": 21032,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Nobility",
+    "Id": 21033,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Karma",
+    "Id": 21034,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Grounding",
+    "Id": 21035,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the River",
+    "Id": 21036,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Lake",
+    "Id": 21037,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Ocean",
+    "Id": 21038,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Bayou",
+    "Id": 21039,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Stream",
+    "Id": 21040,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Lady",
+    "Id": 21041,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Maiden",
+    "Id": 21042,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Virgin",
+    "Id": 21043,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Hag",
+    "Id": 21044,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Witch",
+    "Id": 21045,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Judgement",
+    "Id": 21046,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Illusion",
+    "Id": 21047,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Elusion",
+    "Id": 21048,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Combat",
+    "Id": 21049,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Attrition",
+    "Id": 21050,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Abrasion",
+    "Id": 21051,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Erosion",
+    "Id": 21052,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Searing",
+    "Id": 21053,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Stone",
+    "Id": 21054,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Stature",
+    "Id": 21055,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Fortication",
+    "Id": 21056,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Quickening",
+    "Id": 21057,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Dispatch",
+    "Id": 21058,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Daring",
+    "Id": 21059,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Dread",
+    "Id": 21060,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Suffering",
+    "Id": 21061,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Doom",
+    "Id": 21062,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Vengence",
+    "Id": 21063,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Redemption",
+    "Id": 21064,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Luck",
+    "Id": 21065,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Avenger",
+    "Id": 21066,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Specter",
+    "Id": 21067,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Ghost",
+    "Id": 21068,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Infantry",
+    "Id": 21069,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Mosquito",
+    "Id": 21070,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Gnat",
+    "Id": 21071,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Fly",
+    "Id": 21072,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Plague",
+    "Id": 21073,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Twilight",
+    "Id": 21074,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Dusk",
+    "Id": 21075,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Dawn",
+    "Id": 21076,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Imbecile",
+    "Id": 21077,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Idiot",
+    "Id": 21078,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Retard",
+    "Id": 21079,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Jujube",
+    "Id": 21080,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Obscenity",
+    "Id": 21081,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Quota",
+    "Id": 21082,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Maggot",
+    "Id": 21083,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Horror",
+    "Id": 21084,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Baddass",
+    "Id": 21085,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Beast",
+    "Id": 21086,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Cruelty",
+    "Id": 21087,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Badness",
+    "Id": 21088,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Horde",
+    "Id": 21089,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Forest",
+    "Id": 21090,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Lilly",
+    "Id": 21091,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Grassy Gnoll",
+    "Id": 21092,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Stars",
+    "Id": 21093,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Moon",
+    "Id": 21094,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Love",
+    "Id": 21095,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Unicorn",
+    "Id": 21096,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Walrus",
+    "Id": 21097,
+    "StateId": 12
+  },
+  {
+    "Key": "Of the Earth",
+    "Id": 21098,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Vines",
+    "Id": 21099,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Honor",
+    "Id": 21100,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Tribute",
+    "Id": 21101,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Credit",
+    "Id": 21102,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Admiration",
+    "Id": 21103,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Sweetness",
+    "Id": 21104,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Beauty",
+    "Id": 21105,
+    "StateId": 12
+  },
+  {
+    "Key": "Of Pilfering",
+    "Id": 21106,
+    "StateId": 12
+  },
+  {
+    "Key": "of Holy Shield",
+    "Id": 21130,
+    "StateId": 12
+  },
+  {
+    "Key": "of Charging",
+    "Id": 21134,
+    "StateId": 12
+  },
+  {
+    "Key": "of Lightning Spear",
+    "Id": 21181,
+    "StateId": 12
+  },
+  {
+    "Key": "of Plague Javelin",
+    "Id": 21185,
+    "StateId": 12
+  },
+  {
+    "Key": "of Charged Spear",
+    "Id": 21186,
+    "StateId": 12
+  },
+  {
+    "Key": "of Impaling Spear",
+    "Id": 21190,
+    "StateId": 12
+  },
+  {
+    "Key": "of Poison Javelin",
+    "Id": 21193,
+    "StateId": 12
+  },
+  {
+    "Key": "of Power Spear",
+    "Id": 21194,
+    "StateId": 12
+  },
+  {
+    "Key": "Of self-repair",
+    "Id": 21201,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8c",
+    "Id": 21207,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8d",
+    "Id": 21208,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8e",
+    "Id": 21209,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8f",
+    "Id": 21210,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8g",
+    "Id": 21211,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8h",
+    "Id": 21212,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8i",
+    "Id": 21213,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8j",
+    "Id": 21214,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8k",
+    "Id": 21215,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8l",
+    "Id": 21216,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8m",
+    "Id": 21217,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8n",
+    "Id": 21218,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8o",
+    "Id": 21219,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8p",
+    "Id": 21220,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8q",
+    "Id": 21221,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8r",
+    "Id": 21222,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8s",
+    "Id": 21223,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8t",
+    "Id": 21224,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8u",
+    "Id": 21225,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8v",
+    "Id": 21226,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8w",
+    "Id": 21227,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8x",
+    "Id": 21228,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8y",
+    "Id": 21229,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre8z",
+    "Id": 21230,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9a",
+    "Id": 21231,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9b",
+    "Id": 21232,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9c",
+    "Id": 21233,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9h",
+    "Id": 21238,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9w",
+    "Id": 21244,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9x",
+    "Id": 21245,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9y",
+    "Id": 21246,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre9z",
+    "Id": 21247,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10b",
+    "Id": 21249,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10c",
+    "Id": 21250,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10g",
+    "Id": 21254,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10h",
+    "Id": 21255,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10i",
+    "Id": 21256,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10j",
+    "Id": 21257,
+    "StateId": 12
+  },
+  {
+    "Key": "WeaponDescOrb",
+    "Id": 21259,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemexpED",
+    "Id": 21260,
+    "StateId": 12
+  },
+  {
+    "Key": "StrGemX1",
+    "Id": 21261,
+    "StateId": 12
+  },
+  {
+    "Key": "StrGemX2",
+    "Id": 21262,
+    "StateId": 12
+  },
+  {
+    "Key": "StrGemX3",
+    "Id": 21263,
+    "StateId": 12
+  },
+  {
+    "Key": "StrGemX4",
+    "Id": 21264,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX11",
+    "Id": 21265,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX12",
+    "Id": 21266,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX13",
+    "Id": 21267,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX21",
+    "Id": 21268,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX22",
+    "Id": 21269,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX23",
+    "Id": 21270,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX31",
+    "Id": 21271,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX32",
+    "Id": 21272,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX33",
+    "Id": 21273,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX41",
+    "Id": 21274,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX42",
+    "Id": 21275,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX43",
+    "Id": 21276,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX51",
+    "Id": 21277,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX52",
+    "Id": 21278,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX53",
+    "Id": 21279,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX61",
+    "Id": 21280,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX62",
+    "Id": 21281,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX63",
+    "Id": 21282,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX71",
+    "Id": 21283,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX72",
+    "Id": 21284,
+    "StateId": 12
+  },
+  {
+    "Key": "GemeffectX73",
+    "Id": 21285,
+    "StateId": 12
+  },
+  {
+    "Key": "Butchers Cleaver",
+    "Id": 21287,
+    "StateId": 12
+  },
+  {
+    "Key": "The Minotaur",
+    "Id": 21296,
+    "StateId": 12
+  },
+  {
+    "Key": "Cairn Shard",
+    "Id": 21298,
+    "StateId": 12
+  },
+  {
+    "Key": "Drulan's Tongue",
+    "Id": 21302,
+    "StateId": 12
+  },
+  {
+    "Key": "Zakrum's Hand",
+    "Id": 21303,
+    "StateId": 12
+  },
+  {
+    "Key": "Baezils Vortex",
+    "Id": 21309,
+    "StateId": 12
+  },
+  {
+    "Key": "Coldsteal Eye",
+    "Id": 21314,
+    "StateId": 12
+  },
+  {
+    "Key": "Riftslash",
+    "Id": 21317,
+    "StateId": 12
+  },
+  {
+    "Key": "The Atlantien",
+    "Id": 21320,
+    "StateId": 12
+  },
+  {
+    "Key": "Endlessshail",
+    "Id": 21348,
+    "StateId": 12
+  },
+  {
+    "Key": "Guardian Angle",
+    "Id": 21360,
+    "StateId": 12
+  },
+  {
+    "Key": "Blackhorn",
+    "Id": 21363,
+    "StateId": 12
+  },
+  {
+    "Key": "Meatscrape",
+    "Id": 21371,
+    "StateId": 12
+  },
+  {
+    "Key": "Pitblood Thirst",
+    "Id": 21373,
+    "StateId": 12
+  },
+  {
+    "Key": "Gaya Wand",
+    "Id": 21374,
+    "StateId": 12
+  },
+  {
+    "Key": "Geronimo's Fury",
+    "Id": 21376,
+    "StateId": 12
+  },
+  {
+    "Key": "Charsi's Favor",
+    "Id": 21377,
+    "StateId": 12
+  },
+  {
+    "Key": "Doppleganger's Shadow",
+    "Id": 21378,
+    "StateId": 12
+  },
+  {
+    "Key": "Stonerattle",
+    "Id": 21383,
+    "StateId": 12
+  },
+  {
+    "Key": "Marrowgrinder",
+    "Id": 21384,
+    "StateId": 12
+  },
+  {
+    "Key": "Bush Wacker",
+    "Id": 21386,
+    "StateId": 12
+  },
+  {
+    "Key": "Death's Web",
+    "Id": 21390,
+    "StateId": 12
+  },
+  {
+    "Key": "Gaia's Wrath",
+    "Id": 21391,
+    "StateId": 12
+  },
+  {
+    "Key": "Khalim's Vengance",
+    "Id": 21392,
+    "StateId": 12
+  },
+  {
+    "Key": "Angel's Song",
+    "Id": 21393,
+    "StateId": 12
+  },
+  {
+    "Key": "Fleshbone",
+    "Id": 21395,
+    "StateId": 12
+  },
+  {
+    "Key": "Blood Comet",
+    "Id": 21397,
+    "StateId": 12
+  },
+  {
+    "Key": "Bul-Kathos' Might",
+    "Id": 21401,
+    "StateId": 12
+  },
+  {
+    "Key": "Indiego's Fancy",
+    "Id": 21404,
+    "StateId": 12
+  },
+  {
+    "Key": "Aladdin's Eviserator",
+    "Id": 21405,
+    "StateId": 12
+  },
+  {
+    "Key": "Tyrael's Mercy",
+    "Id": 21406,
+    "StateId": 12
+  },
+  {
+    "Key": "Wallace's Tear",
+    "Id": 21411,
+    "StateId": 12
+  },
+  {
+    "Key": "The Wanderer's Blade",
+    "Id": 21413,
+    "StateId": 12
+  },
+  {
+    "Key": "Qual'Kek's Enforcer",
+    "Id": 21414,
+    "StateId": 12
+  },
+  {
+    "Key": "Dawnbringer",
+    "Id": 21415,
+    "StateId": 12
+  },
+  {
+    "Key": "Dragontooth",
+    "Id": 21416,
+    "StateId": 12
+  },
+  {
+    "Key": "Blood Chalice",
+    "Id": 21422,
+    "StateId": 12
+  },
+  {
+    "Key": "El Espiritu",
+    "Id": 21423,
+    "StateId": 12
+  },
+  {
+    "Key": "The Long Rod",
+    "Id": 21424,
+    "StateId": 12
+  },
+  {
+    "Key": "The Ensanguinator",
+    "Id": 21426,
+    "StateId": 12
+  },
+  {
+    "Key": "Rockhew",
+    "Id": 21432,
+    "StateId": 12
+  },
+  {
+    "Key": "Sankenkur's Resurrection",
+    "Id": 21433,
+    "StateId": 12
+  },
+  {
+    "Key": "Erion's Bonehandle",
+    "Id": 21434,
+    "StateId": 12
+  },
+  {
+    "Key": "The Archon Magus",
+    "Id": 21435,
+    "StateId": 12
+  },
+  {
+    "Key": "Widow maker",
+    "Id": 21436,
+    "StateId": 12
+  },
+  {
+    "Key": "Catgut",
+    "Id": 21437,
+    "StateId": 12
+  },
+  {
+    "Key": "Bling Bling",
+    "Id": 21440,
+    "StateId": 12
+  },
+  {
+    "Key": "Nebucaneezer's Storm",
+    "Id": 21441,
+    "StateId": 12
+  },
+  {
+    "Key": "Eaglewind",
+    "Id": 21443,
+    "StateId": 12
+  },
+  {
+    "Key": "Iansang's Frenzy",
+    "Id": 21452,
+    "StateId": 12
+  },
+  {
+    "Key": "Warhound",
+    "Id": 21453,
+    "StateId": 12
+  },
+  {
+    "Key": "Gulletwound",
+    "Id": 21454,
+    "StateId": 12
+  },
+  {
+    "Key": "Mordoc's marauder",
+    "Id": 21456,
+    "StateId": 12
+  },
+  {
+    "Key": "Talberd's Law",
+    "Id": 21457,
+    "StateId": 12
+  },
+  {
+    "Key": "Amodeus's Manipulator",
+    "Id": 21458,
+    "StateId": 12
+  },
+  {
+    "Key": "Darksoul",
+    "Id": 21459,
+    "StateId": 12
+  },
+  {
+    "Key": "The Black Adder",
+    "Id": 21460,
+    "StateId": 12
+  },
+  {
+    "Key": "Horazon's Chalice",
+    "Id": 21463,
+    "StateId": 12
+  },
+  {
+    "Key": "Stonerage",
+    "Id": 21467,
+    "StateId": 12
+  },
+  {
+    "Key": "Blood Rain",
+    "Id": 21468,
+    "StateId": 12
+  },
+  {
+    "Key": "Wrath of Cain",
+    "Id": 21471,
+    "StateId": 12
+  },
+  {
+    "Key": "Siren's call",
+    "Id": 21472,
+    "StateId": 12
+  },
+  {
+    "Key": "Wraithfang",
+    "Id": 21474,
+    "StateId": 12
+  },
+  {
+    "Key": "Blademaster",
+    "Id": 21475,
+    "StateId": 12
+  },
+  {
+    "Key": "Archangel's Deliverance",
+    "Id": 21477,
+    "StateId": 12
+  },
+  {
+    "Key": "Sinblade",
+    "Id": 21478,
+    "StateId": 12
+  },
+  {
+    "Key": "Runeslayer",
+    "Id": 21479,
+    "StateId": 12
+  },
+  {
+    "Key": "Excalibur",
+    "Id": 21480,
+    "StateId": 12
+  },
+  {
+    "Key": "Fuego Del Sol",
+    "Id": 21481,
+    "StateId": 12
+  },
+  {
+    "Key": "El Infierno",
+    "Id": 21483,
+    "StateId": 12
+  },
+  {
+    "Key": "Moonrend",
+    "Id": 21484,
+    "StateId": 12
+  },
+  {
+    "Key": "Nightsummon",
+    "Id": 21486,
+    "StateId": 12
+  },
+  {
+    "Key": "Bonescapel",
+    "Id": 21487,
+    "StateId": 12
+  },
+  {
+    "Key": "Rabbit Slayer",
+    "Id": 21488,
+    "StateId": 12
+  },
+  {
+    "Key": "Pagan's Athame",
+    "Id": 21489,
+    "StateId": 12
+  },
+  {
+    "Key": "The Swashbuckler",
+    "Id": 21490,
+    "StateId": 12
+  },
+  {
+    "Key": "Kang's Virtue",
+    "Id": 21491,
+    "StateId": 12
+  },
+  {
+    "Key": "Snaketongue",
+    "Id": 21492,
+    "StateId": 12
+  },
+  {
+    "Key": "Lifechoke",
+    "Id": 21493,
+    "StateId": 12
+  },
+  {
+    "Key": "Ethereal edge",
+    "Id": 21494,
+    "StateId": 12
+  },
+  {
+    "Key": "Palo Grande",
+    "Id": 21495,
+    "StateId": 12
+  },
+  {
+    "Key": "Carnageleaver",
+    "Id": 21496,
+    "StateId": 12
+  },
+  {
+    "Key": "Ghostleach",
+    "Id": 21497,
+    "StateId": 12
+  },
+  {
+    "Key": "Soulreaper",
+    "Id": 21498,
+    "StateId": 12
+  },
+  {
+    "Key": "Samual's Caretaker",
+    "Id": 21499,
+    "StateId": 12
+  },
+  {
+    "Key": "Hell's Whisper",
+    "Id": 21500,
+    "StateId": 12
+  },
+  {
+    "Key": "The Harvester",
+    "Id": 21501,
+    "StateId": 12
+  },
+  {
+    "Key": "Raiden's Crutch",
+    "Id": 21502,
+    "StateId": 12
+  },
+  {
+    "Key": "The TreeEnt",
+    "Id": 21503,
+    "StateId": 12
+  },
+  {
+    "Key": "Stormwillow",
+    "Id": 21504,
+    "StateId": 12
+  },
+  {
+    "Key": "Moonshadow",
+    "Id": 21505,
+    "StateId": 12
+  },
+  {
+    "Key": "Strongoak",
+    "Id": 21506,
+    "StateId": 12
+  },
+  {
+    "Key": "Demonweb",
+    "Id": 21507,
+    "StateId": 12
+  },
+  {
+    "Key": "Shadefalcon",
+    "Id": 21509,
+    "StateId": 12
+  },
+  {
+    "Key": "Robin's Yolk",
+    "Id": 21510,
+    "StateId": 12
+  },
+  {
+    "Key": "Glimmershred",
+    "Id": 21511,
+    "StateId": 12
+  },
+  {
+    "Key": "Lestron's Mark",
+    "Id": 21513,
+    "StateId": 12
+  },
+  {
+    "Key": "Banshee's Wail",
+    "Id": 21514,
+    "StateId": 12
+  },
+  {
+    "Key": "Windstrike",
+    "Id": 21515,
+    "StateId": 12
+  },
+  {
+    "Key": "Titanfist",
+    "Id": 21517,
+    "StateId": 12
+  },
+  {
+    "Key": "Hadeshorn",
+    "Id": 21518,
+    "StateId": 12
+  },
+  {
+    "Key": "Skin of the Flayed One",
+    "Id": 21525,
+    "StateId": 12
+  },
+  {
+    "Key": "Que-hegan's Wisdom",
+    "Id": 21535,
+    "StateId": 12
+  },
+  {
+    "Key": "Moser's Blessed Circle",
+    "Id": 21536,
+    "StateId": 12
+  },
+  {
+    "Key": "Gerke's Sanctuary",
+    "Id": 21539,
+    "StateId": 12
+  },
+  {
+    "Key": "Lanceguard",
+    "Id": 21553,
+    "StateId": 12
+  },
+  {
+    "Key": "Squire's Cover",
+    "Id": 21554,
+    "StateId": 12
+  },
+  {
+    "Key": "Hightower's Watch",
+    "Id": 21558,
+    "StateId": 12
+  },
+  {
+    "Key": "Ashrera's Wired Frame",
+    "Id": 21564,
+    "StateId": 12
+  },
+  {
+    "Key": "Hellwarden's Husk",
+    "Id": 21569,
+    "StateId": 12
+  },
+  {
+    "Key": "Orumus' Robes",
+    "Id": 21575,
+    "StateId": 12
+  },
+  {
+    "Key": "The Vicar",
+    "Id": 21577,
+    "StateId": 12
+  },
+  {
+    "Key": "Parkersor's Calm",
+    "Id": 21580,
+    "StateId": 12
+  },
+  {
+    "Key": "Metalgird",
+    "Id": 21594,
+    "StateId": 12
+  },
+  {
+    "Key": "Gillian's Brazier",
+    "Id": 21600,
+    "StateId": 12
+  },
+  {
+    "Key": "Drakeflame",
+    "Id": 21601,
+    "StateId": 12
+  },
+  {
+    "Key": "Dust Storm",
+    "Id": 21602,
+    "StateId": 12
+  },
+  {
+    "Key": "Skulltred",
+    "Id": 21603,
+    "StateId": 12
+  },
+  {
+    "Key": "Alma's Reflection",
+    "Id": 21604,
+    "StateId": 12
+  },
+  {
+    "Key": "Drulan's Tounge",
+    "Id": 21605,
+    "StateId": 12
+  },
+  {
+    "Key": "Sacred Charge",
+    "Id": 21606,
+    "StateId": 12
+  },
+  {
+    "Key": "Bul-Kathos",
+    "Id": 21607,
+    "StateId": 12
+  },
+  {
+    "Key": "Riftlash",
+    "Id": 21655,
+    "StateId": 12
+  },
+  {
+    "Key": "Trang-Oul's Mask",
+    "Id": 21663,
+    "StateId": 12
+  },
+  {
+    "Key": "Tang's Imperial Robes",
+    "Id": 21677,
+    "StateId": 12
+  },
+  {
+    "Key": "Tang's Fore-Fathers",
+    "Id": 21678,
+    "StateId": 12
+  },
+  {
+    "Key": "Tang's Rule",
+    "Id": 21679,
+    "StateId": 12
+  },
+  {
+    "Key": "Tang's Throne",
+    "Id": 21680,
+    "StateId": 12
+  },
+  {
+    "Key": "Tang's Battle Standard",
+    "Id": 21681,
+    "StateId": 12
+  },
+  {
+    "Key": "Ogun's Fierce Visage",
+    "Id": 21682,
+    "StateId": 12
+  },
+  {
+    "Key": "Ogun's Shadow",
+    "Id": 21683,
+    "StateId": 12
+  },
+  {
+    "Key": "Ogun's Lash",
+    "Id": 21684,
+    "StateId": 12
+  },
+  {
+    "Key": "Ogun's Vengeance",
+    "Id": 21685,
+    "StateId": 12
+  },
+  {
+    "Key": "Bul-Kathos' Warden",
+    "Id": 21686,
+    "StateId": 12
+  },
+  {
+    "Key": "Bul-Kathos' Custodian",
+    "Id": 21690,
+    "StateId": 12
+  },
+  {
+    "Key": "Flowkrad's Howl",
+    "Id": 21691,
+    "StateId": 12
+  },
+  {
+    "Key": "Flowkrad's Grin",
+    "Id": 21692,
+    "StateId": 12
+  },
+  {
+    "Key": "Flowkrad's Fur",
+    "Id": 21693,
+    "StateId": 12
+  },
+  {
+    "Key": "Flowkrad's Paws",
+    "Id": 21694,
+    "StateId": 12
+  },
+  {
+    "Key": "Flowkrad's Sinew",
+    "Id": 21695,
+    "StateId": 12
+  },
+  {
+    "Key": "Aldur's Guantlet",
+    "Id": 21699,
+    "StateId": 12
+  },
+  {
+    "Key": "Hwanin's Cordon",
+    "Id": 21715,
+    "StateId": 12
+  },
+  {
+    "Key": "Aragon's Masterpiece",
+    "Id": 21726,
+    "StateId": 12
+  },
+  {
+    "Key": "Aragon's Sunfire",
+    "Id": 21727,
+    "StateId": 12
+  },
+  {
+    "Key": "Aragon's Icy Stare",
+    "Id": 21728,
+    "StateId": 12
+  },
+  {
+    "Key": "Aragon's Storm Cloud",
+    "Id": 21729,
+    "StateId": 12
+  },
+  {
+    "Key": "Willhelm's Pride",
+    "Id": 21732,
+    "StateId": 12
+  },
+  {
+    "Key": "Shakabra's Crux",
+    "Id": 21736,
+    "StateId": 12
+  },
+  {
+    "Key": "Shadow's Touch",
+    "Id": 21738,
+    "StateId": 12
+  },
+  {
+    "Key": "The Prowler",
+    "Id": 21739,
+    "StateId": 12
+  },
+  {
+    "Key": "Mortal Crescent",
+    "Id": 21740,
+    "StateId": 12
+  },
+  {
+    "Key": "Cutthroat",
+    "Id": 21741,
+    "StateId": 12
+  },
+  {
+    "Key": "Sarmichian Justice",
+    "Id": 21742,
+    "StateId": 12
+  },
+  {
+    "Key": "The Harbinger",
+    "Id": 21745,
+    "StateId": 12
+  },
+  {
+    "Key": "Doomseer",
+    "Id": 21746,
+    "StateId": 12
+  },
+  {
+    "Key": "Howling Visage",
+    "Id": 21747,
+    "StateId": 12
+  },
+  {
+    "Key": "Terra",
+    "Id": 21748,
+    "StateId": 12
+  },
+  {
+    "Key": "Syrian",
+    "Id": 21749,
+    "StateId": 12
+  },
+  {
+    "Key": "Malignant",
+    "Id": 21751,
+    "StateId": 12
+  },
+  {
+    "Key": "Apothecary's Tote",
+    "Id": 21752,
+    "StateId": 12
+  },
+  {
+    "Key": "Apocrypha",
+    "Id": 21753,
+    "StateId": 12
+  },
+  {
+    "Key": "Foci of Visjerei",
+    "Id": 21754,
+    "StateId": 12
+  },
+  {
+    "Key": "Aurora's Guard",
+    "Id": 21756,
+    "StateId": 12
+  },
+  {
+    "Key": "Crest of Morn",
+    "Id": 21757,
+    "StateId": 12
+  },
+  {
+    "Key": "Akarat's Protector",
+    "Id": 21759,
+    "StateId": 12
+  },
+  {
+    "Key": "Ancient Eye",
+    "Id": 21760,
+    "StateId": 12
+  },
+  {
+    "Key": "Globe of Visjerei",
+    "Id": 21761,
+    "StateId": 12
+  },
+  {
+    "Key": "Phoenix Egg",
+    "Id": 21763,
+    "StateId": 12
+  },
+  {
+    "Key": "Xenos",
+    "Id": 21764,
+    "StateId": 12
+  },
+  {
+    "Key": "Nagas",
+    "Id": 21765,
+    "StateId": 12
+  },
+  {
+    "Key": "Wyvern's Head",
+    "Id": 21766,
+    "StateId": 12
+  },
+  {
+    "Key": "Sightless Veil",
+    "Id": 21767,
+    "StateId": 12
+  },
+  {
+    "Key": "ChampionFormatX",
+    "Id": 21768,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillPetLife",
+    "Id": 21771,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillWolfDef",
+    "Id": 21772,
+    "StateId": 12
+  },
+  {
+    "Key": "EskillPassiveFeral",
+    "Id": 21773,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillperhit12",
+    "Id": 21774,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillincasehit",
+    "Id": 21775,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillincasemastery",
+    "Id": 21776,
+    "StateId": 12
+  },
+  {
+    "Key": "ModStre10L",
+    "Id": 21783,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa5q62a",
+    "Id": 21791,
+    "StateId": 12
+  },
+  {
+    "Key": "CfgSay7",
+    "Id": 21804,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Colossus",
+    "Id": 21813,
+    "StateId": 12
+  },
+  {
+    "Key": "Sander's Superstition",
+    "Id": 21833,
+    "StateId": 12
+  },
+  {
+    "Key": "Sander's Taboo",
+    "Id": 21834,
+    "StateId": 12
+  },
+  {
+    "Key": "Sander's Basis",
+    "Id": 21835,
+    "StateId": 12
+  },
+  {
+    "Key": "Sander's Derby",
+    "Id": 21836,
+    "StateId": 12
+  },
+  {
+    "Key": "Sander's Court Jester",
+    "Id": 21837,
+    "StateId": 12
+  },
+  {
+    "Key": "Ghost Liberator",
+    "Id": 21838,
+    "StateId": 12
+  },
+  {
+    "Key": "Baal Subject 6",
+    "Id": 21856,
+    "StateId": 12
+  },
+  {
+    "Key": "Baal Subject 6a",
+    "Id": 21857,
+    "StateId": 12
+  },
+  {
+    "Key": "Baal Subject 6b",
+    "Id": 21858,
+    "StateId": 12
+  },
+  {
+    "Key": "ExInsertSockets",
+    "Id": 21874,
+    "StateId": 12
+  },
+  {
+    "Key": "of the Plague",
+    "Id": 21883,
+    "StateId": 12
+  },
+  {
+    "Key": "Go South",
+    "Id": 21884,
+    "StateId": 12
+  },
+  {
+    "Key": "ItemExpcharmdesc",
+    "Id": 21888,
+    "StateId": 12
+  },
+  {
+    "Key": "StrMercEx12",
+    "Id": 21889,
+    "StateId": 12
+  },
+  {
+    "Key": "StrMercEx14",
+    "Id": 21890,
+    "StateId": 12
+  },
+  {
+    "Key": "StrMercEx15",
+    "Id": 21891,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillelementaldmg",
+    "Id": 21892,
+    "StateId": 12
+  },
+  {
+    "Key": "FreezingIzualAss",
+    "Id": 21973,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloSor",
+    "Id": 21975,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloBar",
+    "Id": 21976,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloNec",
+    "Id": 21977,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloPal",
+    "Id": 21978,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloAms",
+    "Id": 21979,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloAss",
+    "Id": 21980,
+    "StateId": 12
+  },
+  {
+    "Key": "KillingdDiabloDru",
+    "Id": 21981,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd222",
+    "Id": 22039,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd223",
+    "Id": 22043,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd225",
+    "Id": 22051,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd226",
+    "Id": 22055,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd227",
+    "Id": 22059,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd228",
+    "Id": 22063,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd229",
+    "Id": 22067,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd230",
+    "Id": 22071,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd231",
+    "Id": 22075,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd232",
+    "Id": 22079,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd233",
+    "Id": 22083,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd234",
+    "Id": 22087,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd235",
+    "Id": 22091,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd236",
+    "Id": 22095,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd237",
+    "Id": 22099,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd238",
+    "Id": 22103,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd239",
+    "Id": 22107,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd240",
+    "Id": 22111,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd241",
+    "Id": 22115,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd242",
+    "Id": 22119,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd243",
+    "Id": 22123,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd244",
+    "Id": 22127,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd245",
+    "Id": 22131,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd246",
+    "Id": 22135,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd247",
+    "Id": 22139,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd248",
+    "Id": 22143,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd249",
+    "Id": 22147,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd250",
+    "Id": 22151,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd251",
+    "Id": 22155,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd252",
+    "Id": 22159,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd253",
+    "Id": 22163,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd254",
+    "Id": 22167,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd255",
+    "Id": 22171,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd256",
+    "Id": 22175,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd257",
+    "Id": 22179,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd258",
+    "Id": 22183,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd259",
+    "Id": 22187,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd260",
+    "Id": 22191,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd261",
+    "Id": 22195,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd262",
+    "Id": 22199,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd263",
+    "Id": 22203,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd264",
+    "Id": 22207,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd265",
+    "Id": 22211,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd266",
+    "Id": 22215,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd267",
+    "Id": 22219,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd268",
+    "Id": 22223,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd269",
+    "Id": 22227,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd270",
+    "Id": 22231,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd271",
+    "Id": 22235,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd272",
+    "Id": 22239,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd273",
+    "Id": 22243,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd274",
+    "Id": 22247,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd275",
+    "Id": 22251,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd276",
+    "Id": 22255,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd277",
+    "Id": 22259,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd278",
+    "Id": 22263,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd279",
+    "Id": 22267,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd280",
+    "Id": 22271,
+    "StateId": 12
+  },
+  {
+    "Key": "Skillsd281",
+    "Id": 22275,
+    "StateId": 12
+  },
+  {
+    "Key": "ESkillStars",
+    "Id": 22280,
+    "StateId": 12
+  },
+  {
+    "Key": "ESkillWolf",
+    "Id": 22281,
+    "StateId": 12
+  },
+  {
+    "Key": "ESkillTimes",
+    "Id": 22284,
+    "StateId": 12
+  },
+  {
+    "Key": "ESkillSpikes2",
+    "Id": 22285,
+    "StateId": 12
+  },
+  {
+    "Key": "ESkillPerKick",
+    "Id": 22286,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillchancetostun",
+    "Id": 22288,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillchancetoafflict",
+    "Id": 22289,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpowerup1",
+    "Id": 22290,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpowerup2",
+    "Id": 22291,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpowerup3",
+    "Id": 22292,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpowerupadd",
+    "Id": 22293,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillsinishup",
+    "Id": 22294,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpudlife",
+    "Id": 22295,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpudburning",
+    "Id": 22297,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpuddgmper",
+    "Id": 22298,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskilllowerresis",
+    "Id": 22299,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskilltomeleeattacks",
+    "Id": 22300,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillferalpets",
+    "Id": 22302,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpercentatt",
+    "Id": 22303,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpercentlif",
+    "Id": 22304,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillpercentdmg",
+    "Id": 22305,
+    "StateId": 12
+  },
+  {
+    "Key": "Eskillmanarecov",
+    "Id": 22307,
+    "StateId": 12
+  },
+  {
+    "Key": "strUI8",
+    "Id": 22323,
+    "StateId": 12
+  },
+  {
+    "Key": "strUI9",
+    "Id": 22324,
+    "StateId": 12
+  },
+  {
+    "Key": "strUI10",
+    "Id": 22325,
+    "StateId": 12
+  },
+  {
+    "Key": "strUI11",
+    "Id": 22326,
+    "StateId": 12
+  },
+  {
+    "Key": "strUI12",
+    "Id": 22327,
+    "StateId": 12
+  },
+  {
+    "Key": "UiRescuedBarUI",
+    "Id": 22331,
+    "StateId": 12
+  },
+  {
+    "Key": "StrUI18",
+    "Id": 22333,
+    "StateId": 12
+  },
+  {
+    "Key": "Spike Generator",
+    "Id": 22334,
+    "StateId": 12
+  },
+  {
+    "Key": "Druid Wolf",
+    "Id": 22340,
+    "StateId": 12
+  },
+  {
+    "Key": "Druid Totem",
+    "Id": 22341,
+    "StateId": 12
+  },
+  {
+    "Key": "Eagleexp",
+    "Id": 22348,
+    "StateId": 12
+  },
+  {
+    "Key": "Siege Door",
+    "Id": 22351,
+    "StateId": 12
+  },
+  {
+    "Key": "Seige Tower",
+    "Id": 22352,
+    "StateId": 12
+  },
+  {
+    "Key": "WailingSpirit",
+    "Id": 22363,
+    "StateId": 12
+  },
+  {
+    "Key": "LifeSeeker",
+    "Id": 22364,
+    "StateId": 12
+  },
+  {
+    "Key": "LifeStealer",
+    "Id": 22365,
+    "StateId": 12
+  },
+  {
+    "Key": "DeathlyVisage",
+    "Id": 22366,
+    "StateId": 12
+  },
+  {
+    "Key": "BoundSpirit",
+    "Id": 22367,
+    "StateId": 12
+  },
+  {
+    "Key": "BanishedSoul",
+    "Id": 22368,
+    "StateId": 12
+  },
+  {
+    "Key": "Deathexp",
+    "Id": 22369,
+    "StateId": 12
+  },
+  {
+    "Key": "MinionGreaterIce/hellSpawnSpawner",
+    "Id": 22405,
+    "StateId": 12
+  },
+  {
+    "Key": "CatapultN",
+    "Id": 22411,
+    "StateId": 12
+  },
+  {
+    "Key": "Catapult Spotter N",
+    "Id": 22425,
+    "StateId": 12
+  },
+  {
+    "Key": "WolfRider5",
+    "Id": 22459,
+    "StateId": 12
+  },
+  {
+    "Key": "WolfRider4",
+    "Id": 22460,
+    "StateId": 12
+  },
+  {
+    "Key": "Ghostly",
+    "Id": 22472,
+    "StateId": 12
+  },
+  {
+    "Key": "Fanatic",
+    "Id": 22473,
+    "StateId": 12
+  },
+  {
+    "Key": "Possessed",
+    "Id": 22474,
+    "StateId": 12
+  },
+  {
+    "Key": "Berserk",
+    "Id": 22475,
+    "StateId": 12
+  },
+  {
+    "Key": "Moe",
+    "Id": 22485,
+    "StateId": 12
+  },
+  {
+    "Key": "Curly",
+    "Id": 22486,
+    "StateId": 12
+  },
+  {
+    "Key": "Larry",
+    "Id": 22487,
+    "StateId": 12
+  },
+  {
+    "Key": "strDruidOnly",
+    "Id": 22505,
+    "StateId": 12
+  },
+  {
+    "Key": "strAssassinOnly",
+    "Id": 22506,
+    "StateId": 12
+  },
+  {
+    "Key": "strAmazonOnly",
+    "Id": 22507,
+    "StateId": 12
+  },
+  {
+    "Key": "strBarbarianOnly",
+    "Id": 22508,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree26",
+    "Id": 22509,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree27",
+    "Id": 22510,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree28",
+    "Id": 22511,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree29",
+    "Id": 22512,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree30",
+    "Id": 22513,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree31",
+    "Id": 22514,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree32",
+    "Id": 22515,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree33",
+    "Id": 22516,
+    "StateId": 12
+  },
+  {
+    "Key": "StrSklTree34",
+    "Id": 22517,
+    "StateId": 12
+  },
+  {
+    "Key": "chestr",
+    "Id": 22520,
+    "StateId": 12
+  },
+  {
+    "Key": "flag widlerness",
+    "Id": 22535,
+    "StateId": 12
+  },
+  {
+    "Key": "jar",
+    "Id": 22538,
+    "StateId": 12
+  },
+  {
+    "Key": "animatedskullsandrocks",
+    "Id": 22543,
+    "StateId": 12
+  },
+  {
+    "Key": "banner1",
+    "Id": 22546,
+    "StateId": 12
+  },
+  {
+    "Key": "banner2",
+    "Id": 22547,
+    "StateId": 12
+  },
+  {
+    "Key": "deadbarbarian18",
+    "Id": 22565,
+    "StateId": 12
+  },
+  {
+    "Key": "uncle f#%* comedy central(c)",
+    "Id": 22566,
+    "StateId": 12
+  },
+  {
+    "Key": "secret object",
+    "Id": 22574,
+    "StateId": 12
+  },
+  {
+    "Key": "explodingbarrel",
+    "Id": 22589,
+    "StateId": 12
+  },
+  {
+    "Key": "mrjar",
+    "Id": 22597,
+    "StateId": 12
+  },
+  {
+    "Key": "qstsa5q61",
+    "Id": 22642,
+    "StateId": 12
+  },
+  {
+    "Key": "Halls of Tormented Insanity",
+    "Id": 22661,
+    "StateId": 12
+  },
+  {
+    "Key": "To The Halls of Tormented Insanity",
+    "Id": 22683,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredismiss",
+    "Id": 22692,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredismisshire",
+    "Id": 22693,
+    "StateId": 12
+  },
+  {
+    "Key": "hirerehire",
+    "Id": 22694,
+    "StateId": 12
+  },
+  {
+    "Key": "hireresurrect",
+    "Id": 22695,
+    "StateId": 12
+  },
+  {
+    "Key": "hirechat3",
+    "Id": 22699,
+    "StateId": 12
+  },
+  {
+    "Key": "hirepraise1",
+    "Id": 22700,
+    "StateId": 12
+  },
+  {
+    "Key": "hirepraise2",
+    "Id": 22701,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger1",
+    "Id": 22702,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger2",
+    "Id": 22703,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger3",
+    "Id": 22704,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger4",
+    "Id": 22705,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger5",
+    "Id": 22706,
+    "StateId": 12
+  },
+  {
+    "Key": "hiredanger6",
+    "Id": 22707,
+    "StateId": 12
+  },
+  {
+    "Key": "hirefeelstronger2",
+    "Id": 22708,
+    "StateId": 12
+  },
+  {
+    "Key": "hirehelp1",
+    "Id": 22709,
+    "StateId": 12
+  },
+  {
+    "Key": "hirehelp2",
+    "Id": 22710,
+    "StateId": 12
+  },
+  {
+    "Key": "hirehelp3",
+    "Id": 22711,
+    "StateId": 12
+  },
+  {
+    "Key": "hirehelp4",
+    "Id": 22712,
+    "StateId": 12
+  },
+  {
+    "Key": "hiregreets1",
+    "Id": 22713,
+    "StateId": 12
+  },
+  {
+    "Key": "hiregreets2",
+    "Id": 22714,
+    "StateId": 12
+  },
+  {
+    "Key": "hiregreets3",
+    "Id": 22715,
+    "StateId": 12
+  },
+  {
+    "Key": "hiregreets4",
+    "Id": 22716,
+    "StateId": 12
+  },
+  {
+    "Key": "MiniPanelHire",
+    "Id": 22729,
+    "StateId": 12
+  },
+  {
+    "Key": "strexdpansionconvert2",
+    "Id": 22733,
+    "StateId": 12
+  },
+  {
+    "Key": "Go North",
+    "Id": 22737,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectexpandNew",
+    "Id": 22739,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectexpandOpen",
+    "Id": 22740,
+    "StateId": 12
+  },
+  {
+    "Key": "strLaunchCharSelectexpandRealm",
+    "Id": 22741,
+    "StateId": 12
+  },
+  {
+    "Key": "strlaunchconverttoexp",
+    "Id": 22742,
+    "StateId": 12
+  },
+  {
+    "Key": "strlaunchcreatenewcharexp",
+    "Id": 22743,
+    "StateId": 12
+  },
+  {
+    "Key": "strlaunchdeletecharexp",
+    "Id": 22744,
+    "StateId": 12
+  },
+  {
+    "Key": "EnteringTheDenOfEvilPostQuest",
+    "Id": 22773,
+    "StateId": 12
+  }
+]

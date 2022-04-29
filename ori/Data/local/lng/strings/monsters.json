@@ -48,7 +48,7 @@
     "jaJP": "鎧職人へファスト",
     "ptBR": "Hefasto, o Armoreiro",
     "ruRU": "Гефасто Оружейник",
-    "zhCN": "铸甲师海法斯托"
+    "zhCN": "铸甲师赫法斯托"
   },
   {
     "id": 1068,
@@ -4855,7 +4855,7 @@
     "itIT": "Lupo di Ferro",
     "koKR": "강철늑대단원",
     "plPL": "Żelazny Wilk",
-    "esMX": "Lobo férreo",
+    "esMX": "Lobo de Hierro",
     "jaJP": "鉄狼団",
     "ptBR": "Lobo de Ferro",
     "ruRU": "Стальной Волк",
@@ -5800,7 +5800,7 @@
     "id": 3209,
     "Key": "uniquefireenchanted",
     "enUS": "Fire Enchanted",
-    "zhTW": "ÿc1火焰強化",
+    "zhTW": "火焰強化",
     "deDE": "Feuerverzauberung",
     "esES": "Encantamiento de fuego",
     "frFR": "Enchanté par le feu",
@@ -5811,13 +5811,13 @@
     "jaJP": "火炎強化",
     "ptBR": "Encantamento Ígneo",
     "ruRU": "Чары огня",
-    "zhCN": "ÿc1火焰强化"
+    "zhCN": "火焰强化"
   },
   {
     "id": 3210,
     "Key": "monsteruniqueprop1",
     "enUS": "Cold Enchanted",
-    "zhTW": "ÿc3冰寒強化",
+    "zhTW": "冰寒強化",
     "deDE": "Kälteverzauberung",
     "esES": "Encantamiento de frío",
     "frFR": "Enchanté par le froid",
@@ -5828,13 +5828,13 @@
     "jaJP": "冷気強化",
     "ptBR": "Encantamento Gélido",
     "ruRU": "Чары льда",
-    "zhCN": "ÿc3冰霜强化"
+    "zhCN": "冰霜强化"
   },
   {
     "id": 3211,
     "Key": "monsteruniqueprop2",
     "enUS": "Lightning Enchanted",
-    "zhTW": "ÿc9電擊強化",
+    "zhTW": "電擊強化",
     "deDE": "Blitzverzauberung",
     "esES": "Encantamiento de rayos",
     "frFR": "Enchanté par la foudre",
@@ -5845,7 +5845,7 @@
     "jaJP": "電撃強化",
     "ptBR": "Encantamento Elétrico",
     "ruRU": "Чары молнии",
-    "zhCN": "ÿc9闪电强化"
+    "zhCN": "闪电强化"
   },
   {
     "id": 3212,
@@ -6144,7 +6144,7 @@
     "deDE": "Teufel",
     "esES": "Maligno",
     "frFR": "Fiel",
-    "itIT": "Demoniaco",
+    "itIT": "del Demonio",
     "koKR": "마귀",
     "plPL": "[fs]Biesowa[ms]Biesowy[nl]Biesowe",
     "esMX": "[ms]diablesco[fs]diablesca[mp]diablescos[fp]diablescas",
@@ -6161,7 +6161,7 @@
     "deDE": "Gespenst",
     "esES": "Ánima",
     "frFR": "Spectre",
-    "itIT": "Spettrale",
+    "itIT": "dello Spettro",
     "koKR": "망령",
     "plPL": "[fs]Upiorna[ms]Upiorny[nl]Upiorne",
     "esMX": "[ms]de ánima[fs]de ánima[mp]de ánima[fp]de ánima",
@@ -6378,7 +6378,7 @@
     "id": 21859,
     "Key": "Baal Crab Clone",
     "enUS": "Baal",
-    "zhTW": "複製巴爾",
+    "zhTW": "巴爾",
     "deDE": "Baal",
     "esES": "Baal",
     "frFR": "Baal",
@@ -6389,7 +6389,7 @@
     "jaJP": "バール",
     "ptBR": "Baal",
     "ruRU": "Баал",
-    "zhCN": "克隆巴尔"
+    "zhCN": "巴尔"
   },
   {
     "id": 21860,

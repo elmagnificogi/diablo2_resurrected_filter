@@ -47,7 +47,7 @@
     "esMX": "Runa Shael",
     "jaJP": "シャエル・ルーン",
     "ptBR": "Runa Shael",
-    "ruRU": "Руна Шаэл",
+    "ruRU": "Руна Шаэль",
     "zhCN": "沙伊符文"
   },
   {
@@ -625,7 +625,7 @@
     "esMX": "Runa El",
     "jaJP": "エル・ルーン",
     "ptBR": "Runa El",
-    "ruRU": "Руна Эл",
+    "ruRU": "Руна Эль",
     "zhCN": "艾尔符文"
   },
   {
@@ -812,7 +812,7 @@
     "esMX": "Um",
     "jaJP": "アム",
     "ptBR": "Um",
-    "ruRU": "Ом",
+    "ruRU": "Ум",
     "zhCN": "乌姆"
   },
   {
@@ -1033,7 +1033,7 @@
     "esMX": "Tal",
     "jaJP": "タル",
     "ptBR": "Tal",
-    "ruRU": "Тхаль",
+    "ruRU": "Тал",
     "zhCN": "塔尔"
   },
   {
@@ -1805,7 +1805,7 @@
     "id": 20546,
     "Key": "Runeword40",
     "enUS": "Flickering Flame",
-    "zhTW": "搖曳焰火",
+    "zhTW": "閃爍火焰",
     "deDE": "Flamme",
     "esES": "Llama trémula",
     "frFR": "Flamme vacillante",
@@ -2247,7 +2247,7 @@
     "id": 20572,
     "Key": "Runeword66",
     "enUS": "Kingslayer",
-    "zhTW": "拭王者",
+    "zhTW": "弒王者",
     "deDE": "Königsmord",
     "esES": "Regicida",
     "frFR": "Régicide",
@@ -2706,7 +2706,7 @@
     "id": 20599,
     "Key": "Runeword94",
     "enUS": "Obsession",
-    "zhTW": "著魔",
+    "zhTW": "執念",
     "deDE": "Besessenheit",
     "esES": "Obsesión",
     "frFR": "Obsession",
@@ -2757,7 +2757,7 @@
     "id": 20602,
     "Key": "Runeword97",
     "enUS": "Pattern",
-    "zhTW": "樣式",
+    "zhTW": "圖紋",
     "deDE": "Prasseln",
     "esES": "Patrón",
     "frFR": "Patron",
@@ -3675,7 +3675,7 @@
     "id": 20656,
     "Key": "Runeword151",
     "enUS": "Unbending Will",
-    "zhTW": "堅定意志",
+    "zhTW": "不屈意志",
     "deDE": "Unbeugsamer Wille",
     "esES": "Voluntad de hierro",
     "frFR": "Volonté inébranlable",
@@ -3683,7 +3683,7 @@
     "koKR": "불굴의 의지",
     "plPL": "Nieugięta Wola",
     "esMX": "Voluntad inflexible",
-    "jaJP": "不屈の意志",
+    "jaJP": "恒心",
     "ptBR": "Determinação",
     "ruRU": "Непреклонность",
     "zhCN": "不屈之志"
