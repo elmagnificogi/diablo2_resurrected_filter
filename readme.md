@@ -24,6 +24,14 @@ More questions just submit issue or mail me.
 
 
 
+#### MapAssist 过滤器
+
+主要是用来修改MapAssist的掉落过滤文件的，GUI的版本，比手动改yaml强一些，目前功能还不完善，但是基本可用
+
+> https://github.com/elmagnificogi/MA_Filter
+
+
+
 # 显示mod使用说明
 
 目前开荒、中期、大佬三种不同场景使用的mod已经发布，具体看使用说明
