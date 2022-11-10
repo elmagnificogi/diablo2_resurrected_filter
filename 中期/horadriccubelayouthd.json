@@ -1,0 +1,62 @@
+{
+    "type": "HoradricCubePanel", "name": "HoradricCubeLayout",
+    "fields": {
+        "priority": 10,
+        "anchor": { "x": 1.0, "y": 0.397 },
+        "rect": { "x": 236, "y": -651, "width": 2200, "height": 1507 },
+    },
+    "children": [
+
+        {
+            "type": "ImageWidget", "name": "cubingarea",
+            "fields": {
+                "anchor": { "x": -0.9650, "y": 0.5302},
+                "rect": { "x": 198, "y": 65 },  
+                "filename": "Controller/Panel/HoradricCube/V2/CubeArea"
+            },
+                "children": [
+                    {
+                    "type": "ClickCatcherWidget", "name": "click_catcher",
+                    "fields": {
+                        "rect": { "x": 0, "y": 0, "width": 377, "height": 484 },
+                        }
+                    },
+                ]
+        },
+        {
+            "type": "InventoryGridWidget", "name": "grid",
+            "fields": {
+                        "anchor": { "x": -0.9218, "y": 0.5939},
+                        "rect": { "x": 144, "y": 4 },  
+                        "cellCount": { "x": 3, "y": 4 },
+                        "cellSize": "$ItemCellSize",
+                        "gemSocketFilename": "PANEL\\gemsocket",
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "convert",
+            "fields": {
+                "anchor": { "x": -0.8809, "y": 0.8806}, 
+                "rect": { "x": 387, "y": -12 },  
+                "filename": "PANEL\\Horadric_Cube\\TransmuteButton",
+                "tooltipString": "@strUiMenu2",
+                "hoveredFrame": 2,
+                "onClickMessage": "HoradricCubePanelMessage:Convert",
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "MessagePanel",
+            "fields": {
+                
+                  "rect": { "x": -1330, "y": 1350 }, 
+                "filename": "PANEL\\Character_Sheet\\AdvancedStatsButton",
+                "hoveredFrame": 3,
+                "onClickMessage": "PanelManager:OpenPanel:BankExpansionLayout",
+                "pressLabelOffset": { "x": 0, "y": 2 },
+                "tooltipString": "一键仓库"
+            },
+        },
+		
+        
+    ]
+}

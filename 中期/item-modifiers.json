@@ -5816,18 +5816,18 @@
   {
     "id": 27351,
     "Key": "ModStr2uPercentNegative",
-    "enUS": "Damage Increased by %d%%",
-    "zhTW": "傷害提高 %d%%",
-    "deDE": "Schaden um %d%% erhöht",
-    "esES": "Daño aumentado un %d%%",
-    "frFR": "Dégâts augmentés de %d%%",
-    "itIT": "Danni aumentati del %d%%",
-    "koKR": "피해 %d%% 증가",
-    "plPL": "Obrażenia zwiększone o %d%%",
-    "esMX": "Se aumentó el daño un %d%%",
-    "jaJP": "物理ダメージ%d%%増加",
-    "ptBR": "Dano aumentado em %d%%",
-    "ruRU": "Наносимый урон увеличен на %d%%",
-    "zhCN": "伤害提高 %d%%"
+    "enUS": "Physical Damage Received Increased by %d%%",
+    "zhTW": "受到的傷害提高 %d%%",
+    "deDE": "Erlittener Schaden um %d%% erhöht",
+    "esES": "Daño sufrido aumentado un %d%%",
+    "frFR": "Dégâts subis augmentés de %d%%",
+    "itIT": "Danni ricevuti aumentati del %d%%",
+    "koKR": "받는 물리 피해 %d%% 증가",
+    "plPL": "Otrzymane obrażenia są zwiększone o %d%%",
+    "esMX": "El daño recibido aumenta un %d%%",
+    "jaJP": "受ける物理ダメージ%d%%増加",
+    "ptBR": "Dano recebido aumentado em %d%%",
+    "ruRU": "Получаемый урон увеличен на %d%%",
+    "zhCN": "受到的物理伤害提高 %d%%"
   }
 ]
